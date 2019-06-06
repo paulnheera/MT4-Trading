@@ -16,9 +16,10 @@ arima_trading_strategy <- function(ts,lookback){
   
   model = auto.arima(ts)
   pred = forecast(model,1) # Forecast one step ahead.
+  pred = as.numeric(pred$mean)
   
   # Criteria:
-  ret_mean = (pred/last(ts))-1
+  ret_mean = (pred/tail(ts,1))-1
   
   # Signal:
   signal <- ifelse(ret_mean >0,1,-1)
