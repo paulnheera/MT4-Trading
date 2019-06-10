@@ -43,14 +43,14 @@ void getHistoricalData(){
    int back = 2000;
    //string Symbol = Symbol();
    
-   ArrayResize(prices, back);
-   ArrayResize(times, back);
+   ArrayResize(prices, back-1);
+   ArrayResize(times, back-1);
    
    // Fill the prices array: Start with previous bar (not current).
-    for (int i=0; i<back; i++){
+    for (int i=1; i<back; i++){
       ishift = iBarShift(Symbol(),0, Time[i]);
-      prices[i] = iClose(Symbol(), 0, ishift);
-      times[i] = TimeToStr(iTime(Symbol(),0,ishift),TIME_DATE|TIME_MINUTES);
+      prices[i-1] = iClose(Symbol(), 0, ishift);
+      times[i-1] = TimeToStr(iTime(Symbol(),0,ishift),TIME_DATE|TIME_MINUTES);
     }
     
     // Then copy it over to R:
