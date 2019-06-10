@@ -100,13 +100,13 @@ void CheckForOpen()
    //if(Volume[0]>1) return;
 
 //--- sell conditions
-   if(signal=-1)
+   if(signal==-1)
      {
       res=OrderSend(Symbol(),OP_SELL,0.01,Bid,3,0,0,"",MAGICMA,0,Red);
       return;
      }
 //--- buy conditions
-   if(signal=1)
+   if(signal==1)
      {
       res=OrderSend(Symbol(),OP_BUY,0.01,Ask,3,0,0,"",MAGICMA,0,Blue);
       return;
@@ -159,6 +159,8 @@ void OnTick()
       getHistoricalData();
       
       Rx("saveRDS(prices,'C:/Users/Paul Nheera/repos/MT4-Trading/data/prices.rds')");
+      Rx("saveRDS(times,'C:/Users/Paul Nheera/repos/MT4-Trading/data/times.rds')");
+      
       Rx("signal = arima_trading_strategy(rev(prices),40)");
       signal = Rgi("signal");
       position = CalculateCurrentOrders(Symbol());
