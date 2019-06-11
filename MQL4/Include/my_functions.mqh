@@ -61,7 +61,7 @@ void getHistoricalData(){
     
     Rx("times = as.character(times)");
     // Convert vector to time series:
-    Rx("ts <- xts(rev(prices),order.by=rev(as.Date(times,'%Y.%m.%d %H:%M')))");
+    Rx("ts <- xts(rev(prices),order.by=rev(as.POSIXct(times,tryFormats ='%Y.%m.%d %H:%M')))");
     Rx("colnames(ts) = 'EURUSD'");
     
     // Get timezone from MT4/Server.
