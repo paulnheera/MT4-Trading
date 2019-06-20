@@ -124,6 +124,10 @@ int OnInit()
    StartR(RPATH, RDEBUG);
    Rx("options(device='windows')");
    
+   // Check current positions:
+   position = CalculateCurrentOrders(Symbol());
+   Print("Current postion: " + position);  
+   
    // Load required libaries in R:
    //Rx("library(forecast); library(quantmod)");
    
