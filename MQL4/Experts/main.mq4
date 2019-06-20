@@ -74,16 +74,24 @@ void CheckForClose()
       if(OrderType()==OP_BUY)
         {
            
-         if(!OrderClose(OrderTicket(),OrderLots(),Bid,3,White))
+         if(!OrderClose(OrderTicket(),OrderLots(),Bid,3,White)){
             Print("OrderClose error ",GetLastError());
+         }
+         else{
+            Print("Order closed!");
+         }
            
          break;
         }
       if(OrderType()==OP_SELL)
         {
-            if(!OrderClose(OrderTicket(),OrderLots(),Ask,3,White))
+            if(!OrderClose(OrderTicket(),OrderLots(),Ask,3,White)){
                Print("OrderClose error ",GetLastError());
-               
+            }
+            else{
+               Print("Order closed!");
+            } 
+             
          break;
         }
      }
@@ -171,28 +179,21 @@ void OnTick()
       
       Rx("plot(rev(prices),type='l')");
       
+      Print("Signal is: ",signal);
       
-      if(signal == 1 & position != -1){
-      // Switch to long postion:
-         
-         // Close short position:
-         CheckForClose();
-         
-         // Open long position:
-         CheckForOpen();
-         
-         
+      if(signal != position){
+      
+      // Close trade:
+      CheckForClose();
+      
+      // Open new trade:
+      CheckForOpen();
+      
       }
-      else if(signal == -1 & position != 1){
-         // Switch to short position:
-         
-         // Close long position:
-         CheckForClose();
-         
-         // Open short position:
-         CheckForOpen();
-         
+      else{
+         // Keep existing position.
       }
+      
       
    }
    
