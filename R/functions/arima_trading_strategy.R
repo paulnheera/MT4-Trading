@@ -1,29 +1,44 @@
-#
+#*************************
 # ARIMA Trading Strategy:
-#
+#*************************
 
-#
-# Generates a signal from the ARIMA trading strategy
-#
+
+# Run the arima strategy and returns: signals and strategy returns
+
 
 # Load Libraries: ----
 library(forecast)
 library(quantmod)
 
-arima_trading_strategy <- function(ts,lookback){
+# Backtest Function: ----
+runBacktest <- function(prices,look_back=40){
   
-  ts <- tail(ts,lookback)
+  returns <- ROC(prices,type='discrete')
   
-  model = auto.arima(ts)
-  pred = forecast(model,1) # Forecast one step ahead.
-  pred = as.numeric(pred$mean)
+  signals <- returns; signals[,] =NA
   
-  # Criteria:
-  ret_mean = (pred/tail(ts,1))-1
+  for(i in look_back:length(signals)){
+    
+    # Fit model:
+    temp_model = auto.arima(prices[(i-look_back+1):i])
+    
+    # Predict 1 step:
+    pred = forecast(temp_model,1)
+    
+    prev = prices[i] 
+    
+    ret_mean = (pred$mean[1]/prev - 1)
+    
+    if(ret_mean >= 0) signals[i] = 1 else signals[i] = -1
+    
+    #ret_low = s$lower[2]/prev -1
+    #ret_high =  s$upper[2]/prev -1
+    
+  }
   
-  # Signal:
-  signal <- ifelse(ret_mean >0,1,-1)
+  # Strategy Returns:
+  strategy_returns = lag(signals) * returns
   
-  return(signal)
+  return(list(signals = signals,strategy_returns = strategy_returns))
   
 }
