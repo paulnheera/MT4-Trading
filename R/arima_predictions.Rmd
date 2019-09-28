@@ -1,0 +1,135 @@
+---
+title: "ARIMA - Model Predictions"
+author: "Paul Nheera"
+date: "23 July 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "..")
+getwd()
+```
+
+```{r}
+library(quantmod)
+library(dplyr)
+library(ggplot2)
+
+source('R/functions/run_predictions.R')
+```
+
+```{r}
+# Load Data:
+ts <- readRDS('data/EURUSD1440.rds')
+
+# Data to df:
+df <- data.frame(Time = index(ts),ts)
+colnames(df) <- c('Time','Close')
+head(df)
+```
+
+```{r}
+df <- df %>% 
+  mutate(Diff = c(NA,diff(Close))) %>% 
+  mutate(Direction = ifelse(Diff >0,1,-1))
+
+head(df)
+```
+
+
+```{r}
+ggplot(df,aes(Diff))+
+  geom_histogram(bins = 100)
+```
+
+
+```{r}
+ggplot(df,aes(x=Time,y=Diff))+
+  geom_line()
+```
+
+```{r}
+ggplot(df,aes(Direction))+
+  geom_bar(stat='count')
+```
+
+```{r}
+df <- df %>% 
+  mutate(Pred_naive = -1)
+
+head(df)
+```
+
+```{r}
+c_m <- table(df %>% select(Pred_naive,Direction))
+
+bs_acc <- diag(c_m)/sum(c_m)
+```
+
+Baseline Accuracy: **`r bs_acc`**
+
+
+#### ARIMA - Predictions:
+
+```{r}
+pred <- runPredictions(diff(ts))
+```
+
+```{r}
+df_pred <- data.frame(Time=index(pred),pred)
+colnames(df_pred) <- c('Time','Pred_arima')
+head(df_pred)
+```
+
+```{r}
+df <- df %>% 
+  left_join(df_pred,by='Time')
+
+tail(df)
+```
+
+
+```{r}
+df <- df %>% 
+  mutate(Pred_Dir = ifelse(Pred_arima > 0,1,-1))
+
+head(df)
+```
+
+```{r}
+df <- df %>% 
+  filter(!is.na(Pred_Dir))
+
+head(df)
+```
+
+```{r}
+tbl2 <- table(df %>% select(Direction,Pred_Dir))
+
+sum(diag(tbl2))/sum(tbl2)
+```
+
+
+```{r}
+threshold = 0.0003
+
+df <- df %>% 
+  mutate(Pred_Dir = ifelse(Pred_arima > threshold,1,
+                           ifelse(Pred_arima < -threshold,-1,0)))
+
+head(df)
+```
+```{r}
+df <- df %>% 
+  filter(!is.na(Pred_Dir)) %>% 
+  filter(Pred_Dir != 0)
+
+head(df)
+```
+
+```{r}
+tbl3 <- table(df %>% select(Direction,Pred_Dir))
+
+sum(diag(tbl3))/sum(tbl3)
+```
