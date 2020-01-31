@@ -3,4 +3,10 @@
 .RData
 .Ruserdata
 .hst
+data/
+DebugViewPortable/
+MT4-Demo/
+MT4-Real/
+
+
 
