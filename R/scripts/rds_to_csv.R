@@ -3,7 +3,7 @@
 library(quantmod)
 library(readr)
 
-file <- "EURUSD60.rds"
+file <- "USDJPY60.rds"
 
 # Load RDS data:
 ts <- readRDS(file.path("data",file))
