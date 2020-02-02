@@ -9,9 +9,16 @@ import numpy as np
 import pandas as pd
 from scipy.signal import argrelextrema
 import matplotlib.pyplot as plt
+
 #%matplotlib inline
 import os
 import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.image import MIMEImage
+
+# Turn interactive plotting off
+plt.ioff()
 
 # Set Working Directory
 path = "C:/Users/paul/repos/MT4-Trading"
@@ -39,7 +46,7 @@ def scan_retracements(price):
         if(res == 1):
             plt.plot(np.arange(start,i+6),price.values[start:i+6])
             plt.plot(current_idx,current_pat,c="r")
-            plt.show()
+    #        plt.show()
             plt.savefig('chart1')
         
 # Function to check for any retracements
@@ -92,11 +99,12 @@ for p in csv_files:
         
         # Print and plot the retracement
         print("There is a trade setup:")
-#        plt.plot(price)
-#        plt.plot(last_idx,last_pts,color='red')
-#        plt.title(p.replace(".csv",""))
+        plt.plot(price)
+        plt.plot(last_idx,last_pts,color='red')
+        plt.title(p.replace(".csv",""))
 #        plt.show()
-#        plt.savefig('Chart1')
+        plt.savefig('Chart1')
+        plt.clf() # Clear Figure
         
         # Send Email: ---------------------------------------------------------
         gmail_user = "paul.nheera.dev@gmail.com"
@@ -108,11 +116,40 @@ for p in csv_files:
         body = "There is a retracement on " + p.replace(".csv","")
         message = 'Subject: {}\n\n{}'.format(subject, body)
         
+        
+        # Create the root message and fill in the from, to, and subject headers
+        msgRoot = MIMEMultipart('related')
+        msgRoot['Subject'] = subject
+        msgRoot['From'] = gmail_user
+        msgRoot['To'] = gmail_user
+        msgRoot.preamble = 'This is a multi-part message in MIME format.'
+        
+        # Encapsulate the plain and HTML versions of the message body in an
+        # 'alternative' part, so message agents can decide which they want to display.
+        msgAlternative = MIMEMultipart('alternative')
+        msgRoot.attach(msgAlternative)
+        
+        msgText = MIMEText('This is the alternative plain text message.')
+        msgAlternative.attach(msgText)
+        
+        # We reference the image in the IMG SRC attribute by the ID we give it below
+        msgText = MIMEText('<b> ' + body + '</b> <br><img src="cid:image1"><br>', 'html')
+        msgAlternative.attach(msgText)
+        
+        # This example assumes the image is in the current directory
+        fp = open('chart1.png', 'rb')
+        msgImage = MIMEImage(fp.read())
+        fp.close()
+        
+        # Define the image's ID as referenced above
+        msgImage.add_header('Content-ID', '<image1>')
+        msgRoot.attach(msgImage)
+        
         try:
             server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
             server.ehlo()
             server.login(gmail_user, gmail_password)
-            server.sendmail(sent_from, to, message)
+            server.sendmail(sent_from, to, msgRoot.as_string())
             server.close()
         
             print ('Email sent!')
