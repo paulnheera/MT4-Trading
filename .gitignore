@@ -3,10 +3,14 @@
 .RData
 .Ruserdata
 .hst
+.spyderproject
+.spyproject
 data/
 DebugViewPortable/
 MT4-Demo/
 MT4-Real/
+.spyproject/workspace.ini
+
 
 
 
