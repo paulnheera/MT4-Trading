@@ -24,6 +24,10 @@ plt.ioff()
 path = "C:/Users/paul/repos/MT4-Trading"
 os.chdir(path)
 
+# Import Config File:
+config = pd.read_csv('Python/config.csv',sep=";")
+config = config.to_dict()
+
 # Import User Defined Libraries
 #from Python.harmonic_functions import peak_detect2
 #from Python.harmonic_functions import is_three_steps
@@ -107,8 +111,8 @@ for p in csv_files:
         plt.clf() # Clear Figure
         
         # Send Email: ---------------------------------------------------------
-        gmail_user = "paul.nheera.dev@gmail.com"
-        gmail_password = "Mhofuu@27"
+        gmail_user = config['email'][0]
+        gmail_password = config['password'][0]
         
         sent_from = gmail_user
         to = [gmail_user]
