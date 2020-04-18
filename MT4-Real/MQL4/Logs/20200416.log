@@ -1,0 +1,2683 @@
+0	00:05:04.531	get_historical _data EURUSD,H1: Inside function
+0	00:05:04.834	get_historical _data EURUSD,H1: Data Download Done!
+0	00:05:04.835	get_historical _data EURUSD,H1: Inside function
+0	00:05:04.899	get_historical _data GBPUSD,H1: Inside function
+0	00:05:05.110	get_historical _data EURUSD,H1: Data Download Done!
+0	00:05:05.112	get_historical _data EURUSD,H1: Inside function
+0	00:05:05.198	get_historical _data GBPUSD,H1: Data Download Done!
+0	00:05:05.200	get_historical _data GBPUSD,H1: Inside function
+0	00:05:05.385	get_historical _data EURUSD,H1: Data Download Done!
+0	00:05:05.386	get_historical _data EURUSD,H1: Inside function
+0	00:05:05.431	get_historical _data USDCHF,H1: Inside function
+0	00:05:05.556	get_historical _data GBPUSD,H1: Data Download Done!
+0	00:05:05.556	get_historical _data GBPUSD,H1: Inside function
+0	00:05:05.686	get_historical _data EURUSD,H1: Data Download Done!
+0	00:05:05.810	get_historical _data USDCHF,H1: Data Download Done!
+0	00:05:05.814	get_historical _data USDCHF,H1: Inside function
+0	00:05:05.882	get_historical _data GBPUSD,H1: Data Download Done!
+0	00:05:05.883	get_historical _data GBPUSD,H1: Inside function
+0	00:05:06.071	get_historical _data USDCHF,H1: Data Download Done!
+0	00:05:06.072	get_historical _data USDCHF,H1: Inside function
+0	00:05:06.329	get_historical _data GBPUSD,H1: Data Download Done!
+0	00:05:06.377	get_historical _data USDCHF,H1: Data Download Done!
+0	00:05:06.378	get_historical _data USDCHF,H1: Inside function
+0	00:05:06.834	get_historical _data USDCHF,H1: Data Download Done!
+0	00:05:11.456	get_historical _data USDCAD,H1: Inside function
+0	00:05:11.785	get_historical _data USDCAD,H1: Data Download Done!
+0	00:05:11.787	get_historical _data USDCAD,H1: Inside function
+0	00:05:12.093	get_historical _data USDCAD,H1: Data Download Done!
+0	00:05:12.094	get_historical _data USDCAD,H1: Inside function
+0	00:05:12.559	get_historical _data USDCAD,H1: Data Download Done!
+0	00:05:12.560	get_historical _data USDCAD,H1: Inside function
+0	00:05:12.806	get_historical _data USDCAD,H1: Data Download Done!
+0	01:05:00.510	get_historical _data USDCAD,H1: Inside function
+0	01:05:00.837	get_historical _data USDCAD,H1: Data Download Done!
+0	01:05:00.838	get_historical _data USDCAD,H1: Inside function
+0	01:05:01.090	get_historical _data USDCAD,H1: Data Download Done!
+0	01:05:01.092	get_historical _data USDCAD,H1: Inside function
+0	01:05:01.685	get_historical _data USDCAD,H1: Data Download Done!
+0	01:05:01.687	get_historical _data USDCAD,H1: Inside function
+0	01:05:02.141	get_historical _data USDCAD,H1: Data Download Done!
+0	01:05:04.343	get_historical _data EURUSD,H1: Inside function
+0	01:05:04.666	get_historical _data EURUSD,H1: Data Download Done!
+0	01:05:04.667	get_historical _data EURUSD,H1: Inside function
+0	01:05:04.927	get_historical _data EURUSD,H1: Data Download Done!
+0	01:05:04.928	get_historical _data EURUSD,H1: Inside function
+0	01:05:05.139	get_historical _data EURUSD,H1: Data Download Done!
+0	01:05:05.140	get_historical _data EURUSD,H1: Inside function
+0	01:05:05.349	get_historical _data EURUSD,H1: Data Download Done!
+0	01:05:09.263	get_historical _data USDCHF,H1: Inside function
+0	01:05:09.664	get_historical _data USDCHF,H1: Data Download Done!
+0	01:05:09.666	get_historical _data USDCHF,H1: Inside function
+0	01:05:09.895	get_historical _data USDCHF,H1: Data Download Done!
+0	01:05:09.897	get_historical _data USDCHF,H1: Inside function
+0	01:05:10.215	get_historical _data USDCHF,H1: Data Download Done!
+0	01:05:10.216	get_historical _data USDCHF,H1: Inside function
+0	01:05:10.466	get_historical _data USDCHF,H1: Data Download Done!
+0	01:08:05.391	get_historical _data GBPUSD,H1: Inside function
+0	01:08:05.827	get_historical _data GBPUSD,H1: Data Download Done!
+0	01:08:05.828	get_historical _data GBPUSD,H1: Inside function
+0	01:08:06.192	get_historical _data GBPUSD,H1: Data Download Done!
+0	01:08:06.194	get_historical _data GBPUSD,H1: Inside function
+0	01:08:06.477	get_historical _data GBPUSD,H1: Data Download Done!
+0	01:08:06.479	get_historical _data GBPUSD,H1: Inside function
+0	01:08:06.784	get_historical _data GBPUSD,H1: Data Download Done!
+0	02:00:00.558	get_historical _data EURUSD,H1: Inside function
+0	02:00:00.558	get_historical _data EURUSD,H4: Inside function
+0	02:00:00.617	get_historical _data GBPUSD,H1: Inside function
+0	02:00:00.620	get_historical _data GBPUSD,H4: Inside function
+0	02:00:00.640	get_historical _data USDCHF,H1: Inside function
+0	02:00:00.646	get_historical _data USDCHF,H4: Inside function
+0	02:00:00.856	get_historical _data AUDUSD,H4: Inside function
+0	02:00:00.856	get_historical _data AUDUSD,H4: Inside function
+0	02:00:00.891	get_historical _data USDJPY,H4: Inside function
+0	02:00:01.130	get_historical _data NZDUSD,H4: Inside function
+0	02:00:01.130	get_historical _data USDCAD,H4: Inside function
+0	02:00:01.130	get_historical _data USDCAD,H1: Inside function
+0	02:00:01.907	get_historical _data EURUSD,H4: Data Download Done!
+0	02:00:01.907	get_historical _data GBPUSD,H4: Data Download Done!
+0	02:00:01.909	get_historical _data GBPUSD,H4: Inside function
+0	02:00:01.909	get_historical _data EURUSD,H4: Inside function
+0	02:00:02.034	get_historical _data USDJPY,Daily: Inside function
+0	02:00:02.115	get_historical _data NZDUSD,H4: Data Download Done!
+0	02:00:02.116	get_historical _data NZDUSD,H4: Inside function
+0	02:00:02.176	get_historical _data USDCHF,H4: Data Download Done!
+0	02:00:02.177	get_historical _data USDCHF,H4: Inside function
+0	02:00:02.227	get_historical _data GBPUSD,H1: Data Download Done!
+0	02:00:02.228	get_historical _data GBPUSD,H1: Inside function
+0	02:00:02.287	get_historical _data EURUSD,H1: Data Download Done!
+0	02:00:02.338	get_historical _data EURUSD,H1: Inside function
+0	02:00:02.535	get_historical _data USDJPY,H4: Data Download Done!
+0	02:00:02.537	get_historical _data USDJPY,H4: Inside function
+0	02:00:02.566	get_historical _data USDCAD,H1: Data Download Done!
+0	02:00:02.567	get_historical _data USDCAD,H1: Inside function
+0	02:00:02.668	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:02.669	get_historical _data AUDUSD,H4: Inside function
+0	02:00:02.875	get_historical _data USDCHF,H1: Data Download Done!
+0	02:00:02.882	get_historical _data USDCHF,H1: Inside function
+0	02:00:02.889	get_historical _data USDCAD,H4: Data Download Done!
+0	02:00:02.891	get_historical _data USDCAD,H4: Inside function
+0	02:00:03.145	get_historical _data GBPUSD,H4: Data Download Done!
+0	02:00:03.146	get_historical _data GBPUSD,H4: Inside function
+0	02:00:03.203	get_historical _data NZDUSD,H4: Data Download Done!
+0	02:00:03.205	get_historical _data NZDUSD,H4: Inside function
+0	02:00:03.252	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:03.256	get_historical _data AUDUSD,H4: Inside function
+0	02:00:03.519	get_historical _data USDCHF,H4: Data Download Done!
+0	02:00:03.521	get_historical _data USDCHF,H4: Inside function
+0	02:00:03.558	get_historical _data EURUSD,H4: Data Download Done!
+0	02:00:03.560	get_historical _data EURUSD,H4: Inside function
+0	02:00:03.580	get_historical _data EURUSD,H1: Data Download Done!
+0	02:00:03.581	get_historical _data EURUSD,H1: Inside function
+0	02:00:03.822	get_historical _data GBPUSD,H1: Data Download Done!
+0	02:00:03.824	get_historical _data GBPUSD,H1: Inside function
+0	02:00:03.958	get_historical _data USDCAD,H1: Data Download Done!
+0	02:00:03.960	get_historical _data USDCAD,H1: Inside function
+0	02:00:04.029	get_historical _data USDJPY,H4: Data Download Done!
+0	02:00:04.030	get_historical _data USDJPY,H4: Inside function
+0	02:00:04.107	get_historical _data USDCAD,H4: Data Download Done!
+0	02:00:04.108	get_historical _data USDCAD,H4: Inside function
+0	02:00:04.402	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:04.404	get_historical _data AUDUSD,H4: Inside function
+0	02:00:04.412	get_historical _data NZDUSD,H4: Data Download Done!
+0	02:00:04.414	get_historical _data NZDUSD,H4: Inside function
+0	02:00:04.416	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:04.418	get_historical _data AUDUSD,H4: Inside function
+0	02:00:04.421	get_historical _data USDCHF,H1: Data Download Done!
+0	02:00:04.423	get_historical _data USDCHF,H1: Inside function
+0	02:00:04.512	get_historical _data GBPUSD,H4: Data Download Done!
+0	02:00:04.523	get_historical _data GBPUSD,H4: Inside function
+0	02:00:04.745	get_historical _data EURUSD,H4: Data Download Done!
+0	02:00:04.746	get_historical _data EURUSD,H4: Inside function
+0	02:00:04.879	get_historical _data USDCHF,H4: Data Download Done!
+0	02:00:04.881	get_historical _data USDCHF,H4: Inside function
+0	02:00:04.997	get_historical _data GBPUSD,H1: Data Download Done!
+0	02:00:04.998	get_historical _data GBPUSD,H1: Inside function
+0	02:00:05.124	get_historical _data EURUSD,H1: Data Download Done!
+0	02:00:05.124	get_historical _data USDCAD,H1: Data Download Done!
+0	02:00:05.125	get_historical _data USDCAD,H1: Inside function
+0	02:00:05.125	get_historical _data EURUSD,H1: Inside function
+0	02:00:05.405	get_historical _data USDJPY,H4: Data Download Done!
+0	02:00:05.406	get_historical _data USDJPY,H4: Inside function
+0	02:00:05.574	get_historical _data USDCAD,H4: Data Download Done!
+0	02:00:05.576	get_historical _data USDCAD,H4: Inside function
+0	02:00:05.645	get_historical _data USDCHF,H1: Data Download Done!
+0	02:00:05.647	get_historical _data USDCHF,H1: Inside function
+0	02:00:05.755	get_historical _data GBPUSD,H4: Data Download Done!
+0	02:00:05.913	get_historical _data EURUSD,H4: Data Download Done!
+0	02:00:05.915	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:05.916	get_historical _data AUDUSD,H4: Inside function
+0	02:00:05.993	get_historical _data NZDUSD,H4: Data Download Done!
+0	02:00:06.056	get_historical _data EURUSD,H1: Data Download Done!
+0	02:00:06.092	get_historical _data GBPUSD,H1: Data Download Done!
+0	02:00:06.096	get_historical _data USDCHF,H4: Data Download Done!
+0	02:00:06.097	get_historical _data USDCAD,H1: Data Download Done!
+0	02:00:06.098	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:06.100	get_historical _data AUDUSD,H4: Inside function
+0	02:00:06.233	get_historical _data USDJPY,H4: Data Download Done!
+0	02:00:06.304	get_historical _data USDCAD,H4: Data Download Done!
+0	02:00:06.342	get_historical _data USDCHF,H1: Data Download Done!
+0	02:00:06.423	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:06.468	get_historical _data AUDUSD,H4: Data Download Done!
+0	02:00:14.093	get_historical _data USDJPY,Daily: Data Download Done!
+0	02:00:14.098	get_historical _data USDJPY,Daily: Inside function
+0	02:00:14.841	get_historical _data USDJPY,Daily: Data Download Done!
+0	02:00:14.910	get_historical _data USDJPY,Daily: Inside function
+0	02:00:15.294	get_historical _data USDJPY,Daily: Data Download Done!
+0	02:00:15.295	get_historical _data USDJPY,Daily: Inside function
+0	02:00:15.564	get_historical _data USDJPY,Daily: Data Download Done!
+0	03:00:00.793	get_historical _data USDCAD,H1: Inside function
+0	03:00:01.068	get_historical _data EURUSD,H1: Inside function
+0	03:00:01.068	get_historical _data USDCHF,H1: Inside function
+0	03:00:01.068	get_historical _data GBPUSD,H1: Inside function
+0	03:00:01.408	get_historical _data USDCAD,H1: Data Download Done!
+0	03:00:01.409	get_historical _data USDCAD,H1: Inside function
+0	03:00:01.664	get_historical _data USDCHF,H1: Data Download Done!
+0	03:00:01.666	get_historical _data USDCHF,H1: Inside function
+0	03:00:01.793	get_historical _data GBPUSD,H1: Data Download Done!
+0	03:00:01.794	get_historical _data GBPUSD,H1: Inside function
+0	03:00:01.838	get_historical _data USDCAD,H1: Data Download Done!
+0	03:00:01.840	get_historical _data USDCAD,H1: Inside function
+0	03:00:01.848	get_historical _data EURUSD,H1: Data Download Done!
+0	03:00:01.850	get_historical _data EURUSD,H1: Inside function
+0	03:00:02.075	get_historical _data USDCHF,H1: Data Download Done!
+0	03:00:02.077	get_historical _data USDCHF,H1: Inside function
+0	03:00:02.298	get_historical _data GBPUSD,H1: Data Download Done!
+0	03:00:02.300	get_historical _data GBPUSD,H1: Inside function
+0	03:00:02.323	get_historical _data USDCAD,H1: Data Download Done!
+0	03:00:02.325	get_historical _data USDCAD,H1: Inside function
+0	03:00:02.360	get_historical _data EURUSD,H1: Data Download Done!
+0	03:00:02.363	get_historical _data EURUSD,H1: Inside function
+0	03:00:02.648	get_historical _data USDCHF,H1: Data Download Done!
+0	03:00:02.649	get_historical _data USDCHF,H1: Inside function
+0	03:00:02.775	get_historical _data USDCAD,H1: Data Download Done!
+0	03:00:02.791	get_historical _data GBPUSD,H1: Data Download Done!
+0	03:00:02.793	get_historical _data GBPUSD,H1: Inside function
+0	03:00:02.937	get_historical _data EURUSD,H1: Data Download Done!
+0	03:00:02.937	get_historical _data EURUSD,H1: Inside function
+0	03:00:03.048	get_historical _data USDCHF,H1: Data Download Done!
+0	03:00:03.191	get_historical _data GBPUSD,H1: Data Download Done!
+0	03:00:03.313	get_historical _data EURUSD,H1: Data Download Done!
+0	04:00:00.829	get_historical _data GBPUSD,H1: Inside function
+0	04:00:01.090	get_historical _data USDCHF,H1: Inside function
+0	04:00:01.090	get_historical _data USDCAD,H1: Inside function
+0	04:00:01.092	get_historical _data EURUSD,H1: Inside function
+0	04:00:01.240	get_historical _data GBPUSD,H1: Data Download Done!
+0	04:00:01.242	get_historical _data GBPUSD,H1: Inside function
+0	04:00:01.572	get_historical _data EURUSD,H1: Data Download Done!
+0	04:00:01.574	get_historical _data EURUSD,H1: Inside function
+0	04:00:01.645	get_historical _data USDCAD,H1: Data Download Done!
+0	04:00:01.645	get_historical _data USDCAD,H1: Inside function
+0	04:00:01.645	get_historical _data USDCHF,H1: Data Download Done!
+0	04:00:01.658	get_historical _data USDCHF,H1: Inside function
+0	04:00:01.777	get_historical _data GBPUSD,H1: Data Download Done!
+0	04:00:01.777	get_historical _data GBPUSD,H1: Inside function
+0	04:00:01.991	get_historical _data EURUSD,H1: Data Download Done!
+0	04:00:01.993	get_historical _data EURUSD,H1: Inside function
+0	04:00:02.068	get_historical _data USDCAD,H1: Data Download Done!
+0	04:00:02.069	get_historical _data USDCAD,H1: Inside function
+0	04:00:02.143	get_historical _data USDCHF,H1: Data Download Done!
+0	04:00:02.144	get_historical _data USDCHF,H1: Inside function
+0	04:00:02.232	get_historical _data GBPUSD,H1: Data Download Done!
+0	04:00:02.232	get_historical _data GBPUSD,H1: Inside function
+0	04:00:02.410	get_historical _data EURUSD,H1: Data Download Done!
+0	04:00:02.412	get_historical _data EURUSD,H1: Inside function
+0	04:00:02.487	get_historical _data USDCAD,H1: Data Download Done!
+0	04:00:02.488	get_historical _data USDCAD,H1: Inside function
+0	04:00:02.665	get_historical _data USDCHF,H1: Data Download Done!
+0	04:00:02.667	get_historical _data USDCHF,H1: Inside function
+0	04:00:02.744	get_historical _data GBPUSD,H1: Data Download Done!
+0	04:00:02.814	get_historical _data EURUSD,H1: Data Download Done!
+0	04:00:02.910	get_historical _data USDCAD,H1: Data Download Done!
+0	04:00:03.015	get_historical _data USDCHF,H1: Data Download Done!
+0	05:00:00.862	get_historical _data USDCHF,H1: Inside function
+0	05:00:00.862	get_historical _data EURUSD,H1: Inside function
+0	05:00:01.188	get_historical _data USDCHF,H1: Data Download Done!
+0	05:00:01.189	get_historical _data USDCHF,H1: Inside function
+0	05:00:01.310	get_historical _data EURUSD,H1: Data Download Done!
+0	05:00:01.312	get_historical _data EURUSD,H1: Inside function
+0	05:00:01.367	get_historical _data USDCAD,H1: Inside function
+0	05:00:01.367	get_historical _data GBPUSD,H1: Inside function
+0	05:00:01.609	get_historical _data USDCHF,H1: Data Download Done!
+0	05:00:01.611	get_historical _data USDCHF,H1: Inside function
+0	05:00:01.838	get_historical _data EURUSD,H1: Data Download Done!
+0	05:00:01.840	get_historical _data EURUSD,H1: Inside function
+0	05:00:01.840	get_historical _data USDCAD,H1: Data Download Done!
+0	05:00:01.842	get_historical _data USDCAD,H1: Inside function
+0	05:00:01.895	get_historical _data GBPUSD,H1: Data Download Done!
+0	05:00:01.897	get_historical _data GBPUSD,H1: Inside function
+0	05:00:02.040	get_historical _data USDCHF,H1: Data Download Done!
+0	05:00:02.042	get_historical _data USDCHF,H1: Inside function
+0	05:00:02.284	get_historical _data USDCAD,H1: Data Download Done!
+0	05:00:02.286	get_historical _data USDCAD,H1: Inside function
+0	05:00:02.299	get_historical _data EURUSD,H1: Data Download Done!
+0	05:00:02.301	get_historical _data EURUSD,H1: Inside function
+0	05:00:02.392	get_historical _data GBPUSD,H1: Data Download Done!
+0	05:00:02.394	get_historical _data GBPUSD,H1: Inside function
+0	05:00:02.536	get_historical _data USDCHF,H1: Data Download Done!
+0	05:00:02.695	get_historical _data USDCAD,H1: Data Download Done!
+0	05:00:02.697	get_historical _data USDCAD,H1: Inside function
+0	05:00:02.701	get_historical _data EURUSD,H1: Data Download Done!
+0	05:00:02.772	get_historical _data GBPUSD,H1: Data Download Done!
+0	05:00:02.774	get_historical _data GBPUSD,H1: Inside function
+0	05:00:03.003	get_historical _data USDCAD,H1: Data Download Done!
+0	05:00:03.060	get_historical _data GBPUSD,H1: Data Download Done!
+0	06:00:00.981	get_historical _data USDCAD,H4: Inside function
+0	06:00:00.981	get_historical _data USDCAD,H1: Inside function
+0	06:00:01.101	get_historical _data AUDUSD,H4: Inside function
+0	06:00:01.102	get_historical _data AUDUSD,H4: Inside function
+0	06:00:01.231	get_historical _data GBPUSD,H4: Inside function
+0	06:00:01.231	get_historical _data GBPUSD,H1: Inside function
+0	06:00:01.250	get_historical _data NZDUSD,H4: Inside function
+0	06:00:01.772	get_historical _data USDCAD,H1: Data Download Done!
+0	06:00:01.773	get_historical _data USDCAD,H1: Inside function
+0	06:00:01.821	get_historical _data USDCAD,H4: Data Download Done!
+0	06:00:01.823	get_historical _data USDCAD,H4: Inside function
+0	06:00:02.029	get_historical _data GBPUSD,H1: Data Download Done!
+0	06:00:02.030	get_historical _data GBPUSD,H1: Inside function
+0	06:00:02.045	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:02.048	get_historical _data AUDUSD,H4: Inside function
+0	06:00:02.053	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:02.054	get_historical _data AUDUSD,H4: Inside function
+0	06:00:02.102	get_historical _data GBPUSD,H4: Data Download Done!
+0	06:00:02.104	get_historical _data GBPUSD,H4: Inside function
+0	06:00:02.321	get_historical _data NZDUSD,H4: Data Download Done!
+0	06:00:02.321	get_historical _data NZDUSD,H4: Inside function
+0	06:00:02.492	get_historical _data USDCAD,H4: Data Download Done!
+0	06:00:02.492	get_historical _data USDCAD,H4: Inside function
+0	06:00:02.633	get_historical _data USDCAD,H1: Data Download Done!
+0	06:00:02.633	get_historical _data USDCAD,H1: Inside function
+0	06:00:02.789	get_historical _data GBPUSD,H4: Data Download Done!
+0	06:00:02.789	get_historical _data GBPUSD,H4: Inside function
+0	06:00:02.852	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:02.852	get_historical _data AUDUSD,H4: Inside function
+0	06:00:02.899	get_historical _data GBPUSD,H1: Data Download Done!
+0	06:00:02.899	get_historical _data GBPUSD,H1: Inside function
+0	06:00:02.992	get_historical _data USDJPY,H4: Inside function
+0	06:00:03.055	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:03.070	get_historical _data AUDUSD,H4: Inside function
+0	06:00:03.294	get_historical _data USDCAD,H4: Data Download Done!
+0	06:00:03.294	get_historical _data USDCAD,H4: Inside function
+0	06:00:03.356	get_historical _data USDCAD,H1: Data Download Done!
+0	06:00:03.356	get_historical _data USDCAD,H1: Inside function
+0	06:00:03.356	get_historical _data EURUSD,H4: Inside function
+0	06:00:03.387	get_historical _data EURUSD,H1: Inside function
+0	06:00:03.497	get_historical _data USDCHF,H1: Inside function
+0	06:00:03.512	get_historical _data USDCHF,H4: Inside function
+0	06:00:03.778	get_historical _data GBPUSD,H4: Data Download Done!
+0	06:00:03.778	get_historical _data GBPUSD,H4: Inside function
+0	06:00:03.919	get_historical _data NZDUSD,H4: Data Download Done!
+0	06:00:03.919	get_historical _data NZDUSD,H4: Inside function
+0	06:00:04.325	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:04.325	get_historical _data AUDUSD,H4: Inside function
+0	06:00:04.341	get_historical _data GBPUSD,H1: Data Download Done!
+0	06:00:04.341	get_historical _data GBPUSD,H1: Inside function
+0	06:00:04.403	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:04.403	get_historical _data AUDUSD,H4: Inside function
+0	06:00:04.419	get_historical _data USDCAD,H1: Data Download Done!
+0	06:00:04.419	get_historical _data USDCAD,H4: Data Download Done!
+0	06:00:04.669	get_historical _data USDCHF,H1: Data Download Done!
+0	06:00:04.669	get_historical _data USDCHF,H1: Inside function
+0	06:00:04.700	get_historical _data USDCHF,H4: Data Download Done!
+0	06:00:04.700	get_historical _data USDCHF,H4: Inside function
+0	06:00:04.700	get_historical _data USDJPY,H4: Data Download Done!
+0	06:00:04.716	get_historical _data USDJPY,H4: Inside function
+0	06:00:04.762	get_historical _data EURUSD,H1: Data Download Done!
+0	06:00:04.778	get_historical _data EURUSD,H1: Inside function
+0	06:00:04.856	get_historical _data GBPUSD,H4: Data Download Done!
+0	06:00:05.012	get_historical _data EURUSD,H4: Data Download Done!
+0	06:00:05.028	get_historical _data EURUSD,H4: Inside function
+0	06:00:05.122	get_historical _data NZDUSD,H4: Data Download Done!
+0	06:00:05.137	get_historical _data NZDUSD,H4: Inside function
+0	06:00:05.309	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:05.403	get_historical _data USDCHF,H4: Data Download Done!
+0	06:00:05.403	get_historical _data USDCHF,H4: Inside function
+0	06:00:05.419	get_historical _data GBPUSD,H1: Data Download Done!
+0	06:00:05.465	get_historical _data AUDUSD,H4: Data Download Done!
+0	06:00:05.637	get_historical _data USDCHF,H1: Data Download Done!
+0	06:00:05.637	get_historical _data USDCHF,H1: Inside function
+0	06:00:05.637	get_historical _data EURUSD,H1: Data Download Done!
+0	06:00:05.653	get_historical _data EURUSD,H1: Inside function
+0	06:00:05.700	get_historical _data NZDUSD,H4: Data Download Done!
+0	06:00:05.700	get_historical _data EURUSD,H4: Data Download Done!
+0	06:00:05.700	get_historical _data EURUSD,H4: Inside function
+0	06:00:05.715	get_historical _data USDJPY,H4: Data Download Done!
+0	06:00:05.715	get_historical _data USDJPY,H4: Inside function
+0	06:00:06.071	get_historical _data EURUSD,H1: Data Download Done!
+0	06:00:06.073	get_historical _data EURUSD,H1: Inside function
+0	06:00:06.159	get_historical _data EURUSD,H4: Data Download Done!
+0	06:00:06.160	get_historical _data EURUSD,H4: Inside function
+0	06:00:06.161	get_historical _data USDCHF,H4: Data Download Done!
+0	06:00:06.162	get_historical _data USDCHF,H4: Inside function
+0	06:00:06.190	get_historical _data USDCHF,H1: Data Download Done!
+0	06:00:06.191	get_historical _data USDCHF,H1: Inside function
+0	06:00:06.347	get_historical _data USDJPY,H4: Data Download Done!
+0	06:00:06.348	get_historical _data USDJPY,H4: Inside function
+0	06:00:06.624	get_historical _data EURUSD,H1: Data Download Done!
+0	06:00:06.672	get_historical _data EURUSD,H4: Data Download Done!
+0	06:00:06.681	get_historical _data USDCHF,H4: Data Download Done!
+0	06:00:06.681	get_historical _data USDCHF,H1: Data Download Done!
+0	06:00:06.746	get_historical _data USDJPY,H4: Data Download Done!
+0	07:00:01.144	get_historical _data GBPUSD,H1: Inside function
+0	07:00:01.171	get_historical _data USDCAD,H1: Inside function
+0	07:00:01.199	get_historical _data USDCHF,H1: Inside function
+0	07:00:01.401	get_historical _data EURUSD,H1: Inside function
+0	07:00:01.620	get_historical _data USDCAD,H1: Data Download Done!
+0	07:00:01.620	get_historical _data USDCAD,H1: Inside function
+0	07:00:01.636	get_historical _data GBPUSD,H1: Data Download Done!
+0	07:00:01.636	get_historical _data GBPUSD,H1: Inside function
+0	07:00:01.729	get_historical _data USDCHF,H1: Data Download Done!
+0	07:00:01.729	get_historical _data USDCHF,H1: Inside function
+0	07:00:02.003	get_historical _data EURUSD,H1: Data Download Done!
+0	07:00:02.003	get_historical _data EURUSD,H1: Inside function
+0	07:00:02.029	get_historical _data GBPUSD,H1: Data Download Done!
+0	07:00:02.042	get_historical _data GBPUSD,H1: Inside function
+0	07:00:02.126	get_historical _data USDCHF,H1: Data Download Done!
+0	07:00:02.126	get_historical _data USDCAD,H1: Data Download Done!
+0	07:00:02.126	get_historical _data USDCHF,H1: Inside function
+0	07:00:02.126	get_historical _data USDCAD,H1: Inside function
+0	07:00:02.423	get_historical _data GBPUSD,H1: Data Download Done!
+0	07:00:02.425	get_historical _data GBPUSD,H1: Inside function
+0	07:00:02.429	get_historical _data EURUSD,H1: Data Download Done!
+0	07:00:02.430	get_historical _data EURUSD,H1: Inside function
+0	07:00:02.554	get_historical _data USDCHF,H1: Data Download Done!
+0	07:00:02.556	get_historical _data USDCHF,H1: Inside function
+0	07:00:02.560	get_historical _data USDCAD,H1: Data Download Done!
+0	07:00:02.562	get_historical _data USDCAD,H1: Inside function
+0	07:00:02.857	get_historical _data GBPUSD,H1: Data Download Done!
+0	07:00:02.935	get_historical _data EURUSD,H1: Data Download Done!
+0	07:00:02.936	get_historical _data USDCAD,H1: Data Download Done!
+0	07:00:02.937	get_historical _data EURUSD,H1: Inside function
+0	07:00:02.969	get_historical _data USDCHF,H1: Data Download Done!
+0	07:00:03.213	get_historical _data EURUSD,H1: Data Download Done!
+0	08:00:01.168	get_historical _data GBPUSD,H1: Inside function
+0	08:00:01.168	get_historical _data USDCAD,H1: Inside function
+0	08:00:01.200	get_historical _data USDCHF,H1: Inside function
+0	08:00:01.431	get_historical _data EURUSD,H1: Inside function
+0	08:00:01.603	get_historical _data GBPUSD,H1: Data Download Done!
+0	08:00:01.604	get_historical _data GBPUSD,H1: Inside function
+0	08:00:01.687	get_historical _data USDCAD,H1: Data Download Done!
+0	08:00:01.689	get_historical _data USDCAD,H1: Inside function
+0	08:00:01.704	get_historical _data USDCHF,H1: Data Download Done!
+0	08:00:01.714	get_historical _data USDCHF,H1: Inside function
+0	08:00:02.023	get_historical _data EURUSD,H1: Data Download Done!
+0	08:00:02.023	get_historical _data EURUSD,H1: Inside function
+0	08:00:02.089	get_historical _data GBPUSD,H1: Data Download Done!
+0	08:00:02.089	get_historical _data USDCAD,H1: Data Download Done!
+0	08:00:02.089	get_historical _data USDCAD,H1: Inside function
+0	08:00:02.089	get_historical _data GBPUSD,H1: Inside function
+0	08:00:02.193	get_historical _data USDCHF,H1: Data Download Done!
+0	08:00:02.193	get_historical _data USDCHF,H1: Inside function
+0	08:00:02.424	get_historical _data EURUSD,H1: Data Download Done!
+0	08:00:02.440	get_historical _data EURUSD,H1: Inside function
+0	08:00:02.469	get_historical _data GBPUSD,H1: Data Download Done!
+0	08:00:02.469	get_historical _data USDCAD,H1: Data Download Done!
+0	08:00:02.470	get_historical _data GBPUSD,H1: Inside function
+0	08:00:02.472	get_historical _data USDCAD,H1: Inside function
+0	08:00:02.688	get_historical _data USDCHF,H1: Data Download Done!
+0	08:00:02.689	get_historical _data USDCHF,H1: Inside function
+0	08:00:02.862	get_historical _data EURUSD,H1: Data Download Done!
+0	08:00:02.864	get_historical _data EURUSD,H1: Inside function
+0	08:00:02.913	get_historical _data USDCAD,H1: Data Download Done!
+0	08:00:02.925	get_historical _data GBPUSD,H1: Data Download Done!
+0	08:00:03.084	get_historical _data USDCHF,H1: Data Download Done!
+0	08:00:03.185	get_historical _data EURUSD,H1: Data Download Done!
+0	09:00:00.883	get_historical _data GBPUSD,H1: Inside function
+0	09:00:01.150	get_historical _data EURUSD,H1: Inside function
+0	09:00:01.253	get_historical _data USDCHF,H1: Inside function
+0	09:00:01.263	get_historical _data USDCAD,H1: Inside function
+0	09:00:01.319	get_historical _data GBPUSD,H1: Data Download Done!
+0	09:00:01.323	get_historical _data GBPUSD,H1: Inside function
+0	09:00:01.721	get_historical _data EURUSD,H1: Data Download Done!
+0	09:00:01.723	get_historical _data EURUSD,H1: Inside function
+0	09:00:01.753	get_historical _data USDCHF,H1: Data Download Done!
+0	09:00:01.754	get_historical _data USDCHF,H1: Inside function
+0	09:00:01.811	get_historical _data USDCAD,H1: Data Download Done!
+0	09:00:01.813	get_historical _data USDCAD,H1: Inside function
+0	09:00:01.862	get_historical _data GBPUSD,H1: Data Download Done!
+0	09:00:01.864	get_historical _data GBPUSD,H1: Inside function
+0	09:00:02.271	get_historical _data USDCHF,H1: Data Download Done!
+0	09:00:02.273	get_historical _data USDCHF,H1: Inside function
+0	09:00:02.290	get_historical _data EURUSD,H1: Data Download Done!
+0	09:00:02.292	get_historical _data EURUSD,H1: Inside function
+0	09:00:02.298	get_historical _data GBPUSD,H1: Data Download Done!
+0	09:00:02.300	get_historical _data GBPUSD,H1: Inside function
+0	09:00:02.308	get_historical _data USDCAD,H1: Data Download Done!
+0	09:00:02.309	get_historical _data USDCAD,H1: Inside function
+0	09:00:02.709	get_historical _data GBPUSD,H1: Data Download Done!
+0	09:00:02.740	get_historical _data USDCHF,H1: Data Download Done!
+0	09:00:02.742	get_historical _data USDCHF,H1: Inside function
+0	09:00:02.750	get_historical _data USDCAD,H1: Data Download Done!
+0	09:00:02.752	get_historical _data USDCAD,H1: Inside function
+0	09:00:02.807	get_historical _data EURUSD,H1: Data Download Done!
+0	09:00:02.809	get_historical _data EURUSD,H1: Inside function
+0	09:00:03.102	get_historical _data USDCAD,H1: Data Download Done!
+0	09:00:03.150	get_historical _data EURUSD,H1: Data Download Done!
+0	09:00:03.175	get_historical _data USDCHF,H1: Data Download Done!
+0	09:36:03.761	get_historical _data EURUSD,H4: uninit reason 3
+0	09:36:03.771	get_historical _data EURUSD,H1: Before initializing R
+0	09:36:08.988	get_historical _data EURUSD,H1: Before function
+0	09:36:14.886	get_historical _data EURUSD,H1: Inside function
+0	09:36:15.318	get_historical _data EURUSD,H1: Data Download Done!
+0	09:36:15.318	get_historical _data EURUSD,H1: After function
+0	09:36:15.318	get_historical _data EURUSD,H1: initialized
+0	09:36:15.320	get_historical _data EURUSD,H1: Inside function
+0	09:36:15.622	get_historical _data EURUSD,H1: Data Download Done!
+0	09:36:15.624	get_historical _data EURUSD,H1: Inside function
+0	09:36:15.913	get_historical _data EURUSD,H1: Data Download Done!
+0	09:36:15.915	get_historical _data EURUSD,H1: Inside function
+0	09:36:16.155	get_historical _data EURUSD,H1: Data Download Done!
+0	09:36:16.157	get_historical _data EURUSD,H1: Inside function
+0	09:36:16.418	get_historical _data EURUSD,H1: Data Download Done!
+0	09:52:13.743	get_historical _data EURUSD,H1: uninit reason 3
+0	09:52:14.378	get_historical _data EURUSD,M1: Before initializing R
+0	09:52:14.840	get_historical _data EURUSD,M1: Before function
+0	09:52:15.752	get_historical _data EURUSD,M1: Inside function
+0	09:52:16.074	get_historical _data EURUSD,M1: Data Download Done!
+0	09:52:16.074	get_historical _data EURUSD,M1: After function
+0	09:52:16.074	get_historical _data EURUSD,M1: initialized
+0	09:52:16.075	get_historical _data EURUSD,M1: Inside function
+0	09:52:16.355	get_historical _data EURUSD,M1: Data Download Done!
+0	09:52:16.356	get_historical _data EURUSD,M1: Inside function
+0	09:52:16.618	get_historical _data EURUSD,M1: Data Download Done!
+0	09:52:16.619	get_historical _data EURUSD,M1: Inside function
+0	09:52:16.948	get_historical _data EURUSD,M1: Data Download Done!
+0	09:52:16.949	get_historical _data EURUSD,M1: Inside function
+0	09:52:17.249	get_historical _data EURUSD,M1: Data Download Done!
+0	09:53:01.221	get_historical _data EURUSD,M1: Inside function
+0	09:53:01.489	get_historical _data EURUSD,M1: Data Download Done!
+0	09:53:01.491	get_historical _data EURUSD,M1: Inside function
+0	09:53:01.698	get_historical _data EURUSD,M1: Data Download Done!
+0	09:53:01.699	get_historical _data EURUSD,M1: Inside function
+0	09:53:01.912	get_historical _data EURUSD,M1: Data Download Done!
+0	09:53:01.914	get_historical _data EURUSD,M1: Inside function
+0	09:53:02.126	get_historical _data EURUSD,M1: Data Download Done!
+0	09:54:02.238	get_historical _data EURUSD,M1: Inside function
+0	09:54:02.572	get_historical _data EURUSD,M1: Data Download Done!
+0	09:54:02.574	get_historical _data EURUSD,M1: Inside function
+0	09:54:02.788	get_historical _data EURUSD,M1: Data Download Done!
+0	09:54:02.789	get_historical _data EURUSD,M1: Inside function
+0	09:54:03.006	get_historical _data EURUSD,M1: Data Download Done!
+0	09:54:03.007	get_historical _data EURUSD,M1: Inside function
+0	09:54:03.313	get_historical _data EURUSD,M1: Data Download Done!
+0	09:55:01.514	get_historical _data EURUSD,M1: Inside function
+0	09:55:01.750	get_historical _data EURUSD,M1: Data Download Done!
+0	09:55:01.752	get_historical _data EURUSD,M1: Inside function
+0	09:55:01.952	get_historical _data EURUSD,M1: Data Download Done!
+0	09:55:01.954	get_historical _data EURUSD,M1: Inside function
+0	09:55:02.164	get_historical _data EURUSD,M1: Data Download Done!
+0	09:55:02.165	get_historical _data EURUSD,M1: Inside function
+0	09:55:02.396	get_historical _data EURUSD,M1: Data Download Done!
+0	09:56:00.765	get_historical _data EURUSD,M1: Inside function
+0	09:56:00.992	get_historical _data EURUSD,M1: Data Download Done!
+0	09:56:00.993	get_historical _data EURUSD,M1: Inside function
+0	09:56:01.195	get_historical _data EURUSD,M1: Data Download Done!
+0	09:56:01.197	get_historical _data EURUSD,M1: Inside function
+0	09:56:01.416	get_historical _data EURUSD,M1: Data Download Done!
+0	09:56:01.417	get_historical _data EURUSD,M1: Inside function
+0	09:56:01.642	get_historical _data EURUSD,M1: Data Download Done!
+0	09:57:13.593	get_historical _data EURUSD,M1: Inside function
+0	09:57:13.839	get_historical _data EURUSD,M1: Data Download Done!
+0	09:57:13.840	get_historical _data EURUSD,M1: Inside function
+0	09:57:14.056	get_historical _data EURUSD,M1: Data Download Done!
+0	09:57:14.057	get_historical _data EURUSD,M1: Inside function
+0	09:57:14.276	get_historical _data EURUSD,M1: Data Download Done!
+0	09:57:14.278	get_historical _data EURUSD,M1: Inside function
+0	09:57:14.487	get_historical _data EURUSD,M1: Data Download Done!
+0	09:58:01.031	get_historical _data EURUSD,M1: Inside function
+0	09:58:01.278	get_historical _data EURUSD,M1: Data Download Done!
+0	09:58:01.280	get_historical _data EURUSD,M1: Inside function
+0	09:58:01.509	get_historical _data EURUSD,M1: Data Download Done!
+0	09:58:01.510	get_historical _data EURUSD,M1: Inside function
+0	09:58:01.718	get_historical _data EURUSD,M1: Data Download Done!
+0	09:58:01.719	get_historical _data EURUSD,M1: Inside function
+0	09:58:01.924	get_historical _data EURUSD,M1: Data Download Done!
+0	09:59:01.057	get_historical _data EURUSD,M1: Inside function
+0	09:59:01.327	get_historical _data EURUSD,M1: Data Download Done!
+0	09:59:01.329	get_historical _data EURUSD,M1: Inside function
+0	09:59:01.544	get_historical _data EURUSD,M1: Data Download Done!
+0	09:59:01.545	get_historical _data EURUSD,M1: Inside function
+0	09:59:01.771	get_historical _data EURUSD,M1: Data Download Done!
+0	09:59:01.773	get_historical _data EURUSD,M1: Inside function
+0	09:59:01.980	get_historical _data EURUSD,M1: Data Download Done!
+0	10:00:00.828	get_historical _data USDCHF,H4: Inside function
+0	10:00:00.828	get_historical _data USDCHF,H1: Inside function
+0	10:00:01.073	get_historical _data USDCAD,H4: Inside function
+0	10:00:01.073	get_historical _data GBPUSD,H1: Inside function
+0	10:00:01.074	get_historical _data USDJPY,H4: Inside function
+0	10:00:01.074	get_historical _data GBPUSD,H4: Inside function
+0	10:00:01.074	get_historical _data USDCAD,H1: Inside function
+0	10:00:01.424	get_historical _data NZDUSD,H4: Inside function
+0	10:00:01.424	get_historical _data AUDUSD,H4: Inside function
+0	10:00:01.425	get_historical _data EURUSD,M1: Inside function
+0	10:00:01.426	get_historical _data AUDUSD,H4: Inside function
+0	10:00:01.478	get_historical _data EURUSD,H1: Inside function
+0	10:00:01.923	get_historical _data USDCHF,H1: Data Download Done!
+0	10:00:01.925	get_historical _data USDCHF,H1: Inside function
+0	10:00:02.205	get_historical _data USDCHF,H4: Data Download Done!
+0	10:00:02.207	get_historical _data USDCHF,H4: Inside function
+0	10:00:02.290	get_historical _data USDCAD,H4: Data Download Done!
+0	10:00:02.292	get_historical _data USDCAD,H4: Inside function
+0	10:00:02.350	get_historical _data EURUSD,M1: Data Download Done!
+0	10:00:02.351	get_historical _data EURUSD,M1: Inside function
+0	10:00:02.556	get_historical _data USDCAD,H1: Data Download Done!
+0	10:00:02.557	get_historical _data USDCAD,H1: Inside function
+0	10:00:02.701	get_historical _data USDJPY,H4: Data Download Done!
+0	10:00:02.702	get_historical _data USDJPY,H4: Inside function
+0	10:00:02.778	get_historical _data GBPUSD,H1: Data Download Done!
+0	10:00:02.779	get_historical _data GBPUSD,H1: Inside function
+0	10:00:03.017	get_historical _data NZDUSD,H4: Data Download Done!
+0	10:00:03.018	get_historical _data NZDUSD,H4: Inside function
+0	10:00:03.021	get_historical _data GBPUSD,H4: Data Download Done!
+0	10:00:03.022	get_historical _data GBPUSD,H4: Inside function
+0	10:00:03.023	get_historical _data EURUSD,H1: Data Download Done!
+0	10:00:03.024	get_historical _data EURUSD,H1: Inside function
+0	10:00:03.030	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:03.032	get_historical _data AUDUSD,H4: Inside function
+0	10:00:03.279	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:03.280	get_historical _data AUDUSD,H4: Inside function
+0	10:00:03.334	get_historical _data USDCHF,H1: Data Download Done!
+0	10:00:03.335	get_historical _data USDCHF,H1: Inside function
+0	10:00:03.413	get_historical _data EURUSD,M1: Data Download Done!
+0	10:00:03.415	get_historical _data EURUSD,M1: Inside function
+0	10:00:03.643	get_historical _data USDCHF,H4: Data Download Done!
+0	10:00:03.661	get_historical _data USDCHF,H4: Inside function
+0	10:00:03.821	get_historical _data USDCAD,H4: Data Download Done!
+0	10:00:03.822	get_historical _data USDCAD,H4: Inside function
+0	10:00:04.051	get_historical _data USDCAD,H1: Data Download Done!
+0	10:00:04.052	get_historical _data USDCAD,H1: Inside function
+0	10:00:04.290	get_historical _data GBPUSD,H1: Data Download Done!
+0	10:00:04.292	get_historical _data GBPUSD,H1: Inside function
+0	10:00:04.341	get_historical _data EURUSD,M1: Data Download Done!
+0	10:00:04.343	get_historical _data EURUSD,M1: Inside function
+0	10:00:04.551	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:04.551	get_historical _data GBPUSD,H4: Data Download Done!
+0	10:00:04.553	get_historical _data AUDUSD,H4: Inside function
+0	10:00:04.553	get_historical _data GBPUSD,H4: Inside function
+0	10:00:04.698	get_historical _data USDJPY,H4: Data Download Done!
+0	10:00:04.699	get_historical _data USDJPY,H4: Inside function
+0	10:00:04.701	get_historical _data NZDUSD,H4: Data Download Done!
+0	10:00:04.703	get_historical _data NZDUSD,H4: Inside function
+0	10:00:04.708	get_historical _data USDCHF,H4: Data Download Done!
+0	10:00:04.726	get_historical _data USDCHF,H4: Inside function
+0	10:00:04.733	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:04.735	get_historical _data AUDUSD,H4: Inside function
+0	10:00:04.912	get_historical _data EURUSD,H1: Data Download Done!
+0	10:00:04.914	get_historical _data EURUSD,H1: Inside function
+0	10:00:05.099	get_historical _data USDCHF,H1: Data Download Done!
+0	10:00:05.100	get_historical _data USDCHF,H1: Inside function
+0	10:00:05.287	get_historical _data USDCAD,H4: Data Download Done!
+0	10:00:05.289	get_historical _data USDCAD,H4: Inside function
+0	10:00:05.332	get_historical _data EURUSD,M1: Data Download Done!
+0	10:00:05.446	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:05.448	get_historical _data AUDUSD,H4: Inside function
+0	10:00:05.730	get_historical _data USDCAD,H1: Data Download Done!
+0	10:00:05.731	get_historical _data USDCAD,H1: Inside function
+0	10:00:05.769	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:05.770	get_historical _data AUDUSD,H4: Inside function
+0	10:00:05.812	get_historical _data EURUSD,H1: Data Download Done!
+0	10:00:05.814	get_historical _data EURUSD,H1: Inside function
+0	10:00:05.994	get_historical _data USDJPY,H4: Data Download Done!
+0	10:00:05.995	get_historical _data GBPUSD,H1: Data Download Done!
+0	10:00:05.996	get_historical _data USDJPY,H4: Inside function
+0	10:00:05.996	get_historical _data GBPUSD,H1: Inside function
+0	10:00:06.037	get_historical _data NZDUSD,H4: Data Download Done!
+0	10:00:06.038	get_historical _data NZDUSD,H4: Inside function
+0	10:00:06.192	get_historical _data USDCHF,H1: Data Download Done!
+0	10:00:06.306	get_historical _data USDCHF,H4: Data Download Done!
+0	10:00:06.311	get_historical _data GBPUSD,H4: Data Download Done!
+0	10:00:06.312	get_historical _data GBPUSD,H4: Inside function
+0	10:00:06.566	get_historical _data USDCAD,H4: Data Download Done!
+0	10:00:06.658	get_historical _data EURUSD,H1: Data Download Done!
+0	10:00:06.677	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:06.680	get_historical _data AUDUSD,H4: Data Download Done!
+0	10:00:06.682	get_historical _data USDCAD,H1: Data Download Done!
+0	10:00:06.696	get_historical _data GBPUSD,H1: Data Download Done!
+0	10:00:06.714	get_historical _data USDJPY,H4: Data Download Done!
+0	10:00:06.733	get_historical _data NZDUSD,H4: Data Download Done!
+0	10:00:06.774	get_historical _data GBPUSD,H4: Data Download Done!
+0	10:01:01.107	get_historical _data EURUSD,M1: Inside function
+0	10:01:01.433	get_historical _data EURUSD,M1: Data Download Done!
+0	10:01:01.437	get_historical _data EURUSD,M1: Inside function
+0	10:01:01.715	get_historical _data EURUSD,M1: Data Download Done!
+0	10:01:01.716	get_historical _data EURUSD,M1: Inside function
+0	10:01:01.937	get_historical _data EURUSD,M1: Data Download Done!
+0	10:01:01.938	get_historical _data EURUSD,M1: Inside function
+0	10:01:02.146	get_historical _data EURUSD,M1: Data Download Done!
+0	10:02:02.391	get_historical _data EURUSD,M1: Inside function
+0	10:02:02.637	get_historical _data EURUSD,M1: Data Download Done!
+0	10:02:02.638	get_historical _data EURUSD,M1: Inside function
+0	10:02:02.842	get_historical _data EURUSD,M1: Data Download Done!
+0	10:02:02.843	get_historical _data EURUSD,M1: Inside function
+0	10:02:03.076	get_historical _data EURUSD,M1: Data Download Done!
+0	10:02:03.077	get_historical _data EURUSD,M1: Inside function
+0	10:02:03.282	get_historical _data EURUSD,M1: Data Download Done!
+0	10:03:01.418	get_historical _data EURUSD,M1: Inside function
+0	10:03:01.667	get_historical _data EURUSD,M1: Data Download Done!
+0	10:03:01.669	get_historical _data EURUSD,M1: Inside function
+0	10:03:01.882	get_historical _data EURUSD,M1: Data Download Done!
+0	10:03:01.884	get_historical _data EURUSD,M1: Inside function
+0	10:03:02.210	get_historical _data EURUSD,M1: Data Download Done!
+0	10:03:02.212	get_historical _data EURUSD,M1: Inside function
+0	10:03:02.461	get_historical _data EURUSD,M1: Data Download Done!
+0	10:04:00.996	get_historical _data EURUSD,M1: Inside function
+0	10:04:01.227	get_historical _data EURUSD,M1: Data Download Done!
+0	10:04:01.228	get_historical _data EURUSD,M1: Inside function
+0	10:04:01.468	get_historical _data EURUSD,M1: Data Download Done!
+0	10:04:01.470	get_historical _data EURUSD,M1: Inside function
+0	10:04:01.697	get_historical _data EURUSD,M1: Data Download Done!
+0	10:04:01.698	get_historical _data EURUSD,M1: Inside function
+0	10:04:01.976	get_historical _data EURUSD,M1: Data Download Done!
+0	10:05:03.023	get_historical _data EURUSD,M1: Inside function
+0	10:05:03.259	get_historical _data EURUSD,M1: Data Download Done!
+0	10:05:03.260	get_historical _data EURUSD,M1: Inside function
+0	10:05:03.467	get_historical _data EURUSD,M1: Data Download Done!
+0	10:05:03.469	get_historical _data EURUSD,M1: Inside function
+0	10:05:03.804	get_historical _data EURUSD,M1: Data Download Done!
+0	10:05:03.805	get_historical _data EURUSD,M1: Inside function
+0	10:05:04.014	get_historical _data EURUSD,M1: Data Download Done!
+0	10:06:01.006	get_historical _data EURUSD,M1: Inside function
+0	10:06:01.212	get_historical _data EURUSD,M1: Data Download Done!
+0	10:06:01.213	get_historical _data EURUSD,M1: Inside function
+0	10:06:01.411	get_historical _data EURUSD,M1: Data Download Done!
+0	10:06:01.412	get_historical _data EURUSD,M1: Inside function
+0	10:06:01.718	get_historical _data EURUSD,M1: Data Download Done!
+0	10:06:01.720	get_historical _data EURUSD,M1: Inside function
+0	10:06:01.964	get_historical _data EURUSD,M1: Data Download Done!
+0	10:07:00.997	get_historical _data EURUSD,M1: Inside function
+0	10:07:01.227	get_historical _data EURUSD,M1: Data Download Done!
+0	10:07:01.228	get_historical _data EURUSD,M1: Inside function
+0	10:07:01.428	get_historical _data EURUSD,M1: Data Download Done!
+0	10:07:01.430	get_historical _data EURUSD,M1: Inside function
+0	10:07:01.648	get_historical _data EURUSD,M1: Data Download Done!
+0	10:07:01.649	get_historical _data EURUSD,M1: Inside function
+0	10:07:01.848	get_historical _data EURUSD,M1: Data Download Done!
+0	10:08:02.014	get_historical _data EURUSD,M1: Inside function
+0	10:08:02.296	get_historical _data EURUSD,M1: Data Download Done!
+0	10:08:02.297	get_historical _data EURUSD,M1: Inside function
+0	10:08:02.521	get_historical _data EURUSD,M1: Data Download Done!
+0	10:08:02.522	get_historical _data EURUSD,M1: Inside function
+0	10:08:02.735	get_historical _data EURUSD,M1: Data Download Done!
+0	10:08:02.737	get_historical _data EURUSD,M1: Inside function
+0	10:08:02.977	get_historical _data EURUSD,M1: Data Download Done!
+0	10:09:01.024	get_historical _data EURUSD,M1: Inside function
+0	10:09:01.285	get_historical _data EURUSD,M1: Data Download Done!
+0	10:09:01.287	get_historical _data EURUSD,M1: Inside function
+0	10:09:01.533	get_historical _data EURUSD,M1: Data Download Done!
+0	10:09:01.535	get_historical _data EURUSD,M1: Inside function
+0	10:09:01.751	get_historical _data EURUSD,M1: Data Download Done!
+0	10:09:01.752	get_historical _data EURUSD,M1: Inside function
+0	10:09:01.960	get_historical _data EURUSD,M1: Data Download Done!
+0	10:10:04.078	get_historical _data EURUSD,M1: Inside function
+0	10:10:04.385	get_historical _data EURUSD,M1: Data Download Done!
+0	10:10:04.387	get_historical _data EURUSD,M1: Inside function
+0	10:10:04.612	get_historical _data EURUSD,M1: Data Download Done!
+0	10:10:04.613	get_historical _data EURUSD,M1: Inside function
+0	10:10:04.836	get_historical _data EURUSD,M1: Data Download Done!
+0	10:10:04.837	get_historical _data EURUSD,M1: Inside function
+0	10:10:05.101	get_historical _data EURUSD,M1: Data Download Done!
+0	10:11:02.097	get_historical _data EURUSD,M1: Inside function
+0	10:11:02.359	get_historical _data EURUSD,M1: Data Download Done!
+0	10:11:02.361	get_historical _data EURUSD,M1: Inside function
+0	10:11:02.645	get_historical _data EURUSD,M1: Data Download Done!
+0	10:11:02.646	get_historical _data EURUSD,M1: Inside function
+0	10:11:02.866	get_historical _data EURUSD,M1: Data Download Done!
+0	10:11:02.867	get_historical _data EURUSD,M1: Inside function
+0	10:11:03.068	get_historical _data EURUSD,M1: Data Download Done!
+0	10:12:01.092	get_historical _data EURUSD,M1: Inside function
+0	10:12:01.393	get_historical _data EURUSD,M1: Data Download Done!
+0	10:12:01.394	get_historical _data EURUSD,M1: Inside function
+0	10:12:01.657	get_historical _data EURUSD,M1: Data Download Done!
+0	10:12:01.659	get_historical _data EURUSD,M1: Inside function
+0	10:12:01.932	get_historical _data EURUSD,M1: Data Download Done!
+0	10:12:01.934	get_historical _data EURUSD,M1: Inside function
+0	10:12:02.233	get_historical _data EURUSD,M1: Data Download Done!
+0	10:13:00.826	get_historical _data EURUSD,M1: Inside function
+0	10:13:01.112	get_historical _data EURUSD,M1: Data Download Done!
+0	10:13:01.113	get_historical _data EURUSD,M1: Inside function
+0	10:13:01.354	get_historical _data EURUSD,M1: Data Download Done!
+0	10:13:01.356	get_historical _data EURUSD,M1: Inside function
+0	10:13:01.638	get_historical _data EURUSD,M1: Data Download Done!
+0	10:13:01.640	get_historical _data EURUSD,M1: Inside function
+0	10:13:01.880	get_historical _data EURUSD,M1: Data Download Done!
+0	10:14:00.866	get_historical _data EURUSD,M1: Inside function
+0	10:14:01.151	get_historical _data EURUSD,M1: Data Download Done!
+0	10:14:01.152	get_historical _data EURUSD,M1: Inside function
+0	10:14:01.387	get_historical _data EURUSD,M1: Data Download Done!
+0	10:14:01.388	get_historical _data EURUSD,M1: Inside function
+0	10:14:01.636	get_historical _data EURUSD,M1: Data Download Done!
+0	10:14:01.637	get_historical _data EURUSD,M1: Inside function
+0	10:14:01.956	get_historical _data EURUSD,M1: Data Download Done!
+0	10:15:00.897	get_historical _data EURUSD,M1: Inside function
+0	10:15:01.162	get_historical _data EURUSD,M1: Data Download Done!
+0	10:15:01.164	get_historical _data EURUSD,M1: Inside function
+0	10:15:01.373	get_historical _data EURUSD,M1: Data Download Done!
+0	10:15:01.374	get_historical _data EURUSD,M1: Inside function
+0	10:15:01.630	get_historical _data EURUSD,M1: Data Download Done!
+0	10:15:01.632	get_historical _data EURUSD,M1: Inside function
+0	10:15:01.832	get_historical _data EURUSD,M1: Data Download Done!
+0	10:16:01.185	get_historical _data EURUSD,M1: Inside function
+0	10:16:01.414	get_historical _data EURUSD,M1: Data Download Done!
+0	10:16:01.415	get_historical _data EURUSD,M1: Inside function
+0	10:16:01.642	get_historical _data EURUSD,M1: Data Download Done!
+0	10:16:01.643	get_historical _data EURUSD,M1: Inside function
+0	10:16:01.850	get_historical _data EURUSD,M1: Data Download Done!
+0	10:16:01.851	get_historical _data EURUSD,M1: Inside function
+0	10:16:02.057	get_historical _data EURUSD,M1: Data Download Done!
+0	10:17:01.436	get_historical _data EURUSD,M1: Inside function
+0	10:17:01.665	get_historical _data EURUSD,M1: Data Download Done!
+0	10:17:01.666	get_historical _data EURUSD,M1: Inside function
+0	10:17:01.911	get_historical _data EURUSD,M1: Data Download Done!
+0	10:17:01.912	get_historical _data EURUSD,M1: Inside function
+0	10:17:02.138	get_historical _data EURUSD,M1: Data Download Done!
+0	10:17:02.139	get_historical _data EURUSD,M1: Inside function
+0	10:17:02.379	get_historical _data EURUSD,M1: Data Download Done!
+0	10:18:07.993	get_historical _data EURUSD,M1: Inside function
+0	10:18:08.220	get_historical _data EURUSD,M1: Data Download Done!
+0	10:18:08.222	get_historical _data EURUSD,M1: Inside function
+0	10:18:08.432	get_historical _data EURUSD,M1: Data Download Done!
+0	10:18:08.434	get_historical _data EURUSD,M1: Inside function
+0	10:18:08.636	get_historical _data EURUSD,M1: Data Download Done!
+0	10:18:08.637	get_historical _data EURUSD,M1: Inside function
+0	10:18:08.842	get_historical _data EURUSD,M1: Data Download Done!
+0	10:19:00.996	get_historical _data EURUSD,M1: Inside function
+0	10:19:01.251	get_historical _data EURUSD,M1: Data Download Done!
+0	10:19:01.252	get_historical _data EURUSD,M1: Inside function
+0	10:19:01.453	get_historical _data EURUSD,M1: Data Download Done!
+0	10:19:01.455	get_historical _data EURUSD,M1: Inside function
+0	10:19:01.674	get_historical _data EURUSD,M1: Data Download Done!
+0	10:19:01.675	get_historical _data EURUSD,M1: Inside function
+0	10:19:01.874	get_historical _data EURUSD,M1: Data Download Done!
+0	10:20:01.776	get_historical _data EURUSD,M1: Inside function
+0	10:20:02.141	get_historical _data EURUSD,M1: Data Download Done!
+0	10:20:02.142	get_historical _data EURUSD,M1: Inside function
+0	10:20:02.357	get_historical _data EURUSD,M1: Data Download Done!
+0	10:20:02.358	get_historical _data EURUSD,M1: Inside function
+0	10:20:02.597	get_historical _data EURUSD,M1: Data Download Done!
+0	10:20:02.599	get_historical _data EURUSD,M1: Inside function
+0	10:20:02.833	get_historical _data EURUSD,M1: Data Download Done!
+0	10:21:02.540	get_historical _data EURUSD,M1: Inside function
+0	10:21:02.889	get_historical _data EURUSD,M1: Data Download Done!
+0	10:21:02.890	get_historical _data EURUSD,M1: Inside function
+0	10:21:03.227	get_historical _data EURUSD,M1: Data Download Done!
+0	10:21:03.229	get_historical _data EURUSD,M1: Inside function
+0	10:21:03.516	get_historical _data EURUSD,M1: Data Download Done!
+0	10:21:03.520	get_historical _data EURUSD,M1: Inside function
+0	10:21:03.844	get_historical _data EURUSD,M1: Data Download Done!
+0	10:22:00.988	get_historical _data EURUSD,M1: Inside function
+0	10:22:01.359	get_historical _data EURUSD,M1: Data Download Done!
+0	10:22:01.360	get_historical _data EURUSD,M1: Inside function
+0	10:22:01.691	get_historical _data EURUSD,M1: Data Download Done!
+0	10:22:01.693	get_historical _data EURUSD,M1: Inside function
+0	10:22:02.031	get_historical _data EURUSD,M1: Data Download Done!
+0	10:22:02.047	get_historical _data EURUSD,M1: Inside function
+0	10:22:02.362	get_historical _data EURUSD,M1: Data Download Done!
+0	10:23:00.995	get_historical _data EURUSD,M1: Inside function
+0	10:23:01.218	get_historical _data EURUSD,M1: Data Download Done!
+0	10:23:01.219	get_historical _data EURUSD,M1: Inside function
+0	10:23:01.473	get_historical _data EURUSD,M1: Data Download Done!
+0	10:23:01.475	get_historical _data EURUSD,M1: Inside function
+0	10:23:01.701	get_historical _data EURUSD,M1: Data Download Done!
+0	10:23:01.703	get_historical _data EURUSD,M1: Inside function
+0	10:23:01.948	get_historical _data EURUSD,M1: Data Download Done!
+0	10:24:01.055	get_historical _data EURUSD,M1: Inside function
+0	10:24:01.301	get_historical _data EURUSD,M1: Data Download Done!
+0	10:24:01.302	get_historical _data EURUSD,M1: Inside function
+0	10:24:01.515	get_historical _data EURUSD,M1: Data Download Done!
+0	10:24:01.516	get_historical _data EURUSD,M1: Inside function
+0	10:24:01.747	get_historical _data EURUSD,M1: Data Download Done!
+0	10:24:01.748	get_historical _data EURUSD,M1: Inside function
+0	10:24:01.953	get_historical _data EURUSD,M1: Data Download Done!
+0	10:25:01.036	get_historical _data EURUSD,M1: Inside function
+0	10:25:01.279	get_historical _data EURUSD,M1: Data Download Done!
+0	10:25:01.281	get_historical _data EURUSD,M1: Inside function
+0	10:25:01.496	get_historical _data EURUSD,M1: Data Download Done!
+0	10:25:01.498	get_historical _data EURUSD,M1: Inside function
+0	10:25:01.702	get_historical _data EURUSD,M1: Data Download Done!
+0	10:25:01.703	get_historical _data EURUSD,M1: Inside function
+0	10:25:01.950	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:01.830	get_historical _data EURUSD,M1: Inside function
+0	10:26:02.107	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:02.108	get_historical _data EURUSD,M1: Inside function
+0	10:26:02.319	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:02.320	get_historical _data EURUSD,M1: Inside function
+0	10:26:02.528	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:02.530	get_historical _data EURUSD,M1: Inside function
+0	10:26:02.732	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:15.948	get_historical _data EURUSD,M1: uninit reason 3
+0	10:26:15.954	get_historical _data EURUSD,H1: Before initializing R
+0	10:26:16.435	get_historical _data EURUSD,H1: Before function
+0	10:26:17.340	get_historical _data EURUSD,H1: Inside function
+0	10:26:17.708	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:17.708	get_historical _data EURUSD,H1: After function
+0	10:26:17.708	get_historical _data EURUSD,H1: initialized
+0	10:26:17.710	get_historical _data EURUSD,H1: Inside function
+0	10:26:17.969	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:17.970	get_historical _data EURUSD,H1: Inside function
+0	10:26:18.240	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:18.241	get_historical _data EURUSD,H1: Inside function
+0	10:26:18.503	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:18.505	get_historical _data EURUSD,H1: Inside function
+0	10:26:18.727	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:22.127	get_historical _data EURUSD,H1: uninit reason 3
+0	10:26:22.133	get_historical _data EURUSD,M1: Before initializing R
+0	10:26:22.409	get_historical _data EURUSD,M1: Before function
+0	10:26:23.293	get_historical _data EURUSD,M1: Inside function
+0	10:26:23.597	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:23.597	get_historical _data EURUSD,M1: After function
+0	10:26:23.597	get_historical _data EURUSD,M1: initialized
+0	10:26:23.599	get_historical _data EURUSD,M1: Inside function
+0	10:26:23.804	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:23.806	get_historical _data EURUSD,M1: Inside function
+0	10:26:24.116	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:24.117	get_historical _data EURUSD,M1: Inside function
+0	10:26:24.347	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:24.348	get_historical _data EURUSD,M1: Inside function
+0	10:26:24.558	get_historical _data EURUSD,M1: Data Download Done!
+0	10:26:52.496	get_historical _data EURUSD,M1: uninit reason 3
+0	10:26:52.500	get_historical _data EURUSD,H1: Before initializing R
+0	10:26:52.798	get_historical _data EURUSD,H1: Before function
+0	10:26:53.659	get_historical _data EURUSD,H1: Inside function
+0	10:26:53.961	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:53.961	get_historical _data EURUSD,H1: After function
+0	10:26:53.961	get_historical _data EURUSD,H1: initialized
+0	10:26:53.963	get_historical _data EURUSD,H1: Inside function
+0	10:26:54.212	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:54.213	get_historical _data EURUSD,H1: Inside function
+0	10:26:54.521	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:54.522	get_historical _data EURUSD,H1: Inside function
+0	10:26:54.807	get_historical _data EURUSD,H1: Data Download Done!
+0	10:26:54.809	get_historical _data EURUSD,H1: Inside function
+0	10:26:55.025	get_historical _data EURUSD,H1: Data Download Done!
+0	10:27:19.917	get_historical _data EURUSD,H1: uninit reason 3
+0	10:27:19.921	get_historical _data EURUSD,H4: Before initializing R
+0	10:27:20.192	get_historical _data EURUSD,H4: Before function
+0	10:27:21.111	get_historical _data EURUSD,H4: Inside function
+0	10:27:21.415	get_historical _data EURUSD,H4: Data Download Done!
+0	10:27:21.415	get_historical _data EURUSD,H4: After function
+0	10:27:21.415	get_historical _data EURUSD,H4: initialized
+0	11:00:01.109	get_historical _data EURUSD,H1: Inside function
+0	11:00:01.111	get_historical _data USDCHF,H1: Inside function
+0	11:00:01.116	get_historical _data GBPUSD,H1: Inside function
+0	11:00:01.411	get_historical _data USDCAD,H1: Inside function
+0	11:00:01.818	get_historical _data USDCHF,H1: Data Download Done!
+0	11:00:01.820	get_historical _data USDCHF,H1: Inside function
+0	11:00:01.866	get_historical _data EURUSD,H1: Data Download Done!
+0	11:00:01.868	get_historical _data EURUSD,H1: Inside function
+0	11:00:01.948	get_historical _data GBPUSD,H1: Data Download Done!
+0	11:00:01.950	get_historical _data GBPUSD,H1: Inside function
+0	11:00:02.013	get_historical _data USDCAD,H1: Data Download Done!
+0	11:00:02.015	get_historical _data USDCAD,H1: Inside function
+0	11:00:02.385	get_historical _data GBPUSD,H1: Data Download Done!
+0	11:00:02.387	get_historical _data GBPUSD,H1: Inside function
+0	11:00:02.394	get_historical _data EURUSD,H1: Data Download Done!
+0	11:00:02.395	get_historical _data EURUSD,H1: Inside function
+0	11:00:02.476	get_historical _data USDCHF,H1: Data Download Done!
+0	11:00:02.478	get_historical _data USDCHF,H1: Inside function
+0	11:00:02.554	get_historical _data USDCAD,H1: Data Download Done!
+0	11:00:02.556	get_historical _data USDCAD,H1: Inside function
+0	11:00:02.861	get_historical _data EURUSD,H1: Data Download Done!
+0	11:00:02.863	get_historical _data EURUSD,H1: Inside function
+0	11:00:03.049	get_historical _data USDCHF,H1: Data Download Done!
+0	11:00:03.051	get_historical _data USDCHF,H1: Inside function
+0	11:00:03.072	get_historical _data USDCAD,H1: Data Download Done!
+0	11:00:03.074	get_historical _data USDCAD,H1: Inside function
+0	11:00:03.119	get_historical _data GBPUSD,H1: Data Download Done!
+0	11:00:03.121	get_historical _data GBPUSD,H1: Inside function
+0	11:00:03.350	get_historical _data EURUSD,H1: Data Download Done!
+0	11:00:03.538	get_historical _data USDCAD,H1: Data Download Done!
+0	11:00:03.555	get_historical _data USDCHF,H1: Data Download Done!
+0	11:00:03.610	get_historical _data GBPUSD,H1: Data Download Done!
+0	12:00:01.167	get_historical _data GBPUSD,H1: Inside function
+0	12:00:01.403	get_historical _data EURUSD,H1: Inside function
+0	12:00:01.475	get_historical _data USDCAD,H1: Inside function
+0	12:00:01.487	get_historical _data USDCHF,H1: Inside function
+0	12:00:01.535	get_historical _data GBPUSD,H1: Data Download Done!
+0	12:00:01.537	get_historical _data GBPUSD,H1: Inside function
+0	12:00:01.962	get_historical _data USDCHF,H1: Data Download Done!
+0	12:00:01.964	get_historical _data USDCHF,H1: Inside function
+0	12:00:01.979	get_historical _data USDCAD,H1: Data Download Done!
+0	12:00:01.981	get_historical _data USDCAD,H1: Inside function
+0	12:00:02.150	get_historical _data GBPUSD,H1: Data Download Done!
+0	12:00:02.151	get_historical _data GBPUSD,H1: Inside function
+0	12:00:02.213	get_historical _data EURUSD,H1: Data Download Done!
+0	12:00:02.215	get_historical _data EURUSD,H1: Inside function
+0	12:00:02.439	get_historical _data USDCHF,H1: Data Download Done!
+0	12:00:02.440	get_historical _data USDCHF,H1: Inside function
+0	12:00:02.447	get_historical _data USDCAD,H1: Data Download Done!
+0	12:00:02.448	get_historical _data USDCAD,H1: Inside function
+0	12:00:02.696	get_historical _data GBPUSD,H1: Data Download Done!
+0	12:00:02.699	get_historical _data GBPUSD,H1: Inside function
+0	12:00:02.832	get_historical _data EURUSD,H1: Data Download Done!
+0	12:00:02.834	get_historical _data EURUSD,H1: Inside function
+0	12:00:02.888	get_historical _data USDCHF,H1: Data Download Done!
+0	12:00:02.889	get_historical _data USDCHF,H1: Inside function
+0	12:00:02.895	get_historical _data USDCAD,H1: Data Download Done!
+0	12:00:02.897	get_historical _data USDCAD,H1: Inside function
+0	12:00:03.221	get_historical _data GBPUSD,H1: Data Download Done!
+0	12:00:03.318	get_historical _data USDCHF,H1: Data Download Done!
+0	12:00:03.323	get_historical _data EURUSD,H1: Data Download Done!
+0	12:00:03.325	get_historical _data EURUSD,H1: Inside function
+0	12:00:03.469	get_historical _data USDCAD,H1: Data Download Done!
+0	12:00:03.651	get_historical _data EURUSD,H1: Data Download Done!
+0	12:24:42.624	get_historical _data EURUSD,H4: uninit reason 3
+0	12:24:42.806	get_historical _data EURUSD,M1: Before initializing R
+0	12:24:43.308	get_historical _data EURUSD,M1: Before function
+0	12:24:44.362	get_historical _data EURUSD,M1: Inside function
+0	12:24:44.674	get_historical _data EURUSD,M1: Data Download Done!
+0	12:24:44.675	get_historical _data EURUSD,M1: After function
+0	12:24:44.675	get_historical _data EURUSD,M1: initialized
+0	12:24:44.676	get_historical _data EURUSD,M1: Inside function
+0	12:24:44.960	get_historical _data EURUSD,M1: Data Download Done!
+0	12:24:44.962	get_historical _data EURUSD,M1: Inside function
+0	12:24:45.181	get_historical _data EURUSD,M1: Data Download Done!
+0	12:24:45.183	get_historical _data EURUSD,M1: Inside function
+0	12:24:45.429	get_historical _data EURUSD,M1: Data Download Done!
+0	12:24:45.430	get_historical _data EURUSD,M1: Inside function
+0	12:24:45.713	get_historical _data EURUSD,M1: Data Download Done!
+0	12:24:45.713	get_historical _data EURUSD,M1: uninit reason 3
+0	12:24:45.716	get_historical _data EURUSD,H1: Before initializing R
+0	12:24:46.281	get_historical _data EURUSD,H1: Before function
+0	12:24:47.692	get_historical _data EURUSD,H1: Inside function
+0	12:24:47.979	get_historical _data EURUSD,H1: Data Download Done!
+0	12:24:47.979	get_historical _data EURUSD,H1: After function
+0	12:24:47.979	get_historical _data EURUSD,H1: initialized
+0	12:24:47.980	get_historical _data EURUSD,H1: Inside function
+0	12:24:48.234	get_historical _data EURUSD,H1: Data Download Done!
+0	12:24:48.236	get_historical _data EURUSD,H1: Inside function
+0	12:24:48.562	get_historical _data EURUSD,H1: Data Download Done!
+0	12:24:48.564	get_historical _data EURUSD,H1: Inside function
+0	12:24:48.827	get_historical _data EURUSD,H1: Data Download Done!
+0	12:24:48.829	get_historical _data EURUSD,H1: Inside function
+0	12:24:49.050	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:00.924	get_historical _data EURUSD,H1: Inside function
+0	13:00:00.925	get_historical _data USDCHF,H1: Inside function
+0	13:00:00.925	get_historical _data GBPUSD,H1: Inside function
+0	13:00:00.926	get_historical _data USDCAD,H1: Inside function
+0	13:00:00.926	get_historical _data EURUSD,H1: Inside function
+0	13:00:01.653	get_historical _data USDCAD,H1: Data Download Done!
+0	13:00:01.658	get_historical _data USDCAD,H1: Inside function
+0	13:00:01.701	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:01.703	get_historical _data EURUSD,H1: Inside function
+0	13:00:01.722	get_historical _data GBPUSD,H1: Data Download Done!
+0	13:00:01.724	get_historical _data GBPUSD,H1: Inside function
+0	13:00:01.838	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:01.839	get_historical _data EURUSD,H1: Inside function
+0	13:00:01.856	get_historical _data USDCHF,H1: Data Download Done!
+0	13:00:01.859	get_historical _data USDCHF,H1: Inside function
+0	13:00:02.306	get_historical _data USDCAD,H1: Data Download Done!
+0	13:00:02.308	get_historical _data USDCAD,H1: Inside function
+0	13:00:02.323	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:02.325	get_historical _data EURUSD,H1: Inside function
+0	13:00:02.366	get_historical _data GBPUSD,H1: Data Download Done!
+0	13:00:02.368	get_historical _data GBPUSD,H1: Inside function
+0	13:00:02.514	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:02.516	get_historical _data EURUSD,H1: Inside function
+0	13:00:02.554	get_historical _data USDCHF,H1: Data Download Done!
+0	13:00:02.566	get_historical _data USDCHF,H1: Inside function
+0	13:00:03.002	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:03.004	get_historical _data EURUSD,H1: Inside function
+0	13:00:03.036	get_historical _data GBPUSD,H1: Data Download Done!
+0	13:00:03.039	get_historical _data GBPUSD,H1: Inside function
+0	13:00:03.076	get_historical _data USDCAD,H1: Data Download Done!
+0	13:00:03.078	get_historical _data USDCAD,H1: Inside function
+0	13:00:03.122	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:03.124	get_historical _data EURUSD,H1: Inside function
+0	13:00:03.251	get_historical _data USDCHF,H1: Data Download Done!
+0	13:00:03.252	get_historical _data USDCHF,H1: Inside function
+0	13:00:03.655	get_historical _data GBPUSD,H1: Data Download Done!
+0	13:00:03.659	get_historical _data USDCAD,H1: Data Download Done!
+0	13:00:03.670	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:03.708	get_historical _data EURUSD,H1: Data Download Done!
+0	13:00:03.767	get_historical _data USDCHF,H1: Data Download Done!
+0	14:00:01.163	get_historical _data EURUSD,H1: Inside function
+0	14:00:01.163	get_historical _data EURUSD,H1: Inside function
+0	14:00:01.170	get_historical _data AUDUSD,H4: Inside function
+0	14:00:01.178	get_historical _data AUDUSD,H4: Inside function
+0	14:00:01.343	get_historical _data USDCHF,H1: Inside function
+0	14:00:01.359	get_historical _data USDJPY,H4: Inside function
+0	14:00:01.361	get_historical _data USDCHF,H4: Inside function
+0	14:00:01.703	get_historical _data GBPUSD,H1: Inside function
+0	14:00:01.710	get_historical _data USDCAD,H1: Inside function
+0	14:00:01.715	get_historical _data USDCAD,H4: Inside function
+0	14:00:01.808	get_historical _data GBPUSD,H4: Inside function
+0	14:00:02.212	get_historical _data NZDUSD,H4: Inside function
+0	14:00:02.438	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:02.440	get_historical _data EURUSD,H1: Inside function
+0	14:00:02.893	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:02.894	get_historical _data EURUSD,H1: Inside function
+0	14:00:03.022	get_historical _data USDCHF,H1: Data Download Done!
+0	14:00:03.024	get_historical _data USDCHF,H1: Inside function
+0	14:00:03.346	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:03.348	get_historical _data AUDUSD,H4: Inside function
+0	14:00:03.414	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:03.416	get_historical _data AUDUSD,H4: Inside function
+0	14:00:03.577	get_historical _data USDJPY,H4: Data Download Done!
+0	14:00:03.578	get_historical _data USDJPY,H4: Inside function
+0	14:00:03.587	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:03.588	get_historical _data EURUSD,H1: Inside function
+0	14:00:03.706	get_historical _data USDCAD,H1: Data Download Done!
+0	14:00:03.708	get_historical _data USDCAD,H1: Inside function
+0	14:00:03.738	get_historical _data GBPUSD,H1: Data Download Done!
+0	14:00:03.739	get_historical _data GBPUSD,H1: Inside function
+0	14:00:03.769	get_historical _data USDCHF,H4: Data Download Done!
+0	14:00:03.776	get_historical _data USDCHF,H4: Inside function
+0	14:00:04.017	get_historical _data USDCAD,H4: Data Download Done!
+0	14:00:04.018	get_historical _data USDCAD,H4: Inside function
+0	14:00:04.087	get_historical _data GBPUSD,H4: Data Download Done!
+0	14:00:04.089	get_historical _data GBPUSD,H4: Inside function
+0	14:00:04.096	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:04.098	get_historical _data EURUSD,H1: Inside function
+0	14:00:04.497	get_historical _data NZDUSD,H4: Data Download Done!
+0	14:00:04.498	get_historical _data NZDUSD,H4: Inside function
+0	14:00:04.604	get_historical _data USDCHF,H1: Data Download Done!
+0	14:00:04.605	get_historical _data USDCHF,H1: Inside function
+0	14:00:05.096	get_historical _data USDCAD,H1: Data Download Done!
+0	14:00:05.097	get_historical _data USDCAD,H1: Inside function
+0	14:00:05.276	get_historical _data USDCAD,H4: Data Download Done!
+0	14:00:05.278	get_historical _data USDCAD,H4: Inside function
+0	14:00:05.311	get_historical _data USDCHF,H4: Data Download Done!
+0	14:00:05.312	get_historical _data USDCHF,H4: Inside function
+0	14:00:05.325	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:05.327	get_historical _data AUDUSD,H4: Inside function
+0	14:00:05.438	get_historical _data USDJPY,H4: Data Download Done!
+0	14:00:05.441	get_historical _data USDJPY,H4: Inside function
+0	14:00:05.495	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:05.497	get_historical _data AUDUSD,H4: Inside function
+0	14:00:05.666	get_historical _data GBPUSD,H4: Data Download Done!
+0	14:00:05.713	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:05.715	get_historical _data EURUSD,H1: Inside function
+0	14:00:05.729	get_historical _data GBPUSD,H4: Inside function
+0	14:00:05.828	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:05.830	get_historical _data EURUSD,H1: Inside function
+0	14:00:05.967	get_historical _data GBPUSD,H1: Data Download Done!
+0	14:00:05.968	get_historical _data GBPUSD,H1: Inside function
+0	14:00:06.181	get_historical _data NZDUSD,H4: Data Download Done!
+0	14:00:06.183	get_historical _data NZDUSD,H4: Inside function
+0	14:00:06.238	get_historical _data USDCHF,H1: Data Download Done!
+0	14:00:06.240	get_historical _data USDCHF,H1: Inside function
+0	14:00:06.369	get_historical _data USDCAD,H1: Data Download Done!
+0	14:00:06.370	get_historical _data USDCAD,H1: Inside function
+0	14:00:06.792	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:06.793	get_historical _data EURUSD,H1: Data Download Done!
+0	14:00:06.889	get_historical _data USDCHF,H4: Data Download Done!
+0	14:00:06.890	get_historical _data USDCHF,H4: Inside function
+0	14:00:06.905	get_historical _data USDCAD,H4: Data Download Done!
+0	14:00:06.906	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:06.906	get_historical _data USDCAD,H4: Inside function
+0	14:00:06.908	get_historical _data AUDUSD,H4: Inside function
+0	14:00:07.005	get_historical _data GBPUSD,H1: Data Download Done!
+0	14:00:07.007	get_historical _data GBPUSD,H1: Inside function
+0	14:00:07.079	get_historical _data USDCHF,H1: Data Download Done!
+0	14:00:07.098	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:07.100	get_historical _data AUDUSD,H4: Inside function
+0	14:00:07.161	get_historical _data USDCAD,H1: Data Download Done!
+0	14:00:07.341	get_historical _data USDJPY,H4: Data Download Done!
+0	14:00:07.343	get_historical _data USDJPY,H4: Inside function
+0	14:00:07.343	get_historical _data GBPUSD,H4: Data Download Done!
+0	14:00:07.345	get_historical _data GBPUSD,H4: Inside function
+0	14:00:07.537	get_historical _data NZDUSD,H4: Data Download Done!
+0	14:00:07.539	get_historical _data NZDUSD,H4: Inside function
+0	14:00:07.583	get_historical _data USDCAD,H4: Data Download Done!
+0	14:00:07.757	get_historical _data USDCHF,H4: Data Download Done!
+0	14:00:07.910	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:07.968	get_historical _data GBPUSD,H1: Data Download Done!
+0	14:00:07.974	get_historical _data AUDUSD,H4: Data Download Done!
+0	14:00:08.013	get_historical _data USDJPY,H4: Data Download Done!
+0	14:00:08.028	get_historical _data GBPUSD,H4: Data Download Done!
+0	14:00:08.129	get_historical _data NZDUSD,H4: Data Download Done!
+0	14:55:23.617	get_historical _data EURUSD,H1: uninit reason 3
+0	14:55:23.875	get_historical _data EURUSD,M1: Before initializing R
+0	14:55:25.549	get_historical _data EURUSD,M1: Before function
+0	14:55:27.859	get_historical _data EURUSD,M1: Inside function
+0	14:55:28.251	get_historical _data EURUSD,M1: Data Download Done!
+0	14:55:28.251	get_historical _data EURUSD,M1: After function
+0	14:55:28.251	get_historical _data EURUSD,M1: initialized
+0	14:55:28.252	get_historical _data EURUSD,M1: Inside function
+0	14:55:28.504	get_historical _data EURUSD,M1: Data Download Done!
+0	14:55:28.505	get_historical _data EURUSD,M1: Inside function
+0	14:55:28.746	get_historical _data EURUSD,M1: Data Download Done!
+0	14:55:28.747	get_historical _data EURUSD,M1: Inside function
+0	14:55:28.985	get_historical _data EURUSD,M1: Data Download Done!
+0	14:55:28.986	get_historical _data EURUSD,M1: Inside function
+0	14:55:29.257	get_historical _data EURUSD,M1: Data Download Done!
+0	14:56:01.000	get_historical _data EURUSD,M1: Inside function
+0	14:56:01.225	get_historical _data EURUSD,M1: Data Download Done!
+0	14:56:01.226	get_historical _data EURUSD,M1: Inside function
+0	14:56:01.434	get_historical _data EURUSD,M1: Data Download Done!
+0	14:56:01.436	get_historical _data EURUSD,M1: Inside function
+0	14:56:01.659	get_historical _data EURUSD,M1: Data Download Done!
+0	14:56:01.661	get_historical _data EURUSD,M1: Inside function
+0	14:56:01.893	get_historical _data EURUSD,M1: Data Download Done!
+0	14:57:02.014	get_historical _data EURUSD,M1: Inside function
+0	14:57:02.280	get_historical _data EURUSD,M1: Data Download Done!
+0	14:57:02.281	get_historical _data EURUSD,M1: Inside function
+0	14:57:02.491	get_historical _data EURUSD,M1: Data Download Done!
+0	14:57:02.493	get_historical _data EURUSD,M1: Inside function
+0	14:57:02.737	get_historical _data EURUSD,M1: Data Download Done!
+0	14:57:02.738	get_historical _data EURUSD,M1: Inside function
+0	14:57:02.942	get_historical _data EURUSD,M1: Data Download Done!
+0	14:58:01.257	get_historical _data EURUSD,M1: Inside function
+0	14:58:01.511	get_historical _data EURUSD,M1: Data Download Done!
+0	14:58:01.513	get_historical _data EURUSD,M1: Inside function
+0	14:58:01.720	get_historical _data EURUSD,M1: Data Download Done!
+0	14:58:01.722	get_historical _data EURUSD,M1: Inside function
+0	14:58:01.957	get_historical _data EURUSD,M1: Data Download Done!
+0	14:58:01.958	get_historical _data EURUSD,M1: Inside function
+0	14:58:02.161	get_historical _data EURUSD,M1: Data Download Done!
+0	14:59:01.795	get_historical _data EURUSD,M1: Inside function
+0	14:59:02.105	get_historical _data EURUSD,M1: Data Download Done!
+0	14:59:02.107	get_historical _data EURUSD,M1: Inside function
+0	14:59:02.320	get_historical _data EURUSD,M1: Data Download Done!
+0	14:59:02.322	get_historical _data EURUSD,M1: Inside function
+0	14:59:02.534	get_historical _data EURUSD,M1: Data Download Done!
+0	14:59:02.535	get_historical _data EURUSD,M1: Inside function
+0	14:59:02.844	get_historical _data EURUSD,M1: Data Download Done!
+0	15:00:00.830	get_historical _data GBPUSD,H1: Inside function
+0	15:00:01.189	get_historical _data GBPUSD,H1: Data Download Done!
+0	15:00:01.191	get_historical _data GBPUSD,H1: Inside function
+0	15:00:01.322	get_historical _data EURUSD,M1: Inside function
+0	15:00:01.322	get_historical _data EURUSD,H1: Inside function
+0	15:00:01.350	get_historical _data USDCAD,H1: Inside function
+0	15:00:01.780	get_historical _data GBPUSD,H1: Data Download Done!
+0	15:00:01.782	get_historical _data GBPUSD,H1: Inside function
+0	15:00:01.814	get_historical _data EURUSD,M1: Data Download Done!
+0	15:00:01.816	get_historical _data EURUSD,M1: Inside function
+0	15:00:01.922	get_historical _data EURUSD,H1: Data Download Done!
+0	15:00:01.924	get_historical _data EURUSD,H1: Inside function
+0	15:00:01.967	get_historical _data USDCAD,H1: Data Download Done!
+0	15:00:01.968	get_historical _data USDCAD,H1: Inside function
+0	15:00:02.253	get_historical _data GBPUSD,H1: Data Download Done!
+0	15:00:02.255	get_historical _data GBPUSD,H1: Inside function
+0	15:00:02.284	get_historical _data EURUSD,M1: Data Download Done!
+0	15:00:02.286	get_historical _data EURUSD,M1: Inside function
+0	15:00:02.476	get_historical _data EURUSD,H1: Data Download Done!
+0	15:00:02.478	get_historical _data EURUSD,H1: Inside function
+0	15:00:02.508	get_historical _data USDCAD,H1: Data Download Done!
+0	15:00:02.509	get_historical _data USDCAD,H1: Inside function
+0	15:00:02.739	get_historical _data GBPUSD,H1: Data Download Done!
+0	15:00:02.838	get_historical _data EURUSD,M1: Data Download Done!
+0	15:00:02.841	get_historical _data EURUSD,M1: Inside function
+0	15:00:02.917	get_historical _data EURUSD,H1: Data Download Done!
+0	15:00:02.918	get_historical _data EURUSD,H1: Inside function
+0	15:00:02.978	get_historical _data USDCAD,H1: Data Download Done!
+0	15:00:02.979	get_historical _data USDCAD,H1: Inside function
+0	15:00:03.224	get_historical _data EURUSD,M1: Data Download Done!
+0	15:00:03.331	get_historical _data USDCAD,H1: Data Download Done!
+0	15:00:03.350	get_historical _data EURUSD,H1: Data Download Done!
+0	15:00:03.361	get_historical _data USDCHF,H1: Inside function
+0	15:00:03.726	get_historical _data USDCHF,H1: Data Download Done!
+0	15:00:03.728	get_historical _data USDCHF,H1: Inside function
+0	15:00:04.040	get_historical _data USDCHF,H1: Data Download Done!
+0	15:00:04.041	get_historical _data USDCHF,H1: Inside function
+0	15:00:04.294	get_historical _data USDCHF,H1: Data Download Done!
+0	15:00:04.295	get_historical _data USDCHF,H1: Inside function
+0	15:00:04.558	get_historical _data USDCHF,H1: Data Download Done!
+0	15:01:02.323	get_historical _data EURUSD,M1: Inside function
+0	15:01:02.570	get_historical _data EURUSD,M1: Data Download Done!
+0	15:01:02.571	get_historical _data EURUSD,M1: Inside function
+0	15:01:02.787	get_historical _data EURUSD,M1: Data Download Done!
+0	15:01:02.789	get_historical _data EURUSD,M1: Inside function
+0	15:01:03.091	get_historical _data EURUSD,M1: Data Download Done!
+0	15:01:03.095	get_historical _data EURUSD,M1: Inside function
+0	15:01:03.326	get_historical _data EURUSD,M1: Data Download Done!
+0	15:02:00.852	get_historical _data EURUSD,M1: Inside function
+0	15:02:01.085	get_historical _data EURUSD,M1: Data Download Done!
+0	15:02:01.086	get_historical _data EURUSD,M1: Inside function
+0	15:02:01.296	get_historical _data EURUSD,M1: Data Download Done!
+0	15:02:01.297	get_historical _data EURUSD,M1: Inside function
+0	15:02:01.518	get_historical _data EURUSD,M1: Data Download Done!
+0	15:02:01.520	get_historical _data EURUSD,M1: Inside function
+0	15:02:01.741	get_historical _data EURUSD,M1: Data Download Done!
+0	15:03:04.171	get_historical _data EURUSD,M1: Inside function
+0	15:03:04.399	get_historical _data EURUSD,M1: Data Download Done!
+0	15:03:04.401	get_historical _data EURUSD,M1: Inside function
+0	15:03:04.606	get_historical _data EURUSD,M1: Data Download Done!
+0	15:03:04.608	get_historical _data EURUSD,M1: Inside function
+0	15:03:04.828	get_historical _data EURUSD,M1: Data Download Done!
+0	15:03:04.830	get_historical _data EURUSD,M1: Inside function
+0	15:03:05.043	get_historical _data EURUSD,M1: Data Download Done!
+0	15:04:01.213	get_historical _data EURUSD,M1: Inside function
+0	15:04:01.458	get_historical _data EURUSD,M1: Data Download Done!
+0	15:04:01.460	get_historical _data EURUSD,M1: Inside function
+0	15:04:01.672	get_historical _data EURUSD,M1: Data Download Done!
+0	15:04:01.674	get_historical _data EURUSD,M1: Inside function
+0	15:04:01.881	get_historical _data EURUSD,M1: Data Download Done!
+0	15:04:01.883	get_historical _data EURUSD,M1: Inside function
+0	15:04:02.113	get_historical _data EURUSD,M1: Data Download Done!
+0	15:05:02.009	get_historical _data EURUSD,M1: Inside function
+0	15:05:02.253	get_historical _data EURUSD,M1: Data Download Done!
+0	15:05:02.254	get_historical _data EURUSD,M1: Inside function
+0	15:05:02.494	get_historical _data EURUSD,M1: Data Download Done!
+0	15:05:02.496	get_historical _data EURUSD,M1: Inside function
+0	15:05:02.700	get_historical _data EURUSD,M1: Data Download Done!
+0	15:05:02.702	get_historical _data EURUSD,M1: Inside function
+0	15:05:02.931	get_historical _data EURUSD,M1: Data Download Done!
+0	15:06:02.278	get_historical _data EURUSD,M1: Inside function
+0	15:06:02.527	get_historical _data EURUSD,M1: Data Download Done!
+0	15:06:02.529	get_historical _data EURUSD,M1: Inside function
+0	15:06:02.748	get_historical _data EURUSD,M1: Data Download Done!
+0	15:06:02.749	get_historical _data EURUSD,M1: Inside function
+0	15:06:02.964	get_historical _data EURUSD,M1: Data Download Done!
+0	15:06:02.965	get_historical _data EURUSD,M1: Inside function
+0	15:06:03.253	get_historical _data EURUSD,M1: Data Download Done!
+0	15:07:01.033	get_historical _data EURUSD,M1: Inside function
+0	15:07:01.265	get_historical _data EURUSD,M1: Data Download Done!
+0	15:07:01.267	get_historical _data EURUSD,M1: Inside function
+0	15:07:01.495	get_historical _data EURUSD,M1: Data Download Done!
+0	15:07:01.496	get_historical _data EURUSD,M1: Inside function
+0	15:07:01.745	get_historical _data EURUSD,M1: Data Download Done!
+0	15:07:01.746	get_historical _data EURUSD,M1: Inside function
+0	15:07:01.954	get_historical _data EURUSD,M1: Data Download Done!
+0	15:08:02.783	get_historical _data EURUSD,M1: Inside function
+0	15:08:03.037	get_historical _data EURUSD,M1: Data Download Done!
+0	15:08:03.038	get_historical _data EURUSD,M1: Inside function
+0	15:08:03.250	get_historical _data EURUSD,M1: Data Download Done!
+0	15:08:03.251	get_historical _data EURUSD,M1: Inside function
+0	15:08:03.459	get_historical _data EURUSD,M1: Data Download Done!
+0	15:08:03.461	get_historical _data EURUSD,M1: Inside function
+0	15:08:03.813	get_historical _data EURUSD,M1: Data Download Done!
+0	15:09:01.288	get_historical _data EURUSD,M1: Inside function
+0	15:09:01.521	get_historical _data EURUSD,M1: Data Download Done!
+0	15:09:01.522	get_historical _data EURUSD,M1: Inside function
+0	15:09:01.732	get_historical _data EURUSD,M1: Data Download Done!
+0	15:09:01.733	get_historical _data EURUSD,M1: Inside function
+0	15:09:01.951	get_historical _data EURUSD,M1: Data Download Done!
+0	15:09:01.953	get_historical _data EURUSD,M1: Inside function
+0	15:09:02.159	get_historical _data EURUSD,M1: Data Download Done!
+0	15:10:01.125	get_historical _data EURUSD,M1: Inside function
+0	15:10:01.365	get_historical _data EURUSD,M1: Data Download Done!
+0	15:10:01.366	get_historical _data EURUSD,M1: Inside function
+0	15:10:01.596	get_historical _data EURUSD,M1: Data Download Done!
+0	15:10:01.598	get_historical _data EURUSD,M1: Inside function
+0	15:10:01.834	get_historical _data EURUSD,M1: Data Download Done!
+0	15:10:01.836	get_historical _data EURUSD,M1: Inside function
+0	15:10:02.038	get_historical _data EURUSD,M1: Data Download Done!
+0	15:11:01.037	get_historical _data EURUSD,M1: Inside function
+0	15:11:01.344	get_historical _data EURUSD,M1: Data Download Done!
+0	15:11:01.345	get_historical _data EURUSD,M1: Inside function
+0	15:11:01.562	get_historical _data EURUSD,M1: Data Download Done!
+0	15:11:01.564	get_historical _data EURUSD,M1: Inside function
+0	15:11:01.778	get_historical _data EURUSD,M1: Data Download Done!
+0	15:11:01.779	get_historical _data EURUSD,M1: Inside function
+0	15:11:01.981	get_historical _data EURUSD,M1: Data Download Done!
+0	15:12:01.850	get_historical _data EURUSD,M1: Inside function
+0	15:12:02.093	get_historical _data EURUSD,M1: Data Download Done!
+0	15:12:02.095	get_historical _data EURUSD,M1: Inside function
+0	15:12:02.314	get_historical _data EURUSD,M1: Data Download Done!
+0	15:12:02.315	get_historical _data EURUSD,M1: Inside function
+0	15:12:02.533	get_historical _data EURUSD,M1: Data Download Done!
+0	15:12:02.534	get_historical _data EURUSD,M1: Inside function
+0	15:12:02.741	get_historical _data EURUSD,M1: Data Download Done!
+0	15:13:01.283	get_historical _data EURUSD,M1: Inside function
+0	15:13:01.531	get_historical _data EURUSD,M1: Data Download Done!
+0	15:13:01.533	get_historical _data EURUSD,M1: Inside function
+0	15:13:01.755	get_historical _data EURUSD,M1: Data Download Done!
+0	15:13:01.757	get_historical _data EURUSD,M1: Inside function
+0	15:13:01.970	get_historical _data EURUSD,M1: Data Download Done!
+0	15:13:01.972	get_historical _data EURUSD,M1: Inside function
+0	15:13:02.184	get_historical _data EURUSD,M1: Data Download Done!
+0	15:14:01.249	get_historical _data EURUSD,M1: Inside function
+0	15:14:01.483	get_historical _data EURUSD,M1: Data Download Done!
+0	15:14:01.485	get_historical _data EURUSD,M1: Inside function
+0	15:14:01.714	get_historical _data EURUSD,M1: Data Download Done!
+0	15:14:01.715	get_historical _data EURUSD,M1: Inside function
+0	15:14:01.962	get_historical _data EURUSD,M1: Data Download Done!
+0	15:14:01.963	get_historical _data EURUSD,M1: Inside function
+0	15:14:02.192	get_historical _data EURUSD,M1: Data Download Done!
+0	15:15:01.282	get_historical _data EURUSD,M1: Inside function
+0	15:15:01.526	get_historical _data EURUSD,M1: Data Download Done!
+0	15:15:01.527	get_historical _data EURUSD,M1: Inside function
+0	15:15:01.744	get_historical _data EURUSD,M1: Data Download Done!
+0	15:15:01.745	get_historical _data EURUSD,M1: Inside function
+0	15:15:01.955	get_historical _data EURUSD,M1: Data Download Done!
+0	15:15:01.956	get_historical _data EURUSD,M1: Inside function
+0	15:15:02.170	get_historical _data EURUSD,M1: Data Download Done!
+0	15:16:01.520	get_historical _data EURUSD,M1: Inside function
+0	15:16:01.754	get_historical _data EURUSD,M1: Data Download Done!
+0	15:16:01.755	get_historical _data EURUSD,M1: Inside function
+0	15:16:02.039	get_historical _data EURUSD,M1: Data Download Done!
+0	15:16:02.040	get_historical _data EURUSD,M1: Inside function
+0	15:16:02.248	get_historical _data EURUSD,M1: Data Download Done!
+0	15:16:02.250	get_historical _data EURUSD,M1: Inside function
+0	15:16:02.512	get_historical _data EURUSD,M1: Data Download Done!
+0	15:17:01.497	get_historical _data EURUSD,M1: Inside function
+0	15:17:01.719	get_historical _data EURUSD,M1: Data Download Done!
+0	15:17:01.721	get_historical _data EURUSD,M1: Inside function
+0	15:17:01.981	get_historical _data EURUSD,M1: Data Download Done!
+0	15:17:01.983	get_historical _data EURUSD,M1: Inside function
+0	15:17:02.196	get_historical _data EURUSD,M1: Data Download Done!
+0	15:17:02.198	get_historical _data EURUSD,M1: Inside function
+0	15:17:02.410	get_historical _data EURUSD,M1: Data Download Done!
+0	15:18:01.250	get_historical _data EURUSD,M1: Inside function
+0	15:18:01.500	get_historical _data EURUSD,M1: Data Download Done!
+0	15:18:01.501	get_historical _data EURUSD,M1: Inside function
+0	15:18:01.721	get_historical _data EURUSD,M1: Data Download Done!
+0	15:18:01.723	get_historical _data EURUSD,M1: Inside function
+0	15:18:01.931	get_historical _data EURUSD,M1: Data Download Done!
+0	15:18:01.932	get_historical _data EURUSD,M1: Inside function
+0	15:18:02.136	get_historical _data EURUSD,M1: Data Download Done!
+0	15:19:02.782	get_historical _data EURUSD,M1: Inside function
+0	15:19:03.050	get_historical _data EURUSD,M1: Data Download Done!
+0	15:19:03.052	get_historical _data EURUSD,M1: Inside function
+0	15:19:03.262	get_historical _data EURUSD,M1: Data Download Done!
+0	15:19:03.264	get_historical _data EURUSD,M1: Inside function
+0	15:19:03.487	get_historical _data EURUSD,M1: Data Download Done!
+0	15:19:03.488	get_historical _data EURUSD,M1: Inside function
+0	15:19:03.772	get_historical _data EURUSD,M1: Data Download Done!
+0	15:20:02.588	get_historical _data EURUSD,M1: Inside function
+0	15:20:02.805	get_historical _data EURUSD,M1: Data Download Done!
+0	15:20:02.806	get_historical _data EURUSD,M1: Inside function
+0	15:20:03.034	get_historical _data EURUSD,M1: Data Download Done!
+0	15:20:03.036	get_historical _data EURUSD,M1: Inside function
+0	15:20:03.244	get_historical _data EURUSD,M1: Data Download Done!
+0	15:20:03.245	get_historical _data EURUSD,M1: Inside function
+0	15:20:03.461	get_historical _data EURUSD,M1: Data Download Done!
+0	15:21:01.704	get_historical _data EURUSD,M1: Inside function
+0	15:21:01.940	get_historical _data EURUSD,M1: Data Download Done!
+0	15:21:01.942	get_historical _data EURUSD,M1: Inside function
+0	15:21:02.221	get_historical _data EURUSD,M1: Data Download Done!
+0	15:21:02.223	get_historical _data EURUSD,M1: Inside function
+0	15:21:02.498	get_historical _data EURUSD,M1: Data Download Done!
+0	15:21:02.500	get_historical _data EURUSD,M1: Inside function
+0	15:21:02.705	get_historical _data EURUSD,M1: Data Download Done!
+0	15:22:00.894	get_historical _data EURUSD,M1: Inside function
+0	15:22:01.137	get_historical _data EURUSD,M1: Data Download Done!
+0	15:22:01.139	get_historical _data EURUSD,M1: Inside function
+0	15:22:01.355	get_historical _data EURUSD,M1: Data Download Done!
+0	15:22:01.357	get_historical _data EURUSD,M1: Inside function
+0	15:22:01.668	get_historical _data EURUSD,M1: Data Download Done!
+0	15:22:01.669	get_historical _data EURUSD,M1: Inside function
+0	15:22:01.874	get_historical _data EURUSD,M1: Data Download Done!
+0	15:23:01.641	get_historical _data EURUSD,M1: Inside function
+0	15:23:01.948	get_historical _data EURUSD,M1: Data Download Done!
+0	15:23:01.950	get_historical _data EURUSD,M1: Inside function
+0	15:23:02.216	get_historical _data EURUSD,M1: Data Download Done!
+0	15:23:02.217	get_historical _data EURUSD,M1: Inside function
+0	15:23:02.523	get_historical _data EURUSD,M1: Data Download Done!
+0	15:23:02.536	get_historical _data EURUSD,M1: Inside function
+0	15:23:02.793	get_historical _data EURUSD,M1: Data Download Done!
+0	15:24:01.672	get_historical _data EURUSD,M1: Inside function
+0	15:24:01.898	get_historical _data EURUSD,M1: Data Download Done!
+0	15:24:01.899	get_historical _data EURUSD,M1: Inside function
+0	15:24:02.136	get_historical _data EURUSD,M1: Data Download Done!
+0	15:24:02.138	get_historical _data EURUSD,M1: Inside function
+0	15:24:02.365	get_historical _data EURUSD,M1: Data Download Done!
+0	15:24:02.367	get_historical _data EURUSD,M1: Inside function
+0	15:24:02.592	get_historical _data EURUSD,M1: Data Download Done!
+0	15:25:00.948	get_historical _data EURUSD,M1: Inside function
+0	15:25:01.190	get_historical _data EURUSD,M1: Data Download Done!
+0	15:25:01.192	get_historical _data EURUSD,M1: Inside function
+0	15:25:01.417	get_historical _data EURUSD,M1: Data Download Done!
+0	15:25:01.419	get_historical _data EURUSD,M1: Inside function
+0	15:25:01.642	get_historical _data EURUSD,M1: Data Download Done!
+0	15:25:01.643	get_historical _data EURUSD,M1: Inside function
+0	15:25:01.867	get_historical _data EURUSD,M1: Data Download Done!
+0	15:26:03.036	get_historical _data EURUSD,M1: Inside function
+0	15:26:03.271	get_historical _data EURUSD,M1: Data Download Done!
+0	15:26:03.273	get_historical _data EURUSD,M1: Inside function
+0	15:26:03.487	get_historical _data EURUSD,M1: Data Download Done!
+0	15:26:03.489	get_historical _data EURUSD,M1: Inside function
+0	15:26:03.703	get_historical _data EURUSD,M1: Data Download Done!
+0	15:26:03.705	get_historical _data EURUSD,M1: Inside function
+0	15:26:03.911	get_historical _data EURUSD,M1: Data Download Done!
+0	15:27:01.267	get_historical _data EURUSD,M1: Inside function
+0	15:27:01.510	get_historical _data EURUSD,M1: Data Download Done!
+0	15:27:01.511	get_historical _data EURUSD,M1: Inside function
+0	15:27:01.747	get_historical _data EURUSD,M1: Data Download Done!
+0	15:27:01.748	get_historical _data EURUSD,M1: Inside function
+0	15:27:01.955	get_historical _data EURUSD,M1: Data Download Done!
+0	15:27:01.957	get_historical _data EURUSD,M1: Inside function
+0	15:27:02.161	get_historical _data EURUSD,M1: Data Download Done!
+0	15:28:01.517	get_historical _data EURUSD,M1: Inside function
+0	15:28:01.754	get_historical _data EURUSD,M1: Data Download Done!
+0	15:28:01.755	get_historical _data EURUSD,M1: Inside function
+0	15:28:01.988	get_historical _data EURUSD,M1: Data Download Done!
+0	15:28:01.990	get_historical _data EURUSD,M1: Inside function
+0	15:28:02.206	get_historical _data EURUSD,M1: Data Download Done!
+0	15:28:02.208	get_historical _data EURUSD,M1: Inside function
+0	15:28:02.434	get_historical _data EURUSD,M1: Data Download Done!
+0	15:29:02.063	get_historical _data EURUSD,M1: Inside function
+0	15:29:02.359	get_historical _data EURUSD,M1: Data Download Done!
+0	15:29:02.361	get_historical _data EURUSD,M1: Inside function
+0	15:29:02.580	get_historical _data EURUSD,M1: Data Download Done!
+0	15:29:02.581	get_historical _data EURUSD,M1: Inside function
+0	15:29:02.797	get_historical _data EURUSD,M1: Data Download Done!
+0	15:29:02.799	get_historical _data EURUSD,M1: Inside function
+0	15:29:03.004	get_historical _data EURUSD,M1: Data Download Done!
+0	15:30:00.985	get_historical _data EURUSD,M1: Inside function
+0	15:30:01.211	get_historical _data EURUSD,M1: Data Download Done!
+0	15:30:01.212	get_historical _data EURUSD,M1: Inside function
+0	15:30:01.441	get_historical _data EURUSD,M1: Data Download Done!
+0	15:30:01.443	get_historical _data EURUSD,M1: Inside function
+0	15:30:01.767	get_historical _data EURUSD,M1: Data Download Done!
+0	15:30:01.769	get_historical _data EURUSD,M1: Inside function
+0	15:30:01.978	get_historical _data EURUSD,M1: Data Download Done!
+0	15:31:02.281	get_historical _data EURUSD,M1: Inside function
+0	15:31:02.525	get_historical _data EURUSD,M1: Data Download Done!
+0	15:31:02.527	get_historical _data EURUSD,M1: Inside function
+0	15:31:02.759	get_historical _data EURUSD,M1: Data Download Done!
+0	15:31:02.761	get_historical _data EURUSD,M1: Inside function
+0	15:31:02.987	get_historical _data EURUSD,M1: Data Download Done!
+0	15:31:02.988	get_historical _data EURUSD,M1: Inside function
+0	15:31:03.197	get_historical _data EURUSD,M1: Data Download Done!
+0	15:32:00.903	get_historical _data EURUSD,M1: Inside function
+0	15:32:01.136	get_historical _data EURUSD,M1: Data Download Done!
+0	15:32:01.138	get_historical _data EURUSD,M1: Inside function
+0	15:32:01.357	get_historical _data EURUSD,M1: Data Download Done!
+0	15:32:01.359	get_historical _data EURUSD,M1: Inside function
+0	15:32:01.573	get_historical _data EURUSD,M1: Data Download Done!
+0	15:32:01.575	get_historical _data EURUSD,M1: Inside function
+0	15:32:01.781	get_historical _data EURUSD,M1: Data Download Done!
+0	15:33:00.878	get_historical _data EURUSD,M1: Inside function
+0	15:33:01.139	get_historical _data EURUSD,M1: Data Download Done!
+0	15:33:01.140	get_historical _data EURUSD,M1: Inside function
+0	15:33:01.371	get_historical _data EURUSD,M1: Data Download Done!
+0	15:33:01.373	get_historical _data EURUSD,M1: Inside function
+0	15:33:01.602	get_historical _data EURUSD,M1: Data Download Done!
+0	15:33:01.604	get_historical _data EURUSD,M1: Inside function
+0	15:33:01.816	get_historical _data EURUSD,M1: Data Download Done!
+0	15:34:01.401	get_historical _data EURUSD,M1: Inside function
+0	15:34:01.647	get_historical _data EURUSD,M1: Data Download Done!
+0	15:34:01.649	get_historical _data EURUSD,M1: Inside function
+0	15:34:01.856	get_historical _data EURUSD,M1: Data Download Done!
+0	15:34:01.858	get_historical _data EURUSD,M1: Inside function
+0	15:34:02.065	get_historical _data EURUSD,M1: Data Download Done!
+0	15:34:02.066	get_historical _data EURUSD,M1: Inside function
+0	15:34:02.272	get_historical _data EURUSD,M1: Data Download Done!
+0	15:35:01.208	get_historical _data EURUSD,M1: Inside function
+0	15:35:01.472	get_historical _data EURUSD,M1: Data Download Done!
+0	15:35:01.475	get_historical _data EURUSD,M1: Inside function
+0	15:35:01.777	get_historical _data EURUSD,M1: Data Download Done!
+0	15:35:01.779	get_historical _data EURUSD,M1: Inside function
+0	15:35:01.993	get_historical _data EURUSD,M1: Data Download Done!
+0	15:35:01.994	get_historical _data EURUSD,M1: Inside function
+0	15:35:02.202	get_historical _data EURUSD,M1: Data Download Done!
+0	15:36:01.134	get_historical _data EURUSD,M1: Inside function
+0	15:36:01.436	get_historical _data EURUSD,M1: Data Download Done!
+0	15:36:01.438	get_historical _data EURUSD,M1: Inside function
+0	15:36:01.690	get_historical _data EURUSD,M1: Data Download Done!
+0	15:36:01.692	get_historical _data EURUSD,M1: Inside function
+0	15:36:01.931	get_historical _data EURUSD,M1: Data Download Done!
+0	15:36:01.932	get_historical _data EURUSD,M1: Inside function
+0	15:36:02.275	get_historical _data EURUSD,M1: Data Download Done!
+0	15:37:01.010	get_historical _data EURUSD,M1: Inside function
+0	15:37:01.345	get_historical _data EURUSD,M1: Data Download Done!
+0	15:37:01.346	get_historical _data EURUSD,M1: Inside function
+0	15:37:01.591	get_historical _data EURUSD,M1: Data Download Done!
+0	15:37:01.592	get_historical _data EURUSD,M1: Inside function
+0	15:37:01.829	get_historical _data EURUSD,M1: Data Download Done!
+0	15:37:01.830	get_historical _data EURUSD,M1: Inside function
+0	15:37:02.043	get_historical _data EURUSD,M1: Data Download Done!
+0	15:38:02.051	get_historical _data EURUSD,M1: Inside function
+0	15:38:02.329	get_historical _data EURUSD,M1: Data Download Done!
+0	15:38:02.331	get_historical _data EURUSD,M1: Inside function
+0	15:38:02.624	get_historical _data EURUSD,M1: Data Download Done!
+0	15:38:02.625	get_historical _data EURUSD,M1: Inside function
+0	15:38:02.835	get_historical _data EURUSD,M1: Data Download Done!
+0	15:38:02.837	get_historical _data EURUSD,M1: Inside function
+0	15:38:03.041	get_historical _data EURUSD,M1: Data Download Done!
+0	15:39:03.074	get_historical _data EURUSD,M1: Inside function
+0	15:39:03.328	get_historical _data EURUSD,M1: Data Download Done!
+0	15:39:03.329	get_historical _data EURUSD,M1: Inside function
+0	15:39:03.560	get_historical _data EURUSD,M1: Data Download Done!
+0	15:39:03.562	get_historical _data EURUSD,M1: Inside function
+0	15:39:03.792	get_historical _data EURUSD,M1: Data Download Done!
+0	15:39:03.793	get_historical _data EURUSD,M1: Inside function
+0	15:39:04.039	get_historical _data EURUSD,M1: Data Download Done!
+0	15:40:01.042	get_historical _data EURUSD,M1: Inside function
+0	15:40:01.272	get_historical _data EURUSD,M1: Data Download Done!
+0	15:40:01.274	get_historical _data EURUSD,M1: Inside function
+0	15:40:01.509	get_historical _data EURUSD,M1: Data Download Done!
+0	15:40:01.510	get_historical _data EURUSD,M1: Inside function
+0	15:40:01.739	get_historical _data EURUSD,M1: Data Download Done!
+0	15:40:01.740	get_historical _data EURUSD,M1: Inside function
+0	15:40:01.939	get_historical _data EURUSD,M1: Data Download Done!
+0	15:41:01.093	get_historical _data EURUSD,M1: Inside function
+0	15:41:01.323	get_historical _data EURUSD,M1: Data Download Done!
+0	15:41:01.325	get_historical _data EURUSD,M1: Inside function
+0	15:41:01.549	get_historical _data EURUSD,M1: Data Download Done!
+0	15:41:01.551	get_historical _data EURUSD,M1: Inside function
+0	15:41:01.787	get_historical _data EURUSD,M1: Data Download Done!
+0	15:41:01.788	get_historical _data EURUSD,M1: Inside function
+0	15:41:01.993	get_historical _data EURUSD,M1: Data Download Done!
+0	15:42:00.890	get_historical _data EURUSD,M1: Inside function
+0	15:42:01.151	get_historical _data EURUSD,M1: Data Download Done!
+0	15:42:01.153	get_historical _data EURUSD,M1: Inside function
+0	15:42:01.358	get_historical _data EURUSD,M1: Data Download Done!
+0	15:42:01.359	get_historical _data EURUSD,M1: Inside function
+0	15:42:01.607	get_historical _data EURUSD,M1: Data Download Done!
+0	15:42:01.608	get_historical _data EURUSD,M1: Inside function
+0	15:42:01.819	get_historical _data EURUSD,M1: Data Download Done!
+0	15:43:01.182	get_historical _data EURUSD,M1: Inside function
+0	15:43:01.427	get_historical _data EURUSD,M1: Data Download Done!
+0	15:43:01.429	get_historical _data EURUSD,M1: Inside function
+0	15:43:01.663	get_historical _data EURUSD,M1: Data Download Done!
+0	15:43:01.664	get_historical _data EURUSD,M1: Inside function
+0	15:43:01.888	get_historical _data EURUSD,M1: Data Download Done!
+0	15:43:01.890	get_historical _data EURUSD,M1: Inside function
+0	15:43:02.127	get_historical _data EURUSD,M1: Data Download Done!
+0	15:44:01.293	get_historical _data EURUSD,M1: Inside function
+0	15:44:01.525	get_historical _data EURUSD,M1: Data Download Done!
+0	15:44:01.526	get_historical _data EURUSD,M1: Inside function
+0	15:44:01.745	get_historical _data EURUSD,M1: Data Download Done!
+0	15:44:01.747	get_historical _data EURUSD,M1: Inside function
+0	15:44:01.963	get_historical _data EURUSD,M1: Data Download Done!
+0	15:44:01.965	get_historical _data EURUSD,M1: Inside function
+0	15:44:02.186	get_historical _data EURUSD,M1: Data Download Done!
+0	15:45:01.584	get_historical _data EURUSD,M1: Inside function
+0	15:45:01.871	get_historical _data EURUSD,M1: Data Download Done!
+0	15:45:01.873	get_historical _data EURUSD,M1: Inside function
+0	15:45:02.082	get_historical _data EURUSD,M1: Data Download Done!
+0	15:45:02.084	get_historical _data EURUSD,M1: Inside function
+0	15:45:02.426	get_historical _data EURUSD,M1: Data Download Done!
+0	15:45:02.433	get_historical _data EURUSD,M1: Inside function
+0	15:45:02.674	get_historical _data EURUSD,M1: Data Download Done!
+0	15:46:01.664	get_historical _data EURUSD,M1: Inside function
+0	15:46:01.905	get_historical _data EURUSD,M1: Data Download Done!
+0	15:46:01.907	get_historical _data EURUSD,M1: Inside function
+0	15:46:02.122	get_historical _data EURUSD,M1: Data Download Done!
+0	15:46:02.124	get_historical _data EURUSD,M1: Inside function
+0	15:46:02.341	get_historical _data EURUSD,M1: Data Download Done!
+0	15:46:02.343	get_historical _data EURUSD,M1: Inside function
+0	15:46:02.568	get_historical _data EURUSD,M1: Data Download Done!
+0	15:47:01.173	get_historical _data EURUSD,M1: Inside function
+0	15:47:01.400	get_historical _data EURUSD,M1: Data Download Done!
+0	15:47:01.402	get_historical _data EURUSD,M1: Inside function
+0	15:47:01.743	get_historical _data EURUSD,M1: Data Download Done!
+0	15:47:01.745	get_historical _data EURUSD,M1: Inside function
+0	15:47:01.964	get_historical _data EURUSD,M1: Data Download Done!
+0	15:47:01.966	get_historical _data EURUSD,M1: Inside function
+0	15:47:02.204	get_historical _data EURUSD,M1: Data Download Done!
+0	15:48:05.210	get_historical _data EURUSD,M1: Inside function
+0	15:48:05.443	get_historical _data EURUSD,M1: Data Download Done!
+0	15:48:05.445	get_historical _data EURUSD,M1: Inside function
+0	15:48:05.673	get_historical _data EURUSD,M1: Data Download Done!
+0	15:48:05.675	get_historical _data EURUSD,M1: Inside function
+0	15:48:05.913	get_historical _data EURUSD,M1: Data Download Done!
+0	15:48:05.914	get_historical _data EURUSD,M1: Inside function
+0	15:48:06.123	get_historical _data EURUSD,M1: Data Download Done!
+0	15:49:01.519	get_historical _data EURUSD,M1: Inside function
+0	15:49:01.754	get_historical _data EURUSD,M1: Data Download Done!
+0	15:49:01.755	get_historical _data EURUSD,M1: Inside function
+0	15:49:01.970	get_historical _data EURUSD,M1: Data Download Done!
+0	15:49:01.972	get_historical _data EURUSD,M1: Inside function
+0	15:49:02.211	get_historical _data EURUSD,M1: Data Download Done!
+0	15:49:02.212	get_historical _data EURUSD,M1: Inside function
+0	15:49:02.438	get_historical _data EURUSD,M1: Data Download Done!
+0	15:50:01.118	get_historical _data EURUSD,M1: Inside function
+0	15:50:01.345	get_historical _data EURUSD,M1: Data Download Done!
+0	15:50:01.347	get_historical _data EURUSD,M1: Inside function
+0	15:50:01.679	get_historical _data EURUSD,M1: Data Download Done!
+0	15:50:01.680	get_historical _data EURUSD,M1: Inside function
+0	15:50:01.896	get_historical _data EURUSD,M1: Data Download Done!
+0	15:50:01.897	get_historical _data EURUSD,M1: Inside function
+0	15:50:02.116	get_historical _data EURUSD,M1: Data Download Done!
+0	15:51:00.846	get_historical _data EURUSD,M1: Inside function
+0	15:51:01.092	get_historical _data EURUSD,M1: Data Download Done!
+0	15:51:01.094	get_historical _data EURUSD,M1: Inside function
+0	15:51:01.307	get_historical _data EURUSD,M1: Data Download Done!
+0	15:51:01.309	get_historical _data EURUSD,M1: Inside function
+0	15:51:01.530	get_historical _data EURUSD,M1: Data Download Done!
+0	15:51:01.532	get_historical _data EURUSD,M1: Inside function
+0	15:51:01.741	get_historical _data EURUSD,M1: Data Download Done!
+0	15:52:03.370	get_historical _data EURUSD,M1: Inside function
+0	15:52:03.604	get_historical _data EURUSD,M1: Data Download Done!
+0	15:52:03.605	get_historical _data EURUSD,M1: Inside function
+0	15:52:03.814	get_historical _data EURUSD,M1: Data Download Done!
+0	15:52:03.815	get_historical _data EURUSD,M1: Inside function
+0	15:52:04.055	get_historical _data EURUSD,M1: Data Download Done!
+0	15:52:04.057	get_historical _data EURUSD,M1: Inside function
+0	15:52:04.267	get_historical _data EURUSD,M1: Data Download Done!
+0	15:53:03.427	get_historical _data EURUSD,M1: Inside function
+0	15:53:03.674	get_historical _data EURUSD,M1: Data Download Done!
+0	15:53:03.675	get_historical _data EURUSD,M1: Inside function
+0	15:53:03.882	get_historical _data EURUSD,M1: Data Download Done!
+0	15:53:03.885	get_historical _data EURUSD,M1: Inside function
+0	15:53:04.119	get_historical _data EURUSD,M1: Data Download Done!
+0	15:53:04.121	get_historical _data EURUSD,M1: Inside function
+0	15:53:04.377	get_historical _data EURUSD,M1: Data Download Done!
+0	15:54:01.370	get_historical _data EURUSD,M1: Inside function
+0	15:54:01.626	get_historical _data EURUSD,M1: Data Download Done!
+0	15:54:01.628	get_historical _data EURUSD,M1: Inside function
+0	15:54:01.844	get_historical _data EURUSD,M1: Data Download Done!
+0	15:54:01.845	get_historical _data EURUSD,M1: Inside function
+0	15:54:02.051	get_historical _data EURUSD,M1: Data Download Done!
+0	15:54:02.052	get_historical _data EURUSD,M1: Inside function
+0	15:54:02.266	get_historical _data EURUSD,M1: Data Download Done!
+0	15:55:01.333	get_historical _data EURUSD,M1: Inside function
+0	15:55:01.561	get_historical _data EURUSD,M1: Data Download Done!
+0	15:55:01.562	get_historical _data EURUSD,M1: Inside function
+0	15:55:01.786	get_historical _data EURUSD,M1: Data Download Done!
+0	15:55:01.787	get_historical _data EURUSD,M1: Inside function
+0	15:55:01.998	get_historical _data EURUSD,M1: Data Download Done!
+0	15:55:02.000	get_historical _data EURUSD,M1: Inside function
+0	15:55:02.222	get_historical _data EURUSD,M1: Data Download Done!
+0	15:56:02.110	get_historical _data EURUSD,M1: Inside function
+0	15:56:02.351	get_historical _data EURUSD,M1: Data Download Done!
+0	15:56:02.352	get_historical _data EURUSD,M1: Inside function
+0	15:56:02.652	get_historical _data EURUSD,M1: Data Download Done!
+0	15:56:02.654	get_historical _data EURUSD,M1: Inside function
+0	15:56:02.861	get_historical _data EURUSD,M1: Data Download Done!
+0	15:56:02.862	get_historical _data EURUSD,M1: Inside function
+0	15:56:03.075	get_historical _data EURUSD,M1: Data Download Done!
+0	15:57:02.161	get_historical _data EURUSD,M1: Inside function
+0	15:57:02.400	get_historical _data EURUSD,M1: Data Download Done!
+0	15:57:02.401	get_historical _data EURUSD,M1: Inside function
+0	15:57:02.644	get_historical _data EURUSD,M1: Data Download Done!
+0	15:57:02.646	get_historical _data EURUSD,M1: Inside function
+0	15:57:02.858	get_historical _data EURUSD,M1: Data Download Done!
+0	15:57:02.859	get_historical _data EURUSD,M1: Inside function
+0	15:57:03.070	get_historical _data EURUSD,M1: Data Download Done!
+0	15:58:00.945	get_historical _data EURUSD,M1: Inside function
+0	15:58:01.190	get_historical _data EURUSD,M1: Data Download Done!
+0	15:58:01.191	get_historical _data EURUSD,M1: Inside function
+0	15:58:01.518	get_historical _data EURUSD,M1: Data Download Done!
+0	15:58:01.525	get_historical _data EURUSD,M1: Inside function
+0	15:58:01.736	get_historical _data EURUSD,M1: Data Download Done!
+0	15:58:01.738	get_historical _data EURUSD,M1: Inside function
+0	15:58:01.951	get_historical _data EURUSD,M1: Data Download Done!
+0	15:59:03.415	get_historical _data EURUSD,M1: Inside function
+0	15:59:03.686	get_historical _data EURUSD,M1: Data Download Done!
+0	15:59:03.687	get_historical _data EURUSD,M1: Inside function
+0	15:59:03.902	get_historical _data EURUSD,M1: Data Download Done!
+0	15:59:03.904	get_historical _data EURUSD,M1: Inside function
+0	15:59:04.245	get_historical _data EURUSD,M1: Data Download Done!
+0	15:59:04.247	get_historical _data EURUSD,M1: Inside function
+0	15:59:04.460	get_historical _data EURUSD,M1: Data Download Done!
+0	16:00:00.994	get_historical _data EURUSD,M1: Inside function
+0	16:00:00.994	get_historical _data EURUSD,H1: Inside function
+0	16:00:01.003	get_historical _data GBPUSD,H1: Inside function
+0	16:00:01.067	get_historical _data USDCHF,H1: Inside function
+0	16:00:01.504	get_historical _data EURUSD,M1: Data Download Done!
+0	16:00:01.506	get_historical _data EURUSD,M1: Inside function
+0	16:00:01.542	get_historical _data USDCAD,H1: Inside function
+0	16:00:01.775	get_historical _data GBPUSD,H1: Data Download Done!
+0	16:00:01.776	get_historical _data GBPUSD,H1: Inside function
+0	16:00:01.778	get_historical _data USDCHF,H1: Data Download Done!
+0	16:00:01.779	get_historical _data USDCHF,H1: Inside function
+0	16:00:01.860	get_historical _data EURUSD,H1: Data Download Done!
+0	16:00:01.863	get_historical _data EURUSD,H1: Inside function
+0	16:00:02.208	get_historical _data EURUSD,M1: Data Download Done!
+0	16:00:02.210	get_historical _data EURUSD,M1: Inside function
+0	16:00:02.306	get_historical _data USDCAD,H1: Data Download Done!
+0	16:00:02.309	get_historical _data USDCAD,H1: Inside function
+0	16:00:02.485	get_historical _data GBPUSD,H1: Data Download Done!
+0	16:00:02.487	get_historical _data GBPUSD,H1: Inside function
+0	16:00:02.519	get_historical _data EURUSD,H1: Data Download Done!
+0	16:00:02.521	get_historical _data EURUSD,H1: Inside function
+0	16:00:02.594	get_historical _data USDCHF,H1: Data Download Done!
+0	16:00:02.596	get_historical _data USDCHF,H1: Inside function
+0	16:00:02.755	get_historical _data EURUSD,M1: Data Download Done!
+0	16:00:02.756	get_historical _data EURUSD,M1: Inside function
+0	16:00:02.940	get_historical _data USDCAD,H1: Data Download Done!
+0	16:00:02.942	get_historical _data USDCAD,H1: Inside function
+0	16:00:03.096	get_historical _data EURUSD,H1: Data Download Done!
+0	16:00:03.111	get_historical _data EURUSD,H1: Inside function
+0	16:00:03.160	get_historical _data USDCHF,H1: Data Download Done!
+0	16:00:03.162	get_historical _data USDCHF,H1: Inside function
+0	16:00:03.237	get_historical _data GBPUSD,H1: Data Download Done!
+0	16:00:03.252	get_historical _data GBPUSD,H1: Inside function
+0	16:00:03.488	get_historical _data EURUSD,M1: Data Download Done!
+0	16:00:03.614	get_historical _data USDCAD,H1: Data Download Done!
+0	16:00:03.615	get_historical _data USDCAD,H1: Inside function
+0	16:00:03.715	get_historical _data EURUSD,H1: Data Download Done!
+0	16:00:03.763	get_historical _data GBPUSD,H1: Data Download Done!
+0	16:00:03.784	get_historical _data USDCHF,H1: Data Download Done!
+0	16:00:04.028	get_historical _data USDCAD,H1: Data Download Done!
+0	16:01:01.534	get_historical _data EURUSD,M1: Inside function
+0	16:01:01.776	get_historical _data EURUSD,M1: Data Download Done!
+0	16:01:01.778	get_historical _data EURUSD,M1: Inside function
+0	16:01:02.005	get_historical _data EURUSD,M1: Data Download Done!
+0	16:01:02.006	get_historical _data EURUSD,M1: Inside function
+0	16:01:02.247	get_historical _data EURUSD,M1: Data Download Done!
+0	16:01:02.249	get_historical _data EURUSD,M1: Inside function
+0	16:01:02.477	get_historical _data EURUSD,M1: Data Download Done!
+0	16:02:03.835	get_historical _data EURUSD,M1: Inside function
+0	16:02:04.068	get_historical _data EURUSD,M1: Data Download Done!
+0	16:02:04.069	get_historical _data EURUSD,M1: Inside function
+0	16:02:04.287	get_historical _data EURUSD,M1: Data Download Done!
+0	16:02:04.288	get_historical _data EURUSD,M1: Inside function
+0	16:02:04.530	get_historical _data EURUSD,M1: Data Download Done!
+0	16:02:04.531	get_historical _data EURUSD,M1: Inside function
+0	16:02:04.769	get_historical _data EURUSD,M1: Data Download Done!
+0	16:03:01.357	get_historical _data EURUSD,M1: Inside function
+0	16:03:01.598	get_historical _data EURUSD,M1: Data Download Done!
+0	16:03:01.600	get_historical _data EURUSD,M1: Inside function
+0	16:03:01.816	get_historical _data EURUSD,M1: Data Download Done!
+0	16:03:01.819	get_historical _data EURUSD,M1: Inside function
+0	16:03:02.027	get_historical _data EURUSD,M1: Data Download Done!
+0	16:03:02.028	get_historical _data EURUSD,M1: Inside function
+0	16:03:02.284	get_historical _data EURUSD,M1: Data Download Done!
+0	16:04:01.654	get_historical _data EURUSD,M1: Inside function
+0	16:04:01.885	get_historical _data EURUSD,M1: Data Download Done!
+0	16:04:01.887	get_historical _data EURUSD,M1: Inside function
+0	16:04:02.088	get_historical _data EURUSD,M1: Data Download Done!
+0	16:04:02.089	get_historical _data EURUSD,M1: Inside function
+0	16:04:02.302	get_historical _data EURUSD,M1: Data Download Done!
+0	16:04:02.304	get_historical _data EURUSD,M1: Inside function
+0	16:04:02.583	get_historical _data EURUSD,M1: Data Download Done!
+0	16:05:01.195	get_historical _data EURUSD,M1: Inside function
+0	16:05:01.438	get_historical _data EURUSD,M1: Data Download Done!
+0	16:05:01.440	get_historical _data EURUSD,M1: Inside function
+0	16:05:01.668	get_historical _data EURUSD,M1: Data Download Done!
+0	16:05:01.670	get_historical _data EURUSD,M1: Inside function
+0	16:05:01.892	get_historical _data EURUSD,M1: Data Download Done!
+0	16:05:01.894	get_historical _data EURUSD,M1: Inside function
+0	16:05:02.178	get_historical _data EURUSD,M1: Data Download Done!
+0	16:06:01.704	get_historical _data EURUSD,M1: Inside function
+0	16:06:01.930	get_historical _data EURUSD,M1: Data Download Done!
+0	16:06:01.931	get_historical _data EURUSD,M1: Inside function
+0	16:06:02.171	get_historical _data EURUSD,M1: Data Download Done!
+0	16:06:02.172	get_historical _data EURUSD,M1: Inside function
+0	16:06:02.383	get_historical _data EURUSD,M1: Data Download Done!
+0	16:06:02.385	get_historical _data EURUSD,M1: Inside function
+0	16:06:02.600	get_historical _data EURUSD,M1: Data Download Done!
+0	16:07:01.722	get_historical _data EURUSD,M1: Inside function
+0	16:07:01.959	get_historical _data EURUSD,M1: Data Download Done!
+0	16:07:01.961	get_historical _data EURUSD,M1: Inside function
+0	16:07:02.175	get_historical _data EURUSD,M1: Data Download Done!
+0	16:07:02.177	get_historical _data EURUSD,M1: Inside function
+0	16:07:02.403	get_historical _data EURUSD,M1: Data Download Done!
+0	16:07:02.404	get_historical _data EURUSD,M1: Inside function
+0	16:07:02.636	get_historical _data EURUSD,M1: Data Download Done!
+0	16:08:01.255	get_historical _data EURUSD,M1: Inside function
+0	16:08:01.532	get_historical _data EURUSD,M1: Data Download Done!
+0	16:08:01.534	get_historical _data EURUSD,M1: Inside function
+0	16:08:01.751	get_historical _data EURUSD,M1: Data Download Done!
+0	16:08:01.752	get_historical _data EURUSD,M1: Inside function
+0	16:08:02.040	get_historical _data EURUSD,M1: Data Download Done!
+0	16:08:02.042	get_historical _data EURUSD,M1: Inside function
+0	16:08:02.280	get_historical _data EURUSD,M1: Data Download Done!
+0	16:09:01.282	get_historical _data EURUSD,M1: Inside function
+0	16:09:01.515	get_historical _data EURUSD,M1: Data Download Done!
+0	16:09:01.516	get_historical _data EURUSD,M1: Inside function
+0	16:09:01.728	get_historical _data EURUSD,M1: Data Download Done!
+0	16:09:01.730	get_historical _data EURUSD,M1: Inside function
+0	16:09:01.964	get_historical _data EURUSD,M1: Data Download Done!
+0	16:09:01.965	get_historical _data EURUSD,M1: Inside function
+0	16:09:02.180	get_historical _data EURUSD,M1: Data Download Done!
+0	16:10:01.322	get_historical _data EURUSD,M1: Inside function
+0	16:10:01.546	get_historical _data EURUSD,M1: Data Download Done!
+0	16:10:01.547	get_historical _data EURUSD,M1: Inside function
+0	16:10:01.759	get_historical _data EURUSD,M1: Data Download Done!
+0	16:10:01.761	get_historical _data EURUSD,M1: Inside function
+0	16:10:01.974	get_historical _data EURUSD,M1: Data Download Done!
+0	16:10:01.976	get_historical _data EURUSD,M1: Inside function
+0	16:10:02.183	get_historical _data EURUSD,M1: Data Download Done!
+0	16:11:01.383	get_historical _data EURUSD,M1: Inside function
+0	16:11:01.630	get_historical _data EURUSD,M1: Data Download Done!
+0	16:11:01.631	get_historical _data EURUSD,M1: Inside function
+0	16:11:01.866	get_historical _data EURUSD,M1: Data Download Done!
+0	16:11:01.868	get_historical _data EURUSD,M1: Inside function
+0	16:11:02.192	get_historical _data EURUSD,M1: Data Download Done!
+0	16:11:02.194	get_historical _data EURUSD,M1: Inside function
+0	16:11:02.407	get_historical _data EURUSD,M1: Data Download Done!
+0	16:12:02.228	get_historical _data EURUSD,M1: Inside function
+0	16:12:02.468	get_historical _data EURUSD,M1: Data Download Done!
+0	16:12:02.470	get_historical _data EURUSD,M1: Inside function
+0	16:12:02.687	get_historical _data EURUSD,M1: Data Download Done!
+0	16:12:02.688	get_historical _data EURUSD,M1: Inside function
+0	16:12:02.898	get_historical _data EURUSD,M1: Data Download Done!
+0	16:12:02.900	get_historical _data EURUSD,M1: Inside function
+0	16:12:03.124	get_historical _data EURUSD,M1: Data Download Done!
+0	16:13:02.020	get_historical _data EURUSD,M1: Inside function
+0	16:13:02.251	get_historical _data EURUSD,M1: Data Download Done!
+0	16:13:02.253	get_historical _data EURUSD,M1: Inside function
+0	16:13:02.470	get_historical _data EURUSD,M1: Data Download Done!
+0	16:13:02.472	get_historical _data EURUSD,M1: Inside function
+0	16:13:02.682	get_historical _data EURUSD,M1: Data Download Done!
+0	16:13:02.683	get_historical _data EURUSD,M1: Inside function
+0	16:13:02.902	get_historical _data EURUSD,M1: Data Download Done!
+0	16:14:01.555	get_historical _data EURUSD,M1: Inside function
+0	16:14:01.794	get_historical _data EURUSD,M1: Data Download Done!
+0	16:14:01.795	get_historical _data EURUSD,M1: Inside function
+0	16:14:02.006	get_historical _data EURUSD,M1: Data Download Done!
+0	16:14:02.007	get_historical _data EURUSD,M1: Inside function
+0	16:14:02.230	get_historical _data EURUSD,M1: Data Download Done!
+0	16:14:02.231	get_historical _data EURUSD,M1: Inside function
+0	16:14:02.450	get_historical _data EURUSD,M1: Data Download Done!
+0	16:15:01.071	get_historical _data EURUSD,M1: Inside function
+0	16:15:01.350	get_historical _data EURUSD,M1: Data Download Done!
+0	16:15:01.353	get_historical _data EURUSD,M1: Inside function
+0	16:15:01.608	get_historical _data EURUSD,M1: Data Download Done!
+0	16:15:01.609	get_historical _data EURUSD,M1: Inside function
+0	16:15:01.863	get_historical _data EURUSD,M1: Data Download Done!
+0	16:15:01.865	get_historical _data EURUSD,M1: Inside function
+0	16:15:02.110	get_historical _data EURUSD,M1: Data Download Done!
+0	16:16:00.864	get_historical _data EURUSD,M1: Inside function
+0	16:16:01.170	get_historical _data EURUSD,M1: Data Download Done!
+0	16:16:01.171	get_historical _data EURUSD,M1: Inside function
+0	16:16:01.427	get_historical _data EURUSD,M1: Data Download Done!
+0	16:16:01.429	get_historical _data EURUSD,M1: Inside function
+0	16:16:01.647	get_historical _data EURUSD,M1: Data Download Done!
+0	16:16:01.648	get_historical _data EURUSD,M1: Inside function
+0	16:16:01.856	get_historical _data EURUSD,M1: Data Download Done!
+0	16:17:01.415	get_historical _data EURUSD,M1: Inside function
+0	16:17:01.650	get_historical _data EURUSD,M1: Data Download Done!
+0	16:17:01.652	get_historical _data EURUSD,M1: Inside function
+0	16:17:01.882	get_historical _data EURUSD,M1: Data Download Done!
+0	16:17:01.883	get_historical _data EURUSD,M1: Inside function
+0	16:17:02.191	get_historical _data EURUSD,M1: Data Download Done!
+0	16:17:02.193	get_historical _data EURUSD,M1: Inside function
+0	16:17:02.404	get_historical _data EURUSD,M1: Data Download Done!
+0	16:18:02.226	get_historical _data EURUSD,M1: Inside function
+0	16:18:02.481	get_historical _data EURUSD,M1: Data Download Done!
+0	16:18:02.483	get_historical _data EURUSD,M1: Inside function
+0	16:18:02.691	get_historical _data EURUSD,M1: Data Download Done!
+0	16:18:02.693	get_historical _data EURUSD,M1: Inside function
+0	16:18:02.912	get_historical _data EURUSD,M1: Data Download Done!
+0	16:18:02.914	get_historical _data EURUSD,M1: Inside function
+0	16:18:03.131	get_historical _data EURUSD,M1: Data Download Done!
+0	16:19:01.008	get_historical _data EURUSD,M1: Inside function
+0	16:19:01.235	get_historical _data EURUSD,M1: Data Download Done!
+0	16:19:01.236	get_historical _data EURUSD,M1: Inside function
+0	16:19:01.472	get_historical _data EURUSD,M1: Data Download Done!
+0	16:19:01.474	get_historical _data EURUSD,M1: Inside function
+0	16:19:01.695	get_historical _data EURUSD,M1: Data Download Done!
+0	16:19:01.697	get_historical _data EURUSD,M1: Inside function
+0	16:19:01.907	get_historical _data EURUSD,M1: Data Download Done!
+0	16:20:01.067	get_historical _data EURUSD,M1: Inside function
+0	16:20:01.363	get_historical _data EURUSD,M1: Data Download Done!
+0	16:20:01.364	get_historical _data EURUSD,M1: Inside function
+0	16:20:01.609	get_historical _data EURUSD,M1: Data Download Done!
+0	16:20:01.610	get_historical _data EURUSD,M1: Inside function
+0	16:20:01.819	get_historical _data EURUSD,M1: Data Download Done!
+0	16:20:01.820	get_historical _data EURUSD,M1: Inside function
+0	16:20:02.021	get_historical _data EURUSD,M1: Data Download Done!
+0	16:21:01.090	get_historical _data EURUSD,M1: Inside function
+0	16:21:01.319	get_historical _data EURUSD,M1: Data Download Done!
+0	16:21:01.320	get_historical _data EURUSD,M1: Inside function
+0	16:21:01.565	get_historical _data EURUSD,M1: Data Download Done!
+0	16:21:01.578	get_historical _data EURUSD,M1: Inside function
+0	16:21:01.788	get_historical _data EURUSD,M1: Data Download Done!
+0	16:21:01.790	get_historical _data EURUSD,M1: Inside function
+0	16:21:01.998	get_historical _data EURUSD,M1: Data Download Done!
+0	16:22:01.168	get_historical _data EURUSD,M1: Inside function
+0	16:22:01.406	get_historical _data EURUSD,M1: Data Download Done!
+0	16:22:01.408	get_historical _data EURUSD,M1: Inside function
+0	16:22:01.645	get_historical _data EURUSD,M1: Data Download Done!
+0	16:22:01.647	get_historical _data EURUSD,M1: Inside function
+0	16:22:01.866	get_historical _data EURUSD,M1: Data Download Done!
+0	16:22:01.867	get_historical _data EURUSD,M1: Inside function
+0	16:22:02.103	get_historical _data EURUSD,M1: Data Download Done!
+0	16:23:00.929	get_historical _data EURUSD,M1: Inside function
+0	16:23:01.166	get_historical _data EURUSD,M1: Data Download Done!
+0	16:23:01.167	get_historical _data EURUSD,M1: Inside function
+0	16:23:01.387	get_historical _data EURUSD,M1: Data Download Done!
+0	16:23:01.388	get_historical _data EURUSD,M1: Inside function
+0	16:23:01.634	get_historical _data EURUSD,M1: Data Download Done!
+0	16:23:01.636	get_historical _data EURUSD,M1: Inside function
+0	16:23:01.855	get_historical _data EURUSD,M1: Data Download Done!
+0	16:24:02.731	get_historical _data EURUSD,M1: Inside function
+0	16:24:02.967	get_historical _data EURUSD,M1: Data Download Done!
+0	16:24:02.969	get_historical _data EURUSD,M1: Inside function
+0	16:24:03.200	get_historical _data EURUSD,M1: Data Download Done!
+0	16:24:03.201	get_historical _data EURUSD,M1: Inside function
+0	16:24:03.440	get_historical _data EURUSD,M1: Data Download Done!
+0	16:24:03.442	get_historical _data EURUSD,M1: Inside function
+0	16:24:03.679	get_historical _data EURUSD,M1: Data Download Done!
+0	16:25:01.326	get_historical _data EURUSD,M1: Inside function
+0	16:25:01.639	get_historical _data EURUSD,M1: Data Download Done!
+0	16:25:01.640	get_historical _data EURUSD,M1: Inside function
+0	16:25:01.858	get_historical _data EURUSD,M1: Data Download Done!
+0	16:25:01.859	get_historical _data EURUSD,M1: Inside function
+0	16:25:02.081	get_historical _data EURUSD,M1: Data Download Done!
+0	16:25:02.083	get_historical _data EURUSD,M1: Inside function
+0	16:25:02.296	get_historical _data EURUSD,M1: Data Download Done!
+0	16:26:01.059	get_historical _data EURUSD,M1: Inside function
+0	16:26:01.311	get_historical _data EURUSD,M1: Data Download Done!
+0	16:26:01.312	get_historical _data EURUSD,M1: Inside function
+0	16:26:01.519	get_historical _data EURUSD,M1: Data Download Done!
+0	16:26:01.521	get_historical _data EURUSD,M1: Inside function
+0	16:26:01.831	get_historical _data EURUSD,M1: Data Download Done!
+0	16:26:01.832	get_historical _data EURUSD,M1: Inside function
+0	16:26:02.039	get_historical _data EURUSD,M1: Data Download Done!
+0	16:27:00.856	get_historical _data EURUSD,M1: Inside function
+0	16:27:01.106	get_historical _data EURUSD,M1: Data Download Done!
+0	16:27:01.108	get_historical _data EURUSD,M1: Inside function
+0	16:27:01.323	get_historical _data EURUSD,M1: Data Download Done!
+0	16:27:01.325	get_historical _data EURUSD,M1: Inside function
+0	16:27:01.553	get_historical _data EURUSD,M1: Data Download Done!
+0	16:27:01.554	get_historical _data EURUSD,M1: Inside function
+0	16:27:01.780	get_historical _data EURUSD,M1: Data Download Done!
+0	16:28:00.937	get_historical _data EURUSD,M1: Inside function
+0	16:28:01.196	get_historical _data EURUSD,M1: Data Download Done!
+0	16:28:01.197	get_historical _data EURUSD,M1: Inside function
+0	16:28:01.400	get_historical _data EURUSD,M1: Data Download Done!
+0	16:28:01.402	get_historical _data EURUSD,M1: Inside function
+0	16:28:01.623	get_historical _data EURUSD,M1: Data Download Done!
+0	16:28:01.625	get_historical _data EURUSD,M1: Inside function
+0	16:28:01.870	get_historical _data EURUSD,M1: Data Download Done!
+0	16:29:01.724	get_historical _data EURUSD,M1: Inside function
+0	16:29:01.971	get_historical _data EURUSD,M1: Data Download Done!
+0	16:29:01.973	get_historical _data EURUSD,M1: Inside function
+0	16:29:02.190	get_historical _data EURUSD,M1: Data Download Done!
+0	16:29:02.192	get_historical _data EURUSD,M1: Inside function
+0	16:29:02.498	get_historical _data EURUSD,M1: Data Download Done!
+0	16:29:02.500	get_historical _data EURUSD,M1: Inside function
+0	16:29:02.708	get_historical _data EURUSD,M1: Data Download Done!
+0	16:30:01.254	get_historical _data EURUSD,M1: Inside function
+0	16:30:01.509	get_historical _data EURUSD,M1: Data Download Done!
+0	16:30:01.511	get_historical _data EURUSD,M1: Inside function
+0	16:30:01.767	get_historical _data EURUSD,M1: Data Download Done!
+0	16:30:01.769	get_historical _data EURUSD,M1: Inside function
+0	16:30:02.002	get_historical _data EURUSD,M1: Data Download Done!
+0	16:30:02.004	get_historical _data EURUSD,M1: Inside function
+0	16:30:02.216	get_historical _data EURUSD,M1: Data Download Done!
+0	16:31:01.554	get_historical _data EURUSD,M1: Inside function
+0	16:31:01.786	get_historical _data EURUSD,M1: Data Download Done!
+0	16:31:01.787	get_historical _data EURUSD,M1: Inside function
+0	16:31:02.001	get_historical _data EURUSD,M1: Data Download Done!
+0	16:31:02.003	get_historical _data EURUSD,M1: Inside function
+0	16:31:02.228	get_historical _data EURUSD,M1: Data Download Done!
+0	16:31:02.229	get_historical _data EURUSD,M1: Inside function
+0	16:31:02.464	get_historical _data EURUSD,M1: Data Download Done!
+0	16:32:01.603	get_historical _data EURUSD,M1: Inside function
+0	16:32:01.844	get_historical _data EURUSD,M1: Data Download Done!
+0	16:32:01.845	get_historical _data EURUSD,M1: Inside function
+0	16:32:02.091	get_historical _data EURUSD,M1: Data Download Done!
+0	16:32:02.093	get_historical _data EURUSD,M1: Inside function
+0	16:32:02.308	get_historical _data EURUSD,M1: Data Download Done!
+0	16:32:02.310	get_historical _data EURUSD,M1: Inside function
+0	16:32:02.537	get_historical _data EURUSD,M1: Data Download Done!
+0	16:33:02.161	get_historical _data EURUSD,M1: Inside function
+0	16:33:02.406	get_historical _data EURUSD,M1: Data Download Done!
+0	16:33:02.407	get_historical _data EURUSD,M1: Inside function
+0	16:33:02.653	get_historical _data EURUSD,M1: Data Download Done!
+0	16:33:02.654	get_historical _data EURUSD,M1: Inside function
+0	16:33:02.872	get_historical _data EURUSD,M1: Data Download Done!
+0	16:33:02.873	get_historical _data EURUSD,M1: Inside function
+0	16:33:03.095	get_historical _data EURUSD,M1: Data Download Done!
+0	16:34:01.460	get_historical _data EURUSD,M1: Inside function
+0	16:34:01.693	get_historical _data EURUSD,M1: Data Download Done!
+0	16:34:01.695	get_historical _data EURUSD,M1: Inside function
+0	16:34:01.912	get_historical _data EURUSD,M1: Data Download Done!
+0	16:34:01.914	get_historical _data EURUSD,M1: Inside function
+0	16:34:02.124	get_historical _data EURUSD,M1: Data Download Done!
+0	16:34:02.125	get_historical _data EURUSD,M1: Inside function
+0	16:34:02.341	get_historical _data EURUSD,M1: Data Download Done!
+0	16:35:01.252	get_historical _data EURUSD,M1: Inside function
+0	16:35:01.474	get_historical _data EURUSD,M1: Data Download Done!
+0	16:35:01.476	get_historical _data EURUSD,M1: Inside function
+0	16:35:01.692	get_historical _data EURUSD,M1: Data Download Done!
+0	16:35:01.693	get_historical _data EURUSD,M1: Inside function
+0	16:35:01.909	get_historical _data EURUSD,M1: Data Download Done!
+0	16:35:01.911	get_historical _data EURUSD,M1: Inside function
+0	16:35:02.119	get_historical _data EURUSD,M1: Data Download Done!
+0	16:36:02.571	get_historical _data EURUSD,M1: Inside function
+0	16:36:02.905	get_historical _data EURUSD,M1: Data Download Done!
+0	16:36:02.906	get_historical _data EURUSD,M1: Inside function
+0	16:36:03.276	get_historical _data EURUSD,M1: Data Download Done!
+0	16:36:03.278	get_historical _data EURUSD,M1: Inside function
+0	16:36:03.638	get_historical _data EURUSD,M1: Data Download Done!
+0	16:36:03.656	get_historical _data EURUSD,M1: Inside function
+0	16:36:03.962	get_historical _data EURUSD,M1: Data Download Done!
+0	16:37:02.121	get_historical _data EURUSD,M1: Inside function
+0	16:37:02.360	get_historical _data EURUSD,M1: Data Download Done!
+0	16:37:02.362	get_historical _data EURUSD,M1: Inside function
+0	16:37:02.594	get_historical _data EURUSD,M1: Data Download Done!
+0	16:37:02.596	get_historical _data EURUSD,M1: Inside function
+0	16:37:02.844	get_historical _data EURUSD,M1: Data Download Done!
+0	16:37:02.845	get_historical _data EURUSD,M1: Inside function
+0	16:37:03.082	get_historical _data EURUSD,M1: Data Download Done!
+0	16:38:01.400	get_historical _data EURUSD,M1: Inside function
+0	16:38:01.648	get_historical _data EURUSD,M1: Data Download Done!
+0	16:38:01.650	get_historical _data EURUSD,M1: Inside function
+0	16:38:01.861	get_historical _data EURUSD,M1: Data Download Done!
+0	16:38:01.862	get_historical _data EURUSD,M1: Inside function
+0	16:38:02.154	get_historical _data EURUSD,M1: Data Download Done!
+0	16:38:02.158	get_historical _data EURUSD,M1: Inside function
+0	16:38:02.403	get_historical _data EURUSD,M1: Data Download Done!
+0	16:39:01.727	get_historical _data EURUSD,M1: Inside function
+0	16:39:01.958	get_historical _data EURUSD,M1: Data Download Done!
+0	16:39:01.959	get_historical _data EURUSD,M1: Inside function
+0	16:39:02.173	get_historical _data EURUSD,M1: Data Download Done!
+0	16:39:02.174	get_historical _data EURUSD,M1: Inside function
+0	16:39:02.390	get_historical _data EURUSD,M1: Data Download Done!
+0	16:39:02.392	get_historical _data EURUSD,M1: Inside function
+0	16:39:02.689	get_historical _data EURUSD,M1: Data Download Done!
+0	16:40:01.068	get_historical _data EURUSD,M1: Inside function
+0	16:40:01.364	get_historical _data EURUSD,M1: Data Download Done!
+0	16:40:01.366	get_historical _data EURUSD,M1: Inside function
+0	16:40:01.588	get_historical _data EURUSD,M1: Data Download Done!
+0	16:40:01.590	get_historical _data EURUSD,M1: Inside function
+0	16:40:01.804	get_historical _data EURUSD,M1: Data Download Done!
+0	16:40:01.806	get_historical _data EURUSD,M1: Inside function
+0	16:40:02.028	get_historical _data EURUSD,M1: Data Download Done!
+0	16:41:01.141	get_historical _data EURUSD,M1: Inside function
+0	16:41:01.404	get_historical _data EURUSD,M1: Data Download Done!
+0	16:41:01.405	get_historical _data EURUSD,M1: Inside function
+0	16:41:01.619	get_historical _data EURUSD,M1: Data Download Done!
+0	16:41:01.621	get_historical _data EURUSD,M1: Inside function
+0	16:41:01.843	get_historical _data EURUSD,M1: Data Download Done!
+0	16:41:01.845	get_historical _data EURUSD,M1: Inside function
+0	16:41:02.062	get_historical _data EURUSD,M1: Data Download Done!
+0	16:42:01.157	get_historical _data EURUSD,M1: Inside function
+0	16:42:01.400	get_historical _data EURUSD,M1: Data Download Done!
+0	16:42:01.401	get_historical _data EURUSD,M1: Inside function
+0	16:42:01.679	get_historical _data EURUSD,M1: Data Download Done!
+0	16:42:01.681	get_historical _data EURUSD,M1: Inside function
+0	16:42:02.007	get_historical _data EURUSD,M1: Data Download Done!
+0	16:42:02.009	get_historical _data EURUSD,M1: Inside function
+0	16:42:02.247	get_historical _data EURUSD,M1: Data Download Done!
+0	16:43:01.490	get_historical _data EURUSD,M1: Inside function
+0	16:43:01.732	get_historical _data EURUSD,M1: Data Download Done!
+0	16:43:01.733	get_historical _data EURUSD,M1: Inside function
+0	16:43:01.948	get_historical _data EURUSD,M1: Data Download Done!
+0	16:43:01.949	get_historical _data EURUSD,M1: Inside function
+0	16:43:02.168	get_historical _data EURUSD,M1: Data Download Done!
+0	16:43:02.170	get_historical _data EURUSD,M1: Inside function
+0	16:43:02.496	get_historical _data EURUSD,M1: Data Download Done!
+0	16:44:02.497	get_historical _data EURUSD,M1: Inside function
+0	16:44:02.726	get_historical _data EURUSD,M1: Data Download Done!
+0	16:44:02.727	get_historical _data EURUSD,M1: Inside function
+0	16:44:02.937	get_historical _data EURUSD,M1: Data Download Done!
+0	16:44:02.939	get_historical _data EURUSD,M1: Inside function
+0	16:44:03.165	get_historical _data EURUSD,M1: Data Download Done!
+0	16:44:03.167	get_historical _data EURUSD,M1: Inside function
+0	16:44:03.382	get_historical _data EURUSD,M1: Data Download Done!
+0	16:45:01.303	get_historical _data EURUSD,M1: Inside function
+0	16:45:01.562	get_historical _data EURUSD,M1: Data Download Done!
+0	16:45:01.564	get_historical _data EURUSD,M1: Inside function
+0	16:45:01.796	get_historical _data EURUSD,M1: Data Download Done!
+0	16:45:01.797	get_historical _data EURUSD,M1: Inside function
+0	16:45:02.025	get_historical _data EURUSD,M1: Data Download Done!
+0	16:45:02.027	get_historical _data EURUSD,M1: Inside function
+0	16:45:02.236	get_historical _data EURUSD,M1: Data Download Done!
+0	16:46:01.329	get_historical _data EURUSD,M1: Inside function
+0	16:46:01.635	get_historical _data EURUSD,M1: Data Download Done!
+0	16:46:01.637	get_historical _data EURUSD,M1: Inside function
+0	16:46:01.844	get_historical _data EURUSD,M1: Data Download Done!
+0	16:46:01.846	get_historical _data EURUSD,M1: Inside function
+0	16:46:02.061	get_historical _data EURUSD,M1: Data Download Done!
+0	16:46:02.063	get_historical _data EURUSD,M1: Inside function
+0	16:46:02.278	get_historical _data EURUSD,M1: Data Download Done!
+0	16:47:02.629	get_historical _data EURUSD,M1: Inside function
+0	16:47:02.951	get_historical _data EURUSD,M1: Data Download Done!
+0	16:47:02.952	get_historical _data EURUSD,M1: Inside function
+0	16:47:03.186	get_historical _data EURUSD,M1: Data Download Done!
+0	16:47:03.187	get_historical _data EURUSD,M1: Inside function
+0	16:47:03.398	get_historical _data EURUSD,M1: Data Download Done!
+0	16:47:03.399	get_historical _data EURUSD,M1: Inside function
+0	16:47:03.643	get_historical _data EURUSD,M1: Data Download Done!
+0	16:48:02.414	get_historical _data EURUSD,M1: Inside function
+0	16:48:02.729	get_historical _data EURUSD,M1: Data Download Done!
+0	16:48:02.731	get_historical _data EURUSD,M1: Inside function
+0	16:48:02.961	get_historical _data EURUSD,M1: Data Download Done!
+0	16:48:02.963	get_historical _data EURUSD,M1: Inside function
+0	16:48:03.178	get_historical _data EURUSD,M1: Data Download Done!
+0	16:48:03.179	get_historical _data EURUSD,M1: Inside function
+0	16:48:03.394	get_historical _data EURUSD,M1: Data Download Done!
+0	16:49:01.724	get_historical _data EURUSD,M1: Inside function
+0	16:49:01.963	get_historical _data EURUSD,M1: Data Download Done!
+0	16:49:01.965	get_historical _data EURUSD,M1: Inside function
+0	16:49:02.177	get_historical _data EURUSD,M1: Data Download Done!
+0	16:49:02.178	get_historical _data EURUSD,M1: Inside function
+0	16:49:02.399	get_historical _data EURUSD,M1: Data Download Done!
+0	16:49:02.400	get_historical _data EURUSD,M1: Inside function
+0	16:49:02.610	get_historical _data EURUSD,M1: Data Download Done!
+0	16:50:01.820	get_historical _data EURUSD,M1: Inside function
+0	16:50:02.055	get_historical _data EURUSD,M1: Data Download Done!
+0	16:50:02.057	get_historical _data EURUSD,M1: Inside function
+0	16:50:02.275	get_historical _data EURUSD,M1: Data Download Done!
+0	16:50:02.276	get_historical _data EURUSD,M1: Inside function
+0	16:50:02.530	get_historical _data EURUSD,M1: Data Download Done!
+0	16:50:02.531	get_historical _data EURUSD,M1: Inside function
+0	16:50:02.759	get_historical _data EURUSD,M1: Data Download Done!
+0	16:51:01.310	get_historical _data EURUSD,M1: Inside function
+0	16:51:01.560	get_historical _data EURUSD,M1: Data Download Done!
+0	16:51:01.562	get_historical _data EURUSD,M1: Inside function
+0	16:51:01.845	get_historical _data EURUSD,M1: Data Download Done!
+0	16:51:01.846	get_historical _data EURUSD,M1: Inside function
+0	16:51:02.054	get_historical _data EURUSD,M1: Data Download Done!
+0	16:51:02.056	get_historical _data EURUSD,M1: Inside function
+0	16:51:02.274	get_historical _data EURUSD,M1: Data Download Done!
+0	16:52:02.378	get_historical _data EURUSD,M1: Inside function
+0	16:52:02.614	get_historical _data EURUSD,M1: Data Download Done!
+0	16:52:02.615	get_historical _data EURUSD,M1: Inside function
+0	16:52:02.919	get_historical _data EURUSD,M1: Data Download Done!
+0	16:52:02.920	get_historical _data EURUSD,M1: Inside function
+0	16:52:03.127	get_historical _data EURUSD,M1: Data Download Done!
+0	16:52:03.128	get_historical _data EURUSD,M1: Inside function
+0	16:52:03.346	get_historical _data EURUSD,M1: Data Download Done!
+0	16:53:01.695	get_historical _data EURUSD,M1: Inside function
+0	16:53:01.943	get_historical _data EURUSD,M1: Data Download Done!
+0	16:53:01.944	get_historical _data EURUSD,M1: Inside function
+0	16:53:02.158	get_historical _data EURUSD,M1: Data Download Done!
+0	16:53:02.159	get_historical _data EURUSD,M1: Inside function
+0	16:53:02.381	get_historical _data EURUSD,M1: Data Download Done!
+0	16:53:02.383	get_historical _data EURUSD,M1: Inside function
+0	16:53:02.599	get_historical _data EURUSD,M1: Data Download Done!
+0	16:54:00.972	get_historical _data EURUSD,M1: Inside function
+0	16:54:01.214	get_historical _data EURUSD,M1: Data Download Done!
+0	16:54:01.215	get_historical _data EURUSD,M1: Inside function
+0	16:54:01.441	get_historical _data EURUSD,M1: Data Download Done!
+0	16:54:01.442	get_historical _data EURUSD,M1: Inside function
+0	16:54:01.698	get_historical _data EURUSD,M1: Data Download Done!
+0	16:54:01.700	get_historical _data EURUSD,M1: Inside function
+0	16:54:01.962	get_historical _data EURUSD,M1: Data Download Done!
+0	16:55:01.520	get_historical _data EURUSD,M1: Inside function
+0	16:55:01.768	get_historical _data EURUSD,M1: Data Download Done!
+0	16:55:01.769	get_historical _data EURUSD,M1: Inside function
+0	16:55:01.993	get_historical _data EURUSD,M1: Data Download Done!
+0	16:55:01.995	get_historical _data EURUSD,M1: Inside function
+0	16:55:02.198	get_historical _data EURUSD,M1: Data Download Done!
+0	16:55:02.198	get_historical _data EURUSD,M1: Inside function
+0	16:55:02.416	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:01.322	get_historical _data EURUSD,M1: Inside function
+0	16:56:01.577	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:01.578	get_historical _data EURUSD,M1: Inside function
+0	16:56:01.795	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:01.796	get_historical _data EURUSD,M1: Inside function
+0	16:56:02.022	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:02.024	get_historical _data EURUSD,M1: Inside function
+0	16:56:02.254	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:15.999	get_historical _data EURUSD,M1: uninit reason 3
+0	16:56:16.008	get_historical _data EURUSD,H1: Before initializing R
+0	16:56:16.394	get_historical _data EURUSD,H1: Before function
+0	16:56:17.394	get_historical _data EURUSD,H1: Inside function
+0	16:56:17.671	get_historical _data EURUSD,H1: Data Download Done!
+0	16:56:17.672	get_historical _data EURUSD,H1: After function
+0	16:56:17.672	get_historical _data EURUSD,H1: initialized
+0	16:56:17.673	get_historical _data EURUSD,H1: Inside function
+0	16:56:17.902	get_historical _data EURUSD,H1: Data Download Done!
+0	16:56:17.903	get_historical _data EURUSD,H1: Inside function
+0	16:56:18.182	get_historical _data EURUSD,H1: Data Download Done!
+0	16:56:18.184	get_historical _data EURUSD,H1: Inside function
+0	16:56:18.444	get_historical _data EURUSD,H1: Data Download Done!
+0	16:56:18.447	get_historical _data EURUSD,H1: Inside function
+0	16:56:18.664	get_historical _data EURUSD,H1: Data Download Done!
+0	16:56:51.947	get_historical _data EURUSD,H1: uninit reason 3
+0	16:56:51.954	get_historical _data EURUSD,M1: Before initializing R
+0	16:56:52.272	get_historical _data EURUSD,M1: Before function
+0	16:56:53.186	get_historical _data EURUSD,M1: Inside function
+0	16:56:53.544	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:53.544	get_historical _data EURUSD,M1: After function
+0	16:56:53.544	get_historical _data EURUSD,M1: initialized
+0	16:56:53.546	get_historical _data EURUSD,M1: Inside function
+0	16:56:53.759	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:53.761	get_historical _data EURUSD,M1: Inside function
+0	16:56:53.988	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:53.989	get_historical _data EURUSD,M1: Inside function
+0	16:56:54.253	get_historical _data EURUSD,M1: Data Download Done!
+0	16:56:54.255	get_historical _data EURUSD,M1: Inside function
+0	16:56:54.478	get_historical _data EURUSD,M1: Data Download Done!
+0	16:57:01.601	get_historical _data EURUSD,M1: Inside function
+0	16:57:01.875	get_historical _data EURUSD,M1: Data Download Done!
+0	16:57:01.876	get_historical _data EURUSD,M1: Inside function
+0	16:57:02.130	get_historical _data EURUSD,M1: Data Download Done!
+0	16:57:02.131	get_historical _data EURUSD,M1: Inside function
+0	16:57:02.370	get_historical _data EURUSD,M1: Data Download Done!
+0	16:57:02.372	get_historical _data EURUSD,M1: Inside function
+0	16:57:02.622	get_historical _data EURUSD,M1: Data Download Done!
+0	16:58:01.029	get_historical _data EURUSD,M1: Inside function
+0	16:58:01.322	get_historical _data EURUSD,M1: Data Download Done!
+0	16:58:01.323	get_historical _data EURUSD,M1: Inside function
+0	16:58:01.552	get_historical _data EURUSD,M1: Data Download Done!
+0	16:58:01.553	get_historical _data EURUSD,M1: Inside function
+0	16:58:01.759	get_historical _data EURUSD,M1: Data Download Done!
+0	16:58:01.760	get_historical _data EURUSD,M1: Inside function
+0	16:58:01.993	get_historical _data EURUSD,M1: Data Download Done!
+0	16:58:27.491	Script Close Trades\CloseAllTradesCurrent EURUSD,M1: loaded successfully
+0	16:58:27.528	CloseAllTradesCurrent EURUSD,M1: initialized
+2	16:58:28.083	CloseAllTradesCurrent EURUSD,M1: close #512417277 buy 0.04 EURUSD at 1.08577 tp: 1.08644 at price 1.08498
+2	16:58:29.037	CloseAllTradesCurrent EURUSD,M1: close #512416828 buy 0.02 EURUSD at 1.08713 tp: 1.08647 at price 1.08496
+2	16:58:30.046	CloseAllTradesCurrent EURUSD,M1: close #512416673 buy 0.01 EURUSD at 1.08761 tp: 1.08647 at price 1.08484
+0	16:58:30.046	CloseAllTradesCurrent EURUSD,M1: uninit reason 0
+0	16:58:30.058	Script CloseAllTradesCurrent EURUSD,M1: removed
+0	16:59:00.964	get_historical _data EURUSD,M1: Inside function
+0	16:59:01.202	get_historical _data EURUSD,M1: Data Download Done!
+0	16:59:01.204	get_historical _data EURUSD,M1: Inside function
+0	16:59:01.426	get_historical _data EURUSD,M1: Data Download Done!
+0	16:59:01.427	get_historical _data EURUSD,M1: Inside function
+0	16:59:01.655	get_historical _data EURUSD,M1: Data Download Done!
+0	16:59:01.657	get_historical _data EURUSD,M1: Inside function
+0	16:59:01.882	get_historical _data EURUSD,M1: Data Download Done!
+0	17:00:01.309	get_historical _data GBPUSD,H1: Inside function
+0	17:00:01.309	get_historical _data USDCHF,H1: Inside function
+0	17:00:01.486	get_historical _data EURUSD,M1: Inside function
+0	17:00:01.487	get_historical _data EURUSD,H1: Inside function
+0	17:00:01.761	get_historical _data USDCAD,H1: Inside function
+0	17:00:01.976	get_historical _data USDCHF,H1: Data Download Done!
+0	17:00:01.978	get_historical _data USDCHF,H1: Inside function
+0	17:00:02.050	get_historical _data GBPUSD,H1: Data Download Done!
+0	17:00:02.055	get_historical _data GBPUSD,H1: Inside function
+0	17:00:02.170	get_historical _data EURUSD,M1: Data Download Done!
+0	17:00:02.172	get_historical _data EURUSD,M1: Inside function
+0	17:00:02.242	get_historical _data EURUSD,H1: Data Download Done!
+0	17:00:02.244	get_historical _data EURUSD,H1: Inside function
+0	17:00:02.600	get_historical _data USDCAD,H1: Data Download Done!
+0	17:00:02.602	get_historical _data USDCAD,H1: Inside function
+0	17:00:02.650	get_historical _data GBPUSD,H1: Data Download Done!
+0	17:00:02.652	get_historical _data GBPUSD,H1: Inside function
+0	17:00:02.797	get_historical _data USDCHF,H1: Data Download Done!
+0	17:00:02.799	get_historical _data USDCHF,H1: Inside function
+0	17:00:02.847	get_historical _data EURUSD,M1: Data Download Done!
+0	17:00:02.849	get_historical _data EURUSD,M1: Inside function
+0	17:00:03.015	get_historical _data EURUSD,H1: Data Download Done!
+0	17:00:03.016	get_historical _data EURUSD,H1: Inside function
+0	17:00:03.180	get_historical _data USDCAD,H1: Data Download Done!
+0	17:00:03.182	get_historical _data USDCAD,H1: Inside function
+0	17:00:03.264	get_historical _data GBPUSD,H1: Data Download Done!
+0	17:00:03.266	get_historical _data GBPUSD,H1: Inside function
+0	17:00:03.379	get_historical _data USDCHF,H1: Data Download Done!
+0	17:00:03.380	get_historical _data USDCHF,H1: Inside function
+0	17:00:03.468	get_historical _data EURUSD,M1: Data Download Done!
+0	17:00:03.470	get_historical _data EURUSD,M1: Inside function
+0	17:00:03.611	get_historical _data EURUSD,H1: Data Download Done!
+0	17:00:03.612	get_historical _data EURUSD,H1: Inside function
+0	17:00:03.846	get_historical _data USDCAD,H1: Data Download Done!
+0	17:00:03.847	get_historical _data USDCAD,H1: Inside function
+0	17:00:03.868	get_historical _data GBPUSD,H1: Data Download Done!
+0	17:00:03.960	get_historical _data EURUSD,M1: Data Download Done!
+0	17:00:03.966	get_historical _data USDCHF,H1: Data Download Done!
+0	17:00:04.078	get_historical _data EURUSD,H1: Data Download Done!
+0	17:00:04.152	get_historical _data USDCAD,H1: Data Download Done!
+0	17:01:01.243	get_historical _data EURUSD,M1: Inside function
+0	17:01:01.487	get_historical _data EURUSD,M1: Data Download Done!
+0	17:01:01.489	get_historical _data EURUSD,M1: Inside function
+0	17:01:01.695	get_historical _data EURUSD,M1: Data Download Done!
+0	17:01:01.697	get_historical _data EURUSD,M1: Inside function
+0	17:01:01.932	get_historical _data EURUSD,M1: Data Download Done!
+0	17:01:01.934	get_historical _data EURUSD,M1: Inside function
+0	17:01:02.155	get_historical _data EURUSD,M1: Data Download Done!
+0	17:02:00.990	get_historical _data EURUSD,M1: Inside function
+0	17:02:01.286	get_historical _data EURUSD,M1: Data Download Done!
+0	17:02:01.288	get_historical _data EURUSD,M1: Inside function
+0	17:02:01.585	get_historical _data EURUSD,M1: Data Download Done!
+0	17:02:01.587	get_historical _data EURUSD,M1: Inside function
+0	17:02:02.065	get_historical _data EURUSD,M1: Data Download Done!
+0	17:02:02.067	get_historical _data EURUSD,M1: Inside function
+0	17:02:02.445	get_historical _data EURUSD,M1: Data Download Done!
+0	17:03:02.019	get_historical _data EURUSD,M1: Inside function
+0	17:03:02.257	get_historical _data EURUSD,M1: Data Download Done!
+0	17:03:02.259	get_historical _data EURUSD,M1: Inside function
+0	17:03:02.465	get_historical _data EURUSD,M1: Data Download Done!
+0	17:03:02.467	get_historical _data EURUSD,M1: Inside function
+0	17:03:02.707	get_historical _data EURUSD,M1: Data Download Done!
+0	17:03:02.708	get_historical _data EURUSD,M1: Inside function
+0	17:03:02.913	get_historical _data EURUSD,M1: Data Download Done!
+0	17:04:01.300	get_historical _data EURUSD,M1: Inside function
+0	17:04:01.540	get_historical _data EURUSD,M1: Data Download Done!
+0	17:04:01.542	get_historical _data EURUSD,M1: Inside function
+0	17:04:01.758	get_historical _data EURUSD,M1: Data Download Done!
+0	17:04:01.759	get_historical _data EURUSD,M1: Inside function
+0	17:04:01.970	get_historical _data EURUSD,M1: Data Download Done!
+0	17:04:01.971	get_historical _data EURUSD,M1: Inside function
+0	17:04:02.200	get_historical _data EURUSD,M1: Data Download Done!
+0	17:05:01.308	get_historical _data EURUSD,M1: Inside function
+0	17:05:01.637	get_historical _data EURUSD,M1: Data Download Done!
+0	17:05:01.638	get_historical _data EURUSD,M1: Inside function
+0	17:05:01.873	get_historical _data EURUSD,M1: Data Download Done!
+0	17:05:01.874	get_historical _data EURUSD,M1: Inside function
+0	17:05:02.177	get_historical _data EURUSD,M1: Data Download Done!
+0	17:05:02.179	get_historical _data EURUSD,M1: Inside function
+0	17:05:02.410	get_historical _data EURUSD,M1: Data Download Done!
+0	17:05:23.647	get_historical _data EURUSD,M1: uninit reason 3
+0	17:05:23.652	get_historical _data EURUSD,H1: Before initializing R
+0	17:05:23.953	get_historical _data EURUSD,H1: Before function
+0	17:05:24.869	get_historical _data EURUSD,H1: Inside function
+0	17:05:25.152	get_historical _data EURUSD,H1: Data Download Done!
+0	17:05:25.152	get_historical _data EURUSD,H1: After function
+0	17:05:25.152	get_historical _data EURUSD,H1: initialized
+0	17:05:25.153	get_historical _data EURUSD,H1: Inside function
+0	17:05:25.394	get_historical _data EURUSD,H1: Data Download Done!
+0	17:05:25.396	get_historical _data EURUSD,H1: Inside function
+0	17:05:25.676	get_historical _data EURUSD,H1: Data Download Done!
+0	17:05:25.678	get_historical _data EURUSD,H1: Inside function
+0	17:05:25.955	get_historical _data EURUSD,H1: Data Download Done!
+0	17:05:25.957	get_historical _data EURUSD,H1: Inside function
+0	17:05:26.171	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:01.052	get_historical _data USDCAD,H1: Inside function
+0	18:00:01.080	get_historical _data USDCAD,H4: Inside function
+0	18:00:01.308	get_historical _data USDCHF,H1: Inside function
+0	18:00:01.315	get_historical _data GBPUSD,H4: Inside function
+0	18:00:01.316	get_historical _data GBPUSD,H1: Inside function
+0	18:00:01.326	get_historical _data NZDUSD,H4: Inside function
+0	18:00:01.346	get_historical _data USDCHF,H4: Inside function
+0	18:00:01.614	get_historical _data AUDUSD,H4: Inside function
+0	18:00:01.653	get_historical _data AUDUSD,H4: Inside function
+0	18:00:01.805	get_historical _data USDJPY,H4: Inside function
+0	18:00:02.075	get_historical _data USDCAD,H1: Data Download Done!
+0	18:00:02.077	get_historical _data USDCAD,H1: Inside function
+0	18:00:02.362	get_historical _data USDCAD,H4: Data Download Done!
+0	18:00:02.363	get_historical _data USDCAD,H4: Inside function
+0	18:00:02.713	get_historical _data GBPUSD,H1: Data Download Done!
+0	18:00:02.715	get_historical _data GBPUSD,H1: Inside function
+0	18:00:02.811	get_historical _data EURUSD,H1: Inside function
+0	18:00:02.813	get_historical _data EURUSD,H1: Inside function
+0	18:00:03.157	get_historical _data NZDUSD,H4: Data Download Done!
+0	18:00:03.159	get_historical _data NZDUSD,H4: Inside function
+0	18:00:03.175	get_historical _data GBPUSD,H4: Data Download Done!
+0	18:00:03.177	get_historical _data GBPUSD,H4: Inside function
+0	18:00:03.220	get_historical _data USDCHF,H4: Data Download Done!
+0	18:00:03.222	get_historical _data USDCHF,H4: Inside function
+0	18:00:03.412	get_historical _data USDCAD,H1: Data Download Done!
+0	18:00:03.415	get_historical _data USDCAD,H1: Inside function
+0	18:00:03.485	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:03.487	get_historical _data AUDUSD,H4: Inside function
+0	18:00:03.701	get_historical _data USDCHF,H1: Data Download Done!
+0	18:00:03.703	get_historical _data USDCHF,H1: Inside function
+0	18:00:03.713	get_historical _data USDJPY,H4: Data Download Done!
+0	18:00:03.715	get_historical _data USDJPY,H4: Inside function
+0	18:00:03.775	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:03.777	get_historical _data AUDUSD,H4: Inside function
+0	18:00:04.257	get_historical _data USDCAD,H4: Data Download Done!
+0	18:00:04.259	get_historical _data USDCAD,H4: Inside function
+0	18:00:04.455	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:04.475	get_historical _data GBPUSD,H1: Data Download Done!
+0	18:00:04.477	get_historical _data GBPUSD,H1: Inside function
+0	18:00:04.595	get_historical _data EURUSD,H1: Inside function
+0	18:00:04.784	get_historical _data GBPUSD,H4: Data Download Done!
+0	18:00:04.786	get_historical _data GBPUSD,H4: Inside function
+0	18:00:04.878	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:04.880	get_historical _data EURUSD,H1: Inside function
+0	18:00:05.019	get_historical _data USDCHF,H4: Data Download Done!
+0	18:00:05.020	get_historical _data USDCHF,H4: Inside function
+0	18:00:05.133	get_historical _data NZDUSD,H4: Data Download Done!
+0	18:00:05.135	get_historical _data NZDUSD,H4: Inside function
+0	18:00:05.283	get_historical _data USDCAD,H1: Data Download Done!
+0	18:00:05.285	get_historical _data USDCAD,H1: Inside function
+0	18:00:05.308	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:05.310	get_historical _data AUDUSD,H4: Inside function
+0	18:00:05.331	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:05.336	get_historical _data AUDUSD,H4: Inside function
+0	18:00:05.528	get_historical _data USDCHF,H1: Data Download Done!
+0	18:00:05.529	get_historical _data USDCHF,H1: Inside function
+0	18:00:05.793	get_historical _data USDJPY,H4: Data Download Done!
+0	18:00:05.794	get_historical _data USDJPY,H4: Inside function
+0	18:00:05.848	get_historical _data USDCAD,H4: Data Download Done!
+0	18:00:05.851	get_historical _data USDCAD,H4: Inside function
+0	18:00:06.178	get_historical _data GBPUSD,H4: Data Download Done!
+0	18:00:06.183	get_historical _data GBPUSD,H4: Inside function
+0	18:00:06.248	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:06.250	get_historical _data EURUSD,H1: Inside function
+0	18:00:06.405	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:06.407	get_historical _data EURUSD,H1: Inside function
+0	18:00:06.426	get_historical _data USDCHF,H4: Data Download Done!
+0	18:00:06.427	get_historical _data USDCHF,H4: Inside function
+0	18:00:06.622	get_historical _data GBPUSD,H1: Data Download Done!
+0	18:00:06.624	get_historical _data GBPUSD,H1: Inside function
+0	18:00:06.779	get_historical _data USDCAD,H1: Data Download Done!
+0	18:00:06.968	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:06.969	get_historical _data USDCHF,H1: Data Download Done!
+0	18:00:06.970	get_historical _data AUDUSD,H4: Inside function
+0	18:00:06.970	get_historical _data USDCHF,H1: Inside function
+0	18:00:07.012	get_historical _data NZDUSD,H4: Data Download Done!
+0	18:00:07.014	get_historical _data NZDUSD,H4: Inside function
+0	18:00:07.087	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:07.089	get_historical _data AUDUSD,H4: Inside function
+0	18:00:07.385	get_historical _data USDCAD,H4: Data Download Done!
+0	18:00:07.431	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:07.433	get_historical _data EURUSD,H1: Inside function
+0	18:00:07.445	get_historical _data USDJPY,H4: Data Download Done!
+0	18:00:07.449	get_historical _data USDJPY,H4: Inside function
+0	18:00:07.627	get_historical _data GBPUSD,H4: Data Download Done!
+0	18:00:07.681	get_historical _data USDCHF,H4: Data Download Done!
+0	18:00:07.720	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:07.721	get_historical _data EURUSD,H1: Inside function
+0	18:00:07.831	get_historical _data GBPUSD,H1: Data Download Done!
+0	18:00:08.121	get_historical _data EURUSD,H1: Data Download Done!
+0	18:00:08.135	get_historical _data NZDUSD,H4: Data Download Done!
+0	18:00:08.144	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:08.171	get_historical _data AUDUSD,H4: Data Download Done!
+0	18:00:08.204	get_historical _data USDCHF,H1: Data Download Done!
+0	18:00:08.217	get_historical _data USDJPY,H4: Data Download Done!
+0	18:00:08.240	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:00.883	get_historical _data USDCHF,H1: Inside function
+0	19:00:00.883	get_historical _data USDCAD,H1: Inside function
+0	19:00:01.225	get_historical _data USDCHF,H1: Data Download Done!
+0	19:00:01.226	get_historical _data USDCHF,H1: Inside function
+0	19:00:01.230	get_historical _data USDCAD,H1: Data Download Done!
+0	19:00:01.231	get_historical _data USDCAD,H1: Inside function
+0	19:00:01.375	get_historical _data GBPUSD,H1: Inside function
+0	19:00:01.375	get_historical _data EURUSD,H1: Inside function
+0	19:00:01.390	get_historical _data EURUSD,H1: Inside function
+0	19:00:01.890	get_historical _data USDCAD,H1: Data Download Done!
+0	19:00:01.892	get_historical _data USDCAD,H1: Inside function
+0	19:00:01.933	get_historical _data USDCHF,H1: Data Download Done!
+0	19:00:01.940	get_historical _data USDCHF,H1: Inside function
+0	19:00:02.070	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:02.071	get_historical _data EURUSD,H1: Inside function
+0	19:00:02.160	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:02.162	get_historical _data EURUSD,H1: Inside function
+0	19:00:02.209	get_historical _data GBPUSD,H1: Data Download Done!
+0	19:00:02.222	get_historical _data GBPUSD,H1: Inside function
+0	19:00:02.574	get_historical _data USDCAD,H1: Data Download Done!
+0	19:00:02.576	get_historical _data USDCAD,H1: Inside function
+0	19:00:02.675	get_historical _data USDCHF,H1: Data Download Done!
+0	19:00:02.676	get_historical _data USDCHF,H1: Inside function
+0	19:00:02.817	get_historical _data GBPUSD,H1: Data Download Done!
+0	19:00:02.818	get_historical _data GBPUSD,H1: Inside function
+0	19:00:02.843	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:02.844	get_historical _data EURUSD,H1: Inside function
+0	19:00:03.008	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:03.011	get_historical _data EURUSD,H1: Inside function
+0	19:00:03.191	get_historical _data USDCAD,H1: Data Download Done!
+0	19:00:03.317	get_historical _data GBPUSD,H1: Data Download Done!
+0	19:00:03.319	get_historical _data GBPUSD,H1: Inside function
+0	19:00:03.345	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:03.347	get_historical _data EURUSD,H1: Inside function
+0	19:00:03.399	get_historical _data USDCHF,H1: Data Download Done!
+0	19:00:03.519	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:03.521	get_historical _data EURUSD,H1: Inside function
+0	19:00:03.723	get_historical _data GBPUSD,H1: Data Download Done!
+0	19:00:03.742	get_historical _data EURUSD,H1: Data Download Done!
+0	19:00:03.854	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:01.232	get_historical _data USDCHF,H1: Inside function
+0	20:00:01.232	get_historical _data EURUSD,H1: Inside function
+0	20:00:01.232	get_historical _data EURUSD,H1: Inside function
+0	20:00:01.476	get_historical _data USDCAD,H1: Inside function
+0	20:00:01.742	get_historical _data USDCHF,H1: Data Download Done!
+0	20:00:01.745	get_historical _data USDCHF,H1: Inside function
+0	20:00:01.746	get_historical _data GBPUSD,H1: Inside function
+0	20:00:01.796	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:01.798	get_historical _data EURUSD,H1: Inside function
+0	20:00:02.003	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:02.005	get_historical _data EURUSD,H1: Inside function
+0	20:00:02.286	get_historical _data USDCAD,H1: Data Download Done!
+0	20:00:02.288	get_historical _data USDCAD,H1: Inside function
+0	20:00:02.364	get_historical _data GBPUSD,H1: Data Download Done!
+0	20:00:02.366	get_historical _data GBPUSD,H1: Inside function
+0	20:00:02.412	get_historical _data USDCHF,H1: Data Download Done!
+0	20:00:02.413	get_historical _data USDCHF,H1: Inside function
+0	20:00:02.627	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:02.629	get_historical _data EURUSD,H1: Inside function
+0	20:00:02.702	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:02.704	get_historical _data EURUSD,H1: Inside function
+0	20:00:02.965	get_historical _data USDCAD,H1: Data Download Done!
+0	20:00:02.967	get_historical _data USDCAD,H1: Inside function
+0	20:00:02.968	get_historical _data USDCHF,H1: Data Download Done!
+0	20:00:02.970	get_historical _data USDCHF,H1: Inside function
+0	20:00:03.136	get_historical _data GBPUSD,H1: Data Download Done!
+0	20:00:03.138	get_historical _data GBPUSD,H1: Inside function
+0	20:00:03.292	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:03.294	get_historical _data EURUSD,H1: Inside function
+0	20:00:03.356	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:03.357	get_historical _data EURUSD,H1: Inside function
+0	20:00:03.596	get_historical _data USDCAD,H1: Data Download Done!
+0	20:00:03.598	get_historical _data USDCAD,H1: Inside function
+0	20:00:03.609	get_historical _data USDCHF,H1: Data Download Done!
+0	20:00:03.793	get_historical _data GBPUSD,H1: Data Download Done!
+0	20:00:03.795	get_historical _data GBPUSD,H1: Inside function
+0	20:00:03.800	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:03.850	get_historical _data EURUSD,H1: Data Download Done!
+0	20:00:04.103	get_historical _data USDCAD,H1: Data Download Done!
+0	20:00:04.150	get_historical _data GBPUSD,H1: Data Download Done!
+0	21:00:01.133	get_historical _data GBPUSD,H1: Inside function
+0	21:00:01.519	get_historical _data GBPUSD,H1: Data Download Done!
+0	21:00:01.521	get_historical _data GBPUSD,H1: Inside function
+0	21:00:01.628	get_historical _data EURUSD,H1: Inside function
+0	21:00:01.628	get_historical _data EURUSD,H1: Inside function
+0	21:00:01.939	get_historical _data GBPUSD,H1: Data Download Done!
+0	21:00:01.941	get_historical _data GBPUSD,H1: Inside function
+0	21:00:02.080	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:02.082	get_historical _data EURUSD,H1: Inside function
+0	21:00:02.115	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:02.117	get_historical _data EURUSD,H1: Inside function
+0	21:00:02.280	get_historical _data GBPUSD,H1: Data Download Done!
+0	21:00:02.281	get_historical _data GBPUSD,H1: Inside function
+0	21:00:02.472	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:02.475	get_historical _data EURUSD,H1: Inside function
+0	21:00:02.518	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:02.520	get_historical _data EURUSD,H1: Inside function
+0	21:00:02.699	get_historical _data GBPUSD,H1: Data Download Done!
+0	21:00:02.886	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:02.888	get_historical _data EURUSD,H1: Inside function
+0	21:00:02.903	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:02.905	get_historical _data EURUSD,H1: Inside function
+0	21:00:03.290	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:03.292	get_historical _data EURUSD,H1: Data Download Done!
+0	21:00:03.641	get_historical _data USDCAD,H1: Inside function
+0	21:00:03.914	get_historical _data USDCAD,H1: Data Download Done!
+0	21:00:03.916	get_historical _data USDCAD,H1: Inside function
+0	21:00:04.202	get_historical _data USDCAD,H1: Data Download Done!
+0	21:00:04.204	get_historical _data USDCAD,H1: Inside function
+0	21:00:04.452	get_historical _data USDCAD,H1: Data Download Done!
+0	21:00:04.454	get_historical _data USDCAD,H1: Inside function
+0	21:00:04.674	get_historical _data USDCAD,H1: Data Download Done!
+0	21:00:06.229	get_historical _data USDCHF,H1: Inside function
+0	21:00:06.684	get_historical _data USDCHF,H1: Data Download Done!
+0	21:00:06.686	get_historical _data USDCHF,H1: Inside function
+0	21:00:06.938	get_historical _data USDCHF,H1: Data Download Done!
+0	21:00:06.939	get_historical _data USDCHF,H1: Inside function
+0	21:00:07.158	get_historical _data USDCHF,H1: Data Download Done!
+0	21:00:07.159	get_historical _data USDCHF,H1: Inside function
+0	21:00:07.403	get_historical _data USDCHF,H1: Data Download Done!
+0	22:00:01.424	get_historical _data EURUSD,H1: Inside function
+0	22:00:01.424	get_historical _data AUDUSD,H4: Inside function
+0	22:00:01.424	get_historical _data EURUSD,H1: Inside function
+0	22:00:01.424	get_historical _data AUDUSD,H4: Inside function
+0	22:00:01.426	get_historical _data GBPUSD,H1: Inside function
+0	22:00:01.428	get_historical _data GBPUSD,H4: Inside function
+0	22:00:01.599	get_historical _data USDJPY,H4: Inside function
+0	22:00:01.613	get_historical _data USDCHF,H1: Inside function
+0	22:00:01.620	get_historical _data NZDUSD,H4: Inside function
+0	22:00:01.621	get_historical _data USDCHF,H4: Inside function
+0	22:00:01.975	get_historical _data USDCAD,H4: Inside function
+0	22:00:01.976	get_historical _data USDCAD,H1: Inside function
+0	22:00:02.902	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:02.904	get_historical _data AUDUSD,H4: Inside function
+0	22:00:03.038	get_historical _data GBPUSD,H1: Data Download Done!
+0	22:00:03.041	get_historical _data GBPUSD,H1: Inside function
+0	22:00:03.206	get_historical _data GBPUSD,H4: Data Download Done!
+0	22:00:03.208	get_historical _data GBPUSD,H4: Inside function
+0	22:00:03.268	get_historical _data NZDUSD,H4: Data Download Done!
+0	22:00:03.270	get_historical _data NZDUSD,H4: Inside function
+0	22:00:03.402	get_historical _data USDJPY,H4: Data Download Done!
+0	22:00:03.404	get_historical _data USDJPY,H4: Inside function
+0	22:00:03.448	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:03.450	get_historical _data AUDUSD,H4: Inside function
+0	22:00:03.470	get_historical _data USDCHF,H4: Data Download Done!
+0	22:00:03.472	get_historical _data USDCHF,H4: Inside function
+0	22:00:03.667	get_historical _data EURUSD,H1: Data Download Done!
+0	22:00:03.669	get_historical _data EURUSD,H1: Inside function
+0	22:00:03.790	get_historical _data EURUSD,H1: Data Download Done!
+0	22:00:03.791	get_historical _data EURUSD,H1: Inside function
+0	22:00:03.846	get_historical _data USDCHF,H1: Data Download Done!
+0	22:00:03.850	get_historical _data USDCHF,H1: Inside function
+0	22:00:04.000	get_historical _data USDCAD,H4: Data Download Done!
+0	22:00:04.002	get_historical _data USDCAD,H4: Inside function
+0	22:00:04.108	get_historical _data USDCAD,H1: Data Download Done!
+0	22:00:04.110	get_historical _data USDCAD,H1: Inside function
+0	22:00:04.326	get_historical _data GBPUSD,H1: Data Download Done!
+0	22:00:04.328	get_historical _data GBPUSD,H1: Inside function
+0	22:00:04.398	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:04.400	get_historical _data AUDUSD,H4: Inside function
+0	22:00:04.540	get_historical _data NZDUSD,H4: Data Download Done!
+0	22:00:04.542	get_historical _data NZDUSD,H4: Inside function
+0	22:00:04.686	get_historical _data USDCHF,H4: Data Download Done!
+0	22:00:04.687	get_historical _data USDCHF,H4: Inside function
+0	22:00:04.690	get_historical _data USDJPY,H4: Data Download Done!
+0	22:00:04.703	get_historical _data USDJPY,H4: Inside function
+0	22:00:04.836	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:04.837	get_historical _data AUDUSD,H4: Inside function
+0	22:00:05.071	get_historical _data GBPUSD,H4: Data Download Done!
+0	22:00:05.072	get_historical _data GBPUSD,H4: Inside function
+0	22:00:05.087	get_historical _data EURUSD,H1: Data Download Done!
+0	22:00:05.088	get_historical _data EURUSD,H1: Inside function
+0	22:00:05.430	get_historical _data EURUSD,H1: Data Download Done!
+0	22:00:05.432	get_historical _data EURUSD,H1: Inside function
+0	22:00:05.512	get_historical _data USDCAD,H4: Data Download Done!
+0	22:00:05.520	get_historical _data USDCAD,H4: Inside function
+0	22:00:05.606	get_historical _data USDCHF,H1: Data Download Done!
+0	22:00:05.607	get_historical _data USDCHF,H1: Inside function
+0	22:00:05.788	get_historical _data GBPUSD,H1: Data Download Done!
+0	22:00:05.790	get_historical _data GBPUSD,H1: Inside function
+0	22:00:05.819	get_historical _data USDCAD,H1: Data Download Done!
+0	22:00:05.821	get_historical _data USDCAD,H1: Inside function
+0	22:00:05.838	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:05.843	get_historical _data AUDUSD,H4: Inside function
+0	22:00:05.869	get_historical _data USDJPY,H4: Data Download Done!
+0	22:00:05.871	get_historical _data USDJPY,H4: Inside function
+0	22:00:06.224	get_historical _data NZDUSD,H4: Data Download Done!
+0	22:00:06.226	get_historical _data NZDUSD,H4: Inside function
+0	22:00:06.267	get_historical _data USDCHF,H4: Data Download Done!
+0	22:00:06.269	get_historical _data USDCHF,H4: Inside function
+0	22:00:06.499	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:06.500	get_historical _data AUDUSD,H4: Inside function
+0	22:00:06.570	get_historical _data USDCHF,H1: Data Download Done!
+0	22:00:06.572	get_historical _data USDCHF,H1: Inside function
+0	22:00:06.668	get_historical _data EURUSD,H1: Data Download Done!
+0	22:00:06.670	get_historical _data EURUSD,H1: Inside function
+0	22:00:06.775	get_historical _data GBPUSD,H4: Data Download Done!
+0	22:00:06.777	get_historical _data GBPUSD,H4: Inside function
+0	22:00:07.008	get_historical _data USDCAD,H1: Data Download Done!
+0	22:00:07.010	get_historical _data USDCAD,H1: Inside function
+0	22:00:07.034	get_historical _data USDJPY,H4: Data Download Done!
+0	22:00:07.058	get_historical _data USDCAD,H4: Data Download Done!
+0	22:00:07.060	get_historical _data USDCAD,H4: Inside function
+0	22:00:07.176	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:07.176	get_historical _data EURUSD,H1: Data Download Done!
+0	22:00:07.179	get_historical _data EURUSD,H1: Inside function
+0	22:00:07.305	get_historical _data GBPUSD,H1: Data Download Done!
+0	22:00:07.413	get_historical _data USDCHF,H4: Data Download Done!
+0	22:00:07.466	get_historical _data NZDUSD,H4: Data Download Done!
+0	22:00:07.501	get_historical _data AUDUSD,H4: Data Download Done!
+0	22:00:07.623	get_historical _data USDCHF,H1: Data Download Done!
+0	22:00:07.641	get_historical _data EURUSD,H1: Data Download Done!
+0	22:00:07.734	get_historical _data USDCAD,H1: Data Download Done!
+0	22:00:07.736	get_historical _data GBPUSD,H4: Data Download Done!
+0	22:00:07.750	get_historical _data USDCAD,H4: Data Download Done!
+0	22:00:07.794	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:04.506	get_historical _data EURUSD,H1: Inside function
+0	23:05:04.506	get_historical _data EURUSD,H1: Inside function
+0	23:05:04.542	get_historical _data USDCHF,H1: Inside function
+0	23:05:04.937	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:04.939	get_historical _data EURUSD,H1: Inside function
+0	23:05:04.961	get_historical _data USDCHF,H1: Data Download Done!
+0	23:05:04.962	get_historical _data USDCHF,H1: Inside function
+0	23:05:05.029	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:05.031	get_historical _data EURUSD,H1: Inside function
+0	23:05:05.072	get_historical _data GBPUSD,H1: Inside function
+0	23:05:05.072	get_historical _data USDCAD,H1: Inside function
+0	23:05:05.527	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:05.529	get_historical _data EURUSD,H1: Inside function
+0	23:05:05.558	get_historical _data GBPUSD,H1: Data Download Done!
+0	23:05:05.560	get_historical _data GBPUSD,H1: Inside function
+0	23:05:05.589	get_historical _data USDCHF,H1: Data Download Done!
+0	23:05:05.591	get_historical _data USDCHF,H1: Inside function
+0	23:05:05.652	get_historical _data USDCAD,H1: Data Download Done!
+0	23:05:05.653	get_historical _data USDCAD,H1: Inside function
+0	23:05:05.740	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:05.742	get_historical _data EURUSD,H1: Inside function
+0	23:05:06.066	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:06.068	get_historical _data EURUSD,H1: Inside function
+0	23:05:06.161	get_historical _data GBPUSD,H1: Data Download Done!
+0	23:05:06.162	get_historical _data USDCAD,H1: Data Download Done!
+0	23:05:06.163	get_historical _data GBPUSD,H1: Inside function
+0	23:05:06.164	get_historical _data USDCAD,H1: Inside function
+0	23:05:06.209	get_historical _data USDCHF,H1: Data Download Done!
+0	23:05:06.211	get_historical _data USDCHF,H1: Inside function
+0	23:05:06.343	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:06.344	get_historical _data EURUSD,H1: Inside function
+0	23:05:06.670	get_historical _data USDCHF,H1: Data Download Done!
+0	23:05:06.693	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:06.695	get_historical _data GBPUSD,H1: Data Download Done!
+0	23:05:06.697	get_historical _data GBPUSD,H1: Inside function
+0	23:05:06.755	get_historical _data USDCAD,H1: Data Download Done!
+0	23:05:06.757	get_historical _data USDCAD,H1: Inside function
+0	23:05:06.770	get_historical _data EURUSD,H1: Data Download Done!
+0	23:05:07.022	get_historical _data GBPUSD,H1: Data Download Done!
+0	23:05:07.075	get_historical _data USDCAD,H1: Data Download Done!
